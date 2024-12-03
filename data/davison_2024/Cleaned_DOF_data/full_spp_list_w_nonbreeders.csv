@@ -1,0 +1,282 @@
+dof_id,euring_id,species_euring_id,latin,common,type,iucn,iba_amnt,times_seen,breeding_status,last_confirmed_breeding,invasive,Atlas_III_squares_with_breeding,use_in_analysis
+3,00020,00020,Gavia stellata,Red-throated Loon,species,LC,3000,24,NA,NA,NA,NA,0
+5,00030,00030,Gavia arctica,Black-throated Loon,species,LC,3500,38,NA,NA,NA,NA,0
+13,00070,00070,Tachybaptus ruficollis,Little Grebe,species,LC,4700,1716,Regular,2017,NA,812,1
+18,00090,00090,Podiceps cristatus,Great Crested Grebe,species,LC,6300,5763,Regular,2017,NA,489,1
+20,00100,00100,Podiceps grisegena,Red-necked Grebe,species,LC,500,1799,Regular,2017,NA,657,1
+23,00110,00110,Podiceps auritus,Horned Grebe,species,VU,50,17,Regionally extinct,2006,NA,1,1
+25,00120,00120,Podiceps nigricollis,Black-necked Grebe,species,LC,1800,81,Regular,2017,NA,48,1
+30,00140,00140,Thalassarche melanophris,Black-browed Albatross,species,NT,NA,1,NA,NA,NA,NA,0
+139,00710,00710,Morus bassanus,Northern Gannet,species,LC,NA,11,NA,NA,NA,NA,0
+143,00720,00720,Phalacrocorax carbo,Great Cormorant,species,LC,6200,14367,Regular,2017,NA,109,1
+158,00800,00800,Phalacrocorax aristotelis,European Shag,species,LC,NA,11,NA,NA,NA,NA,0
+183,00950,00950,Botaurus stellaris,Eurasian Bittern,species,LC,80,464,Regular,2017,NA,206,1
+218,01190,01190,Egretta garzetta,Little Egret,species,LC,1100,2,NA,NA,NA,NA,0
+222,01210,01210,Ardea alba,Great Egret,species,LC,780,88,Occasional,2016,NA,3,1
+227,01220,01220,Ardea cinerea,Grey Heron,species,LC,5000,19008,NA,NA,NA,290,1
+244,01310,01310,Ciconia nigra,Black Stork,species,LC,310,4,Regionally extinct,1983-86,NA,0,1
+247,01340,01340,Ciconia ciconia,White Stork,species,LC,5200,34,Regular,2017,NA,3,1
+263,01440,01440,Platalea leucorodia,Eurasian Spoonbill,species,LC,160,53,Regular,2017,NA,14,1
+284,01520,01520,Cygnus olor,Mute Swan,species,LC,2000,16228,Regular,2017,NA,1175,1
+285,01525,01525,Cygnus atratus,Black Swan,species,LC,NA,1,NA,NA,NA,NA,0
+286,01530,01530,Cygnus columbianus,Tundra Swan,species,LC,220,165,NA,NA,NA,NA,0
+290,01540,01540,Cygnus cygnus,Whooper Swan,species,LC,1200,6312,Regular,2017,NA,11,1
+293,01560,01560,Anser cygnoides,Swan Goose,species,VU,NA,3,NA,NA,NA,NA,0
+295,01571,01571,Anser fabalis,Taiga Bean Goose,species,LC,520,8,NA,NA,NA,NA,0
+298,01574,01574,Anser serrirostris,Tundra Bean Goose,species,LC,5500,5,NA,NA,NA,NA,0
+301,01580,01580,Anser brachyrhynchus,Pink-footed Goose,species,LC,860,724,NA,NA,NA,NA,0
+302,01590,01590,Anser albifrons,Greater White-fronted Goose,species,LC,12000,260,NA,NA,NA,NA,0
+306,01600,01600,Anser erythropus,Lesser White-fronted Goose,species,VU,1,1,NA,NA,NA,NA,0
+307,01610,01610,Anser anser,Greylag Goose,species,LC,9600,10486,Regular,2017,NA,1115,1
+311,01620,01620,Anser indicus,Bar-headed Goose,species,LC,NA,5,NA,NA,NA,NA,0
+312,01630,01630,Anser caerulescens,Snow Goose,species,LC,NA,1,NA,NA,NA,1,1
+321,01660,01660,Branta canadensis,Canada Goose,species,LC,NA,1062,Regular,2017,1,20,1
+328,01670,01670,Branta leucopsis,Barnacle Goose,species,LC,12000,1284,Regular,2017,NA,20,1
+330,01680,01680,Branta bernicla,Brant Goose,species,LC,2200,305,NA,NA,NA,NA,0
+339,01700,01700,Alopochen aegyptiaca,Egyptian Goose,species,LC,NA,29,Regular,2017,1,38,1
+345,01730,01730,Tadorna tadorna,Common Shelduck,species,LC,2500,11281,Regular,2017,NA,880,1
+350,01750,01750,Cairina moschata,Muscovy Duck,species,LC,NA,6,NA,NA,NA,NA,0
+353,01780,01780,Aix galericulata,Mandarin Duck,species,LC,NA,5,Occasional,2006,1,NA,0
+354,01790,01790,Mareca penelope,Eurasian Wigeon,species,LC,14000,1072,NA,NA,NA,1,1
+361,01820,01820,Mareca strepera,Gadwall,species,LC,1200,351,NA,NA,NA,184,1
+363,01830,01830,Sibirionetta formosa,Baikal Teal,species,LC,NA,2,NA,NA,NA,NA,0
+365,01840,01840,Anas crecca,Eurasian Teal,species,LC,5000,984,Regular,2017,NA,62,1
+371,01860,01860,Anas platyrhynchos,Mallard,species,LC,53000,34919,Regular,2017,NA,1644,1
+375,01890,01890,Anas acuta,Northern Pintail,species,LC,600,82,Regular,2017,NA,22,1
+378,01910,01910,Spatula querquedula,Garganey,species,LC,13400,133,NA,NA,NA,88,1
+383,01940,01940,Spatula clypeata,Northern Shoveler,species,LC,650,691,NA,NA,NA,187,1
+386,01960,01960,Netta rufina,Red-crested Pochard,species,LC,550,14,Regular,2017,NA,3,1
+389,01980,01980,Aythya ferina,Common Pochard,species,VU,2000,1420,Regular,2017,NA,157,1
+397,02030,02030,Aythya fuligula,Tufted Duck,species,LC,8900,5843,Regular,2017,NA,333,1
+399,02040,02040,Aythya marila,Greater Scaup,species,LC,3100,76,Occasional,2006,NA,0,0
+403,02060,02060,Somateria mollissima,Common Eider,species,NT,9800,3977,Regular,2017,NA,167,1
+414,02120,02120,Clangula hyemalis,Long-tailed Duck,species,VU,16000,169,NA,NA,NA,NA,0
+415,02130,02130,Melanitta nigra,Common Scoter,species,LC,7500,267,NA,NA,NA,NA,0
+419,02150,02150,Melanitta fusca,Velvet Scoter,species,VU,4000,65,NA,NA,NA,NA,0
+424,02180,02180,Bucephala clangula,Common Goldeneye,species,LC,11400,4745,Regular,2017,NA,49,1
+427,02200,02200,Mergellus albellus,Smew,species,LC,300,342,NA,NA,NA,NA,0
+428,02210,02210,Mergus serrator,Red-breasted Merganser,species,LC,860,3364,Regular,2017,NA,221,1
+431,02230,02230,Mergus merganser,Common Merganser,species,LC,2100,3264,Regular,2017,NA,81,1
+445,02310,02310,Pernis apivorus,European Honey Buzzard,species,LC,NA,558,Regular,2017,NA,313,1
+456,02380,02380,Milvus migrans,Black Kite,species,LC,NA,9,NA,NA,NA,0,0
+462,02390,02390,Milvus milvus,Red Kite,species,LC,NA,527,Regular,2017,NA,274,1
+469,02430,02430,Haliaeetus albicilla,White-tailed Eagle,species,LC,NA,604,Regular,2017,NA,111,1
+490,02600,02600,Circus aeruginosus,Western Marsh Harrier,species,LC,NA,2442,Regular,2017,NA,685,1
+493,02610,02610,Circus cyaneus,Hen Harrier,species,LC,NA,1097,Occasional,2002,NA,0,1
+498,02630,02630,Circus pygargus,Montagu's Harrier,species,LC,NA,89,Regular,2017,NA,34,1
+504,02670,02670,Accipiter gentilis,Northern Goshawk,species,LC,NA,980,Regular,2017,NA,438,1
+510,02690,02690,Accipiter nisus,Eurasian Sparrowhawk,species,LC,NA,4915,Regular,2017,NA,753,1
+534,02870,02870,Buteo buteo,Common Buzzard,species,LC,NA,35734,Regular,2017,NA,1629,1
+542,02900,02900,Buteo lagopus,Rough-legged Buzzard,species,LC,NA,1818,NA,NA,NA,NA,0
+559,02960,02960,Aquila chrysaetos,Golden Eagle,species,LC,NA,43,Regular,2017,NA,5,1
+566,03010,03010,Pandion haliaetus,Western Osprey,species,LC,NA,167,Regular,2017,NA,6,1
+568,03030,03030,Falco naumanni,Lesser Kestrel,species,LC,NA,1,NA,NA,NA,NA,0
+569,03040,03040,Falco tinnunculus,Common Kestrel,species,LC,NA,9941,Regular,2017,NA,1123,1
+572,03070,03070,Falco vespertinus,Red-footed Falcon,species,NT,NA,11,NA,NA,NA,0,0
+574,03090,03090,Falco columbarius,Merlin,species,LC,NA,93,NA,NA,NA,0,0
+580,03100,03100,Falco subbuteo,Eurasian Hobby,species,LC,NA,40,Regular,2017,NA,26,1
+596,03180,03180,Falco rusticolus,Gyrfalcon,species,LC,NA,1,NA,NA,NA,NA,0
+599,03200,03200,Falco peregrinus,Peregrine Falcon,species,LC,NA,143,Regular,2017,NA,15,1
+625,03320,03320,Lyrurus tetrix,Black Grouse,species,LC,NA,10,Regionally extinct,1988,NA,0,1
+683,03670,03670,Perdix perdix,Grey Partridge,species,LC,NA,3160,Regular,2017,NA,843,1
+690,03700,03700,Coturnix coturnix,Common Quail,species,LC,NA,240,Regular,2017,NA,702,1
+721,03940,03940,Phasianus colchicus,Common Pheasant,species,LC,NA,65896,Regular,2017,1,1779,1
+741,04070,04070,Rallus aquaticus,Water Rail,species,LC,6400,893,Regular,2017,NA,631,1
+745,04080,04080,Porzana porzana,Spotted Crake,species,LC,6000,19,Regular,2017,NA,82,1
+761,04210,04210,Crex crex,Corn Crake,species,LC,NA,37,Regular,2017,NA,165,1
+764,04240,04240,Gallinula chloropus,Common Moorhen,species,LC,37100,4811,Regular,2017,NA,1231,1
+775,04290,04290,Fulica atra,Eurasian Coot,species,LC,15500,19267,Regular,2017,NA,1354,1
+782,04330,04330,Grus grus,Common Crane,species,LC,3500,373,Regular,2017,NA,263,1
+817,04500,04500,Haematopus ostralegus,Eurasian Oystercatcher,species,NT,8200,6853,Regular,2017,NA,919,1
+829,04560,04560,Recurvirostra avosetta,Pied Avocet,species,LC,940,853,Regular,2017,NA,212,1
+852,04690,04690,Charadrius dubius,Little Ringed Plover,species,LC,3100,152,Regular,2017,NA,399,1
+853,04700,04700,Charadrius hiaticula,Common Ringed Plover,species,LC,4740,792,Regular,2017,NA,491,1
+865,04770,04770,Charadrius alexandrinus,Kentish Plover,species,LC,660,39,Regular,2017,NA,9,1
+876,04820,04820,Charadrius morinellus,Eurasian Dotterel,species,LC,690,28,NA,NA,NA,0,0
+883,04850,04850,Pluvialis apricaria,European Golden Plover,species,LC,11100,284,Regular,2017,NA,1,1
+886,04860,04860,Pluvialis squatarola,Grey Plover,species,LC,2000,56,NA,NA,NA,NA,0
+894,04930,04930,Vanellus vanellus,Northern Lapwing,species,NT,72300,21045,Regular,2017,NA,1819,1
+898,04960,04960,Calidris canutus,Red Knot,species,NT,7800,17,NA,NA,NA,NA,0
+902,04970,04970,Calidris alba,Sanderling,species,LC,2000,29,NA,NA,NA,NA,0
+906,05010,05010,Calidris minuta,Little Stint,species,LC,3000,10,NA,NA,NA,NA,0
+909,05020,05020,Calidris temminckii,Temminck's Stint,species,LC,410,2,NA,NA,NA,NA,0
+917,05090,05090,Calidris ferruginea,Curlew Sandpiper,species,NT,4000,1,NA,NA,NA,NA,0
+918,05100,05100,Calidris maritima,Purple Sandpiper,species,LC,710,4,NA,NA,NA,NA,0
+920,05120,05120,Calidris alpina,Dunlin,species,LC,13315,384,Regular,2017,NA,22,1
+929,05140,05140,Calidris falcinellus,Broad-billed Sandpiper,species,LC,1100,2,NA,NA,NA,NA,0
+932,05170,05170,Calidris pugnax,Ruff,species,LC,22000,137,Regular,2017,NA,14,1
+933,05180,05180,Lymnocryptes minimus,Jack Snipe,species,LC,20000,19,NA,NA,NA,NA,0
+934,05190,05190,Gallinago gallinago,Common Snipe,species,LC,100000,2334,Regular,2017,NA,525,1
+951,05290,05290,Scolopax rusticola,Eurasian Woodcock,species,LC,240000,375,Regular,2017,NA,323,1
+954,05320,05320,Limosa limosa,Black-tailed Godwit,species,NT,790,260,Regular,2017,NA,44,1
+958,05340,05340,Limosa lapponica,Bar-tailed Godwit,species,NT,6500,57,NA,NA,NA,NA,0
+962,05380,05380,Numenius phaeopus,Eurasian Whimbrel,species,LC,3500,26,NA,NA,NA,NA,0
+969,05410,05410,Numenius arquata,Eurasian Curlew,species,NT,7600,1679,Regular,2017,NA,115,1
+976,05450,05450,Tringa erythropus,Spotted Redshank,species,LC,1000,52,NA,NA,NA,0,0
+978,05460,05460,Tringa totanus,Common Redshank,species,LC,4200,4475,Regular,2017,NA,558,1
+983,05480,05480,Tringa nebularia,Common Greenshank,species,LC,3300,102,NA,NA,NA,0,0
+988,05530,05530,Tringa ochropus,Green Sandpiper,species,LC,24000,277,Regular,2017,NA,31,1
+990,05540,05540,Tringa glareola,Wood Sandpiper,species,LC,18000,41,Regular,2017,NA,19,1
+992,05560,05560,Actitis hypoleucos,Common Sandpiper,species,LC,12000,325,Occasional,2015,NA,2,1
+997,05610,05610,Arenaria interpres,Ruddy Turnstone,species,LC,730,13,Regular,2017,NA,5,1
+1002,05640,05640,Phalaropus lobatus,Red-necked Phalarope,species,LC,20000,2,NA,NA,NA,NA,0
+1004,05650,05650,Phalaropus fulicarius,Red Phalarope,species,LC,15700,1,NA,NA,NA,NA,0
+1007,05660,05660,Stercorarius pomarinus,Pomarine Jaeger,species,LC,NA,1,NA,NA,NA,NA,0
+1009,05670,05670,Stercorarius parasiticus,Parasitic Jaeger,species,LC,NA,20,NA,NA,NA,0,0
+1013,05690,05690,Stercorarius skua,Great Skua,species,LC,NA,1,NA,NA,NA,NA,0
+1023,05750,05750,Ichthyaetus melanocephalus,Mediterranean Gull,species,LC,2400,2,NA,NA,NA,23,1
+1027,05780,05780,Hydrocoloeus minutus,Little Gull,species,LC,1000,35,Regular,2017,NA,1,1
+1031,05820,05820,Chroicocephalus ridibundus,Black-headed Gull,species,LC,31000,57680,Regular,2017,NA,262,1
+1041,05900,05900,Larus canus,Mew Gull,species,LC,16400,37966,Regular,2017,NA,414,1
+1045,05910,05910,Larus fuscus,Lesser Black-backed Gull,species,LC,11800,1403,Regular,2017,NA,85,1
+1051,05920,05920,Larus argentatus,European Herring Gull,species,LC,14400,50750,Regular,2017,NA,316,1
+1059,05930,05930,Larus cachinnans,Caspian Gull,species,LC,NA,6,NA,NA,NA,NA,0
+1069,05980,05980,Larus glaucoides,Iceland Gull,species,LC,2100,1,NA,NA,NA,NA,0
+1073,05990,05990,Larus hyperboreus,Glaucous Gull,species,LC,340,9,NA,NA,NA,NA,0
+1075,06000,06000,Larus marinus,Great Black-backed Gull,species,LC,3600,5798,Regular,2017,NA,148,1
+1079,06020,06020,Rissa tridactyla,Black-legged Kittiwake,species,VU,NA,52,Regular,2017,NA,3,1
+1083,06050,06050,Gelochelidon nilotica,Gull-billed Tern,species,LC,480,1,Regular,2017,NA,1,1
+1084,06060,06060,Hydroprogne caspia,Caspian Tern,species,LC,50,8,Regular,2017,NA,11,1
+1098,06110,06110,Thalasseus sandvicensis,Sandwich Tern,species,LC,1700,231,NA,NA,NA,20,1
+1108,06150,06150,Sterna hirundo,Common Tern,species,LC,11000,1250,Regular,2017,NA,130,1
+1112,06160,06160,Sterna paradisaea,Arctic Tern,species,LC,31000,1078,Regular,2017,NA,173,1
+1126,06240,06240,Sternula albifrons,Little Tern,species,LC,220,214,Regular,2017,NA,78,1
+1132,06270,06270,Chlidonias niger,Black Tern,species,LC,4000,62,Regular,2017,NA,5,1
+1145,06340,06340,Uria aalge,Common Murre,species,LC,116000,6,Regular,2017,NA,3,1
+1150,06360,06360,Alca torda,Razorbill,species,NT,15800,10,Regular,2017,NA,3,1
+1155,06380,06380,Cepphus grylle,Black Guillemot,species,LC,8060,19,Regular,2017,NA,33,1
+1174,06470,06470,Alle alle,Little Auk,species,LC,1250000,8,NA,NA,NA,NA,0
+1182,06540,06540,Fratercula arctica,Atlantic Puffin,species,VU,35000,1,NA,NA,NA,NA,0
+1205,06650,06650,Columba livia,Rock Dove,species,LC,NA,658,Regular,2017,1,NA,1
+1210,06680,06680,Columba oenas,Stock Dove,species,LC,NA,2503,Regular,2017,NA,672,1
+1212,06700,06700,Columba palumbus,Common Wood Pigeon,species,LC,NA,152387,Regular,2017,NA,2135,1
+1233,06840,06840,Streptopelia decaocto,Eurasian Collared Dove,species,LC,NA,12507,Regular,2017,NA,1519,1
+1237,06870,06870,Streptopelia turtur,European Turtle Dove,species,VU,NA,38,Regular,2017,NA,32,1
+1295,07240,07240,Cuculus canorus,Common Cuckoo,species,LC,NA,50507,Regular,2017,NA,1832,1
+1311,07350,07350,Tyto alba,Western Barn Owl,species,LC,NA,1,Regular,2017,NA,172,1
+1332,07440,07440,Bubo bubo,Eurasian Eagle-Owl,species,LC,NA,11,Regular,2017,NA,105,1
+1344,07500,07500,Surnia ulula,Northern Hawk-Owl,species,LC,NA,1,NA,NA,NA,NA,0
+1354,07570,07570,Athene noctua,Little Owl,species,LC,NA,6,Regular,2017,NA,26,1
+1362,07610,07610,Strix aluco,Tawny Owl,species,LC,NA,629,NA,NA,NA,1023,1
+1373,07670,07670,Asio otus,Long-eared Owl,species,LC,NA,150,Regular,2017,NA,595,1
+1377,07680,07680,Asio flammeus,Short-eared Owl,species,LC,NA,28,Regular,2017,NA,8,1
+1379,07700,07700,Aegolius funereus,Boreal Owl,species,LC,NA,7,Regular,2017,NA,14,1
+1390,07780,07780,Caprimulgus europaeus,European Nightjar,species,LC,NA,82,Regular,2017,NA,243,1
+1415,07950,07950,Apus apus,Common Swift,species,LC,NA,15084,Regular,2017,NA,590,1
+1467,08310,08310,Alcedo atthis,Common Kingfisher,species,LC,NA,557,Regular,2017,NA,318,1
+1485,08400,08400,Merops apiaster,European Bee-eater,species,LC,NA,1,Occasional,2017,NA,3,1
+1495,08460,08460,Upupa epops,Eurasian Hoopoe,species,LC,NA,1,Regionally extinct,1977,NA,2,1
+1502,08480,08480,Jynx torquilla,Eurasian Wryneck,species,LC,NA,119,Regular,2017,NA,158,1
+1515,08560,08560,Picus viridis,European Green Woodpecker,species,LC,NA,1658,Regular,2017,NA,508,1
+1524,08630,08630,Dryocopus martius,Black Woodpecker,species,LC,NA,1774,Regular,2017,NA,151,1
+1537,08760,08760,Dendrocopos major,Great Spotted Woodpecker,species,LC,NA,34168,Regular,2017,NA,1761,1
+1551,08830,08830,Dendrocoptes medius,Middle Spotted Woodpecker,species,LC,NA,1,NA,NA,NA,3,1
+1562,08870,08870,Dryobates minor,Lesser Spotted Woodpecker,species,LC,NA,358,NA,NA,NA,52,1
+1708,09720,09720,Galerida cristata,Crested Lark,species,LC,NA,67,Regular,2017,NA,1,1
+1718,09740,09740,Lullula arborea,Woodlark,species,LC,NA,319,Regular,2017,NA,356,1
+1722,09760,09760,Alauda arvensis,Eurasian Skylark,species,LC,NA,75551,Regular,2017,NA,2157,1
+1728,09780,09780,Eremophila alpestris,Horned Lark,species,LC,NA,154,NA,NA,NA,NA,0
+1740,09810,09810,Riparia riparia,Sand Martin,species,LC,NA,4969,Regular,2017,NA,650,1
+1760,09920,09920,Hirundo rustica,Barn Swallow,species,LC,NA,51841,Regular,2017,NA,2061,1
+1777,10010,10010,Delichon urbicum,Common House Martin,species,LC,NA,15462,Regular,2017,NA,1847,1
+1786,10050,10050,Anthus campestris,Tawny Pipit,species,LC,NA,6,Regular,2017,NA,1,1
+1797,10090,10090,Anthus trivialis,Tree Pipit,species,LC,NA,18813,Regular,2017,NA,1397,1
+1802,10110,10110,Anthus pratensis,Meadow Pipit,species,NT,NA,5858,Regular,2017,NA,1251,1
+1805,10120,10120,Anthus cervinus,Red-throated Pipit,species,LC,NA,1,NA,NA,NA,NA,0
+1807,10135,10135,Anthus petrosus,European Rock Pipit,species,LC,NA,93,Regular,2017,NA,6,1
+1812,10140,10140,Anthus spinoletta,Water Pipit,species,LC,NA,5,NA,NA,NA,NA,0
+1823,10170,10170,Motacilla flava,Western Yellow Wagtail,species,LC,NA,1499,Regular,2017,NA,508,1
+1837,10190,10190,Motacilla cinerea,Grey Wagtail,species,LC,NA,421,Regular,2017,NA,218,1
+1841,10200,10200,Motacilla alba,White Wagtail,species,LC,NA,17620,Regular,2017,NA,2088,1
+1881,10480,10480,Bombycilla garrulus,Bohemian Waxwing,species,LC,NA,625,NA,NA,NA,NA,0
+1883,10500,10500,Cinclus cinclus,White-throated Dipper,species,LC,NA,613,Regular,2011,NA,10,1
+1905,10660,10660,Troglodytes troglodytes,Eurasian Wren,species,LC,NA,75603,Regular,2017,NA,2136,1
+1925,10840,10840,Prunella modularis,Dunnock,species,LC,NA,13439,Regular,2017,NA,1977,1
+1954,10990,10990,Erithacus rubecula,European Robin,species,LC,NA,36652,Regular,2017,NA,1990,1
+1964,11030,11030,Luscinia luscinia,Thrush Nightingale,species,LC,NA,20021,Regular,2017,NA,1054,1
+1967,11040,11040,Luscinia megarhynchos,Common Nightingale,species,LC,NA,6,Occasional,2006,NA,7,1
+1972,11060,11060,Luscinia svecica,Bluethroat,species,LC,NA,67,Regular,2017,NA,226,1
+1997,11210,11210,Phoenicurus ochruros,Black Redstart,species,LC,NA,651,Regular,2017,NA,668,1
+2005,11220,11220,Phoenicurus phoenicurus,Common Redstart,species,LC,NA,9052,Regular,2017,NA,1950,1
+2028,11370,11370,Saxicola rubetra,Whinchat,species,LC,NA,3258,Regular,2017,NA,703,1
+2033,11390,11390,Saxicola rubicola,European Stonechat,species,LC,NA,82,Regular,2017,NA,216,1
+2049,11460,11460,Oenanthe oenanthe,Northern Wheatear,species,LC,NA,592,Regular,2017,NA,115,1
+2126,11860,11860,Turdus torquatus,Ring Ouzel,species,LC,NA,3,NA,NA,NA,0,0
+2130,11870,11870,Turdus merula,Common Blackbird,species,LC,NA,199652,Regular,2017,NA,2160,1
+2146,11980,11980,Turdus pilaris,Fieldfare,species,LC,NA,18454,Regular,2017,NA,214,1
+2148,12000,12000,Turdus philomelos,Song Thrush,species,LC,NA,37714,Regular,2017,NA,2046,1
+2153,12010,12010,Turdus iliacus,Redwing,species,NT,NA,2328,Occasional,2003,NA,2,1
+2156,12020,12020,Turdus viscivorus,Mistle Thrush,species,LC,NA,3568,Regular,2017,NA,1056,1
+2211,12360,12360,Locustella naevia,Common Grasshopper Warbler,species,LC,NA,1172,Regular,2017,NA,562,1
+2215,12370,12370,Locustella fluviatilis,River Warbler,species,LC,NA,17,NA,NA,NA,16,1
+2216,12380,12380,Locustella luscinioides,Savi's Warbler,species,LC,NA,13,Regular,2017,NA,14,1
+2229,12430,12430,Acrocephalus schoenobaenus,Sedge Warbler,species,LC,NA,2377,Regular,2017,NA,573,1
+2239,12500,12500,Acrocephalus palustris,Marsh Warbler,species,LC,NA,9556,Regular,2017,NA,1643,1
+2240,12510,12510,Acrocephalus scirpaceus,Eurasian Reed Warbler,species,LC,NA,11203,Regular,2017,NA,1347,1
+2248,12530,12530,Acrocephalus arundinaceus,Great Reed Warbler,species,LC,NA,19,Regular,2017,NA,30,1
+2269,12590,12590,Hippolais icterina,Icterine Warbler,species,LC,NA,10938,Regular,2017,NA,1735,1
+2312,12730,12730,Curruca nisoria,Barred Warbler,species,LC,NA,4,NA,NA,NA,0,0
+2320,12740,12740,Curruca curruca,Lesser Whitethroat,species,LC,NA,13370,NA,NA,NA,2025,1
+2326,12750,12750,Curruca communis,Common Whitethroat,species,LC,NA,63054,NA,NA,NA,2186,1
+2331,12760,12760,Sylvia borin,Garden Warbler,species,LC,NA,39312,Regular,2017,NA,1905,1
+2334,12770,12770,Sylvia atricapilla,Eurasian Blackcap,species,LC,NA,62507,Regular,2017,NA,2108,1
+2355,12930,12930,Phylloscopus trochiloides,Greenish Warbler,species,LC,NA,24,Occasional,2014,NA,9,1
+2384,13080,13080,Phylloscopus sibilatrix,Wood Warbler,species,LC,NA,5528,Regular,2017,NA,688,1
+2392,13110,13110,Phylloscopus collybita,Common Chiffchaff,species,LC,NA,49829,Regular,2017,NA,2148,1
+2400,13120,13120,Phylloscopus trochilus,Willow Warbler,species,LC,NA,64249,Regular,2017,NA,2031,1
+2406,13140,13140,Regulus regulus,Goldcrest,species,LC,NA,29773,Regular,2017,NA,1451,1
+2413,13150,13150,Regulus ignicapilla,Common Firecrest,species,LC,NA,44,Regular,2017,NA,168,1
+2442,13350,13350,Muscicapa striata,Spotted Flycatcher,species,LC,NA,2350,Regular,2017,NA,1057,1
+2456,13430,13430,Ficedula parva,Red-breasted Flycatcher,species,LC,NA,48,Occasional,2016,NA,13,1
+2463,13480,13480,Ficedula albicollis,Collared Flycatcher,species,LC,NA,1,NA,NA,NA,NA,0
+2467,13490,13490,Ficedula hypoleuca,European Pied Flycatcher,species,LC,NA,2174,Regular,2017,NA,307,1
+2488,13640,13640,Panurus biarmicus,Bearded Reedling,species,LC,NA,276,Regular,2017,NA,163,1
+2572,14370,14370,Aegithalos caudatus,Long-tailed Tit,species,LC,NA,3576,Regular,2017,NA,807,1
+2583,14400,14400,Poecile palustris,Marsh Tit,species,LC,NA,13140,Regular,2017,NA,1395,1
+2594,14420,14420,Poecile montanus,Willow Tit,species,LC,NA,79,NA,NA,NA,112,1
+2614,14540,14540,Lophophanes cristatus,European Crested Tit,species,LC,NA,5836,NA,NA,NA,860,1
+2625,14610,14610,Periparus ater,Coal Tit,species,LC,NA,19462,Regular,2017,NA,1603,1
+2632,14620,14620,Cyanistes caeruleus,Eurasian Blue Tit,species,LC,NA,58729,Regular,2017,NA,2055,1
+2642,14640,14640,Parus major,Great Tit,species,LC,NA,145342,Regular,2017,NA,2126,1
+2667,14790,14790,Sitta europaea,Eurasian Nuthatch,species,LC,NA,20728,Regular,2017,NA,1507,1
+2694,14860,14860,Certhia familiaris,Eurasian Treecreeper,species,LC,NA,5613,Regular,2017,NA,1055,1
+2701,14870,14870,Certhia brachydactyla,Short-toed Treecreeper,species,LC,NA,815,Regular,2017,NA,515,1
+2710,14900,14900,Remiz pendulinus,Eurasian Penduline Tit,species,LC,NA,67,Regular,2017,NA,29,1
+2733,15080,15080,Oriolus oriolus,Eurasian Golden Oriole,species,LC,NA,227,Regular,2017,NA,23,1
+2747,15150,15150,Lanius collurio,Red-backed Shrike,species,LC,NA,1707,Regular,2017,NA,740,1
+2761,15200,15200,Lanius excubitor,Great Grey Shrike,species,LC,NA,536,Regular,2017,NA,6,1
+2786,15390,15390,Garrulus glandarius,Eurasian Jay,species,LC,NA,29327,Regular,2017,NA,1132,1
+2806,15490,15490,Pica pica,Eurasian Magpie,species,LC,NA,62534,Regular,2017,NA,1823,1
+2818,15570,15570,Nucifraga caryocatactes,Spotted Nutcracker,species,LC,NA,98,Regular,2009,NA,4,1
+2829,15600,15600,Coloeus monedula,Western Jackdaw,species,LC,NA,43895,NA,NA,NA,1396,1
+2835,15620,15620,Corvus splendens,House Crow,species,LC,NA,22,NA,NA,NA,NA,0
+2836,15630,15630,Corvus frugilegus,Rook,species,LC,NA,41794,Regular,2017,NA,865,1
+2842,15671,15671,Corvus corone,Carrion Crow,species,LC,NA,1906,Regular,2017,NA,211,1
+2844,15673,15673,Corvus cornix,Hooded Crow,species,LC,NA,154090,Regular,2017,NA,1875,1
+2854,15720,15720,Corvus corax,Northern Raven,species,LC,NA,7695,Regular,2017,NA,1158,1
+2872,15820,15820,Sturnus vulgaris,Common Starling,species,LC,NA,53217,Regular,2017,NA,1981,1
+2883,15910,15910,Passer domesticus,House Sparrow,species,LC,NA,29497,Regular,2017,NA,1916,1
+2901,15980,15980,Passer montanus,Eurasian Tree Sparrow,species,LC,NA,31929,Regular,2017,NA,1991,1
+2962,16360,16360,Fringilla coelebs,Common Chaffinch,species,LC,NA,165046,Regular,2017,NA,2136,1
+2975,16380,16380,Fringilla montifringilla,Brambling,species,LC,NA,6107,Occasional,1974,NA,0,1
+2979,16400,16400,Serinus serinus,European Serin,species,LC,NA,9,Regular,2017,NA,16,1
+2990,16490,16490,Chloris chloris,European Greenfinch,species,LC,NA,44207,Regular,2017,NA,2051,1
+2997,16530,16530,Carduelis carduelis,European Goldfinch,species,LC,NA,6812,Regular,2017,NA,1590,1
+3003,16540,16540,Spinus spinus,Eurasian Siskin,species,LC,NA,10605,Regular,2017,NA,197,1
+3009,16600,16600,Linaria cannabina,Common Linnet,species,LC,NA,15863,Regular,2017,NA,1802,1
+3017,16620,16620,Linaria flavirostris,Twite,species,LC,NA,581,NA,NA,NA,NA,0
+3022,16635,16635,Acanthis cabaret,Lesser Redpoll,species,LC,NA,477,Regular,2017,NA,1018,1
+3024,16640,16640,Acanthis hornemanni,Arctic Redpoll,species,LC,NA,6,NA,NA,NA,NA,0
+3028,16650,16650,Loxia leucoptera,Two-barred Crossbill,species,LC,NA,20,Occasional,2015,NA,5,1
+3030,16660,16660,Loxia curvirostra,Red Crossbill,species,LC,NA,6360,Regular,2017,NA,334,1
+3036,16680,16680,Loxia pytyopsittacus,Parrot Crossbill,species,LC,NA,102,Occasional,2017,NA,3,1
+3055,16790,16790,Carpodacus erythrinus,Common Rosefinch,species,LC,NA,284,NA,NA,NA,38,1
+3088,17100,17100,Pyrrhula pyrrhula,Eurasian Bullfinch,species,LC,NA,15664,Regular,2017,NA,1377,1
+3100,17170,17170,Coccothraustes coccothraustes,Hawfinch,species,LC,NA,2855,Regular,2017,NA,731,1
+3257,18470,18470,Calcarius lapponicus,Lapland Longspur,species,LC,NA,30,NA,NA,NA,NA,0
+3261,18500,18500,Plectrophenax nivalis,Snow Bunting,species,LC,NA,238,NA,NA,NA,NA,0
+3276,18570,18570,Emberiza citrinella,Yellowhammer,species,LC,NA,92251,Regular,2017,NA,2113,1
+3314,18770,18770,Emberiza schoeniclus,Common Reed Bunting,species,LC,NA,11369,Regular,2017,NA,1681,1
+3327,18820,18820,Emberiza calandra,Corn Bunting,species,LC,NA,10009,Regular,2017,NA,1389,1
+3631,16634,16634,Acanthis flammea,Common Redpoll,species,LC,NA,244,NA,NA,NA,NA,0
+3763,35670,35670,Pavo cristatus,Indian Peafowl,species,LC,NA,3,NA,NA,NA,NA,0

@@ -1,0 +1,1104 @@
+"id"	"old_artnr"	"artnr"	"overartnr"	"artnavn"	"latin"	"english"	"dk"	"datsy"	"arttype"	"sortering"	"hbw"	"iucn"	"redlist"	"yellowlist"	"bilag_1"	"spec"	"KOORDINATORID"	"sv"	"pkt"	"ibaantal"	"shortcut1"	"shortcut2"	"fra"	"til"	"season"	"vis"
+3	"00020"	"00020"	"00020"	"Rødstrubet Lom"	"Gavia stellata"	"Red-throated Loon"	"A"	0	"art"	1850	NA	"LC"	NA	"AT"	"X"	NA	NA	NA	NA	3000	"RØDLOM"	"RL"	NA	NA	NA	0
+4	"00025"	"00029"	NA	"Rødstrubet Lom/Sortstrubet Lom"	"Gavia stellata/G. arctica"	"Red-throated Loon/Black-throated Loon"	"H"	0	"ubestemt"	1860	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S SMÅL"	"S SMÅL"	NA	NA	NA	0
+5	"00030"	"00030"	"00030"	"Sortstrubet Lom"	"Gavia arctica"	"Black-throated Loon"	"A"	0	"art"	1870	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	3500	"SORLOM"	"SL"	""	""	""	0
+8	"00040"	"00040"	"00040"	"Islom"	"Gavia immer"	"Common Loon"	"AS"	0	"art"	1880	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	50	"ISLOM"	"IL"	NA	NA	NA	0
+9	"00045"	"00049"	NA	"Islom/Hvidnæbbet Lom"	"Gavia immer/G. adamsii"	"Common Loon/Yellow-billed Loon"	"H"	0	"ubestemt"	1890	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S STLO"	"S STLO"	NA	NA	NA	0
+10	"00050"	"00050"	"00050"	"Hvidnæbbet Lom"	"Gavia adamsii"	"Yellow-billed Loon"	"AS"	0	"art"	1900	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	30	"HVILOM"	"HL"	NA	NA	NA	0
+11	"00059"	"00059"	NA	"Lom sp."	"Gaviidae"	"Loon sp."	"H"	0	"ubestemt"	1910	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S LOM"	"S LOM"	NA	NA	NA	0
+13	"00070"	"00070"	"00070"	"Lille Lappedykker"	"Tachybaptus ruficollis"	"Little Grebe"	"A"	0	"art"	1370	52477	"LC"	"LC"	NA	NA	NA	NA	NA	NA	4700	"LILLAP"	"LL"	NA	NA	NA	0
+18	"00090"	"00090"	"00090"	"Toppet Lappedykker"	"Podiceps cristatus"	"Great Crested Grebe"	"A"	0	"art"	1390	52489	"LC"	"VU"	NA	NA	NA	NA	NA	"YV"	6300	"TOPLAP"	"TL"	NA	NA	NA	0
+19	"00095"	"00099"	NA	"Toppet Lappedykker/Gråstrubet Lappedykker"	"Podiceps cristatus/P. grisegena"	"Great Crested Grebe/Red-necked Grebe"	"H"	0	"ubestemt"	1400	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S TOGR"	"S TOGR"	NA	NA	NA	0
+20	"00100"	"00100"	"00100"	"Gråstrubet Lappedykker"	"Podiceps grisegena"	"Red-necked Grebe"	"A"	0	"art"	1380	NA	"LC"	"LC"	"AT"	NA	NA	NA	NA	"YV"	500	"GRÅLAP"	"GL"	NA	NA	NA	0
+23	"00110"	"00110"	"00110"	"Nordisk Lappedykker"	"Podiceps auritus"	"Horned Grebe"	"A"	1	"art"	1410	NA	"VU"	"RE"	NA	"X"	NA	NA	NA	NA	50	"NORLAP"	"NL"	"6"	"9"	"S"	0
+24	"00121"	"00119"	NA	"Nordisk Lappedykker/Sorthalset Lappedykker"	"Podiceps auritus/P. nigricollis"	"Horned Grebe/Black-necked Grebe"	"H"	0	"ubestemt"	1420	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S NOSO"	"S NOSO"	NA	NA	NA	0
+25	"00120"	"00120"	"00120"	"Sorthalset Lappedykker"	"Podiceps nigricollis"	"Black-necked Grebe"	"A"	0	"art"	1430	52491	"LC"	"VU"	NA	NA	NA	NA	NA	NA	1800	"SORLAP"	"SHL"	"4"	"9"	"V"	0
+29	"00122"	"00139"	NA	"Lappedykker sp."	"Podicipedidae"	"Grebe sp."	"H"	0	"ubestemt"	1440	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S LAPP"	"S LAPP"	NA	NA	NA	0
+30	"00140"	"00140"	"00140"	"Sortbrynet Albatros"	"Thalassarche melanophris"	"Black-browed Albatross"	"AU"	0	"art"	1920	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	"SORALB"	"SORALB"	NA	NA	NA	0
+42	"00202"	"00209"	NA	"Albatros sp."	"Diomedeidae"	"Albatross sp."	"HU"	0	"ubestemt"	1930	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S ALBA"	"S ALBA"	NA	NA	NA	0
+45	"00220"	"00220"	"00220"	"Mallemuk"	"Fulmarus glacialis"	"Northern Fulmar"	"A"	1	"art"	1970	NA	"LC"	"NA"	NA	NA	NA	0	NA	NA	NA	"MALLEM"	"MAL"	NA	NA	NA	0
+71	"00360"	"00360"	NA	"Atlantisk Skråpe/Scopolis Skråpe"	"Calonectris borealis/C. diomedea"	"Cory's Shearwater/Scopolis Shearwater"	"HU"	0	"ubestemt"	2020	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+75	"00365"	"00369"	NA	"Atlantisk/Scopolis/Storskråpe"	"Calonectris borealis/C. diomedea/Puffinus gravis"	"Cory's/Scopolis/Great Shearwater"	"HU"	0	"ubestemt"	2030	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S KUST"	"S KUST"	NA	NA	NA	0
+79	"00400"	"00400"	"00400"	"Storskråpe"	"Ardenna gravis"	"Great Shearwater"	"AU"	0	"art"	2000	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"STORSK"	"STORSK"	NA	NA	NA	0
+82	"00430"	"00430"	"00430"	"Sodfarvet Skråpe"	"Ardenna grisea"	"Sooty Shearwater"	"AS"	0	"art"	1990	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	"SODSKR"	"SODSKR"	"8"	"11"	"V"	0
+85	"00463"	"00455"	"00455"	"Balearskråpe"	"Puffinus mauretanicus"	"Balearic Shearwater"	"AU"	0	"art"	2070	NA	"CR"	NA	NA	NA	NA	NA	NA	NA	NA	"BALEAR"	"BALEAR"	NA	NA	NA	0
+86	"00460"	"00460"	"00460"	"Almindelig Skråpe"	"Puffinus puffinus"	"Manx Shearwater"	"AS"	0	"art"	2040	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"ALMSKR"	"ALMSKR"	"6"	"9"	"V"	0
+90	"00480"	"00480"	"00480"	"Lille Skråpe"	"Puffinus baroli"	"Barolo Shearwater"	"U"	0	"art"	2080	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"LISKRÅ"	"LISKRÅ"	NA	NA	NA	0
+98	"00465"	"00499"	NA	"Skråpe sp."	"Procellariidae"	"Shearwater sp."	"H"	0	"ubestemt"	2090	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S PESK"	"S PESK"	NA	NA	NA	0
+107	"00520"	"00520"	"00520"	"Lille Stormsvale"	"Hydrobates pelagicus"	"European Storm Petrel"	"AS"	0	"art"	1940	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"LILSTO"	"LILSTO"	NA	NA	NA	0
+112	"00550"	"00550"	"00550"	"Stor Stormsvale"	"Oceanodroma leucorhoa"	"Leach's Storm Petrel"	"AS"	0	"art"	1950	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"STOSTO"	"STOSTO"	"9"	"11"	"V"	0
+123	"00525"	"00639"	NA	"Stormsvale sp."	"Hydrobatidae"	"Storm Petrel sp."	"H"	0	"ubestemt"	1960	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S STSV"	"S STSV"	NA	NA	NA	0
+139	"00710"	"00710"	"00710"	"Sule"	"Morus bassanus"	"Northern Gannet"	"A"	0	"art"	2330	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SULE"	"SULE"	NA	NA	NA	0
+143	"00720"	"00720"	"00720"	"Skarv"	"Phalacrocorax carbo"	"Great Cormorant"	"A"	0	"art"	2350	52629	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	6200	"SKARV"	"SKARV"	NA	NA	NA	0
+144	"00721"	"00721"	"00720"	"Skarv, Storskarv (ssp. carbo)"	"Phalacrocorax carbo carbo"	"Great Cormorant (ssp. carbo)"	"A"	0	"underart"	2360	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	1200	"R CARB"	"R CARB"	NA	NA	NA	0
+145	"00722"	"00722"	"00720"	"Skarv, Mellemskarv (ssp. sinensis)"	"Phalacrocorax carbo sinensis"	"Great Cormorant (ssp. sinensis)"	"A"	0	"underart"	2370	NA	"LC"	"LC"	"AY/AT"	NA	NA	NA	NA	NA	6200	"R SINE"	"R SINE"	NA	NA	NA	0
+158	"00800"	"00800"	"00800"	"Topskarv"	"Phalacrocorax aristotelis"	"European Shag"	"AS"	0	"art"	2340	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"TSKARV"	"TSKARV"	NA	NA	NA	0
+173	"00880"	"00880"	"00880"	"Hvid Pelikan"	"Pelecanus onocrotalus"	"Great White Pelican"	"DU"	0	"art"	2130	52610	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"HVIPEL"	"HVIPEL"	NA	NA	NA	0
+175	"00890"	"00890"	"00890"	"Krøltoppet Pelikan"	"Pelecanus crispus"	"Dalmatian Pelican"	"AU"	0	"art"	2150	52613	"VU"	NA	NA	NA	NA	NA	NA	NA	NA	"KRØPEL"	"KRØPEL"	NA	NA	NA	0
+176	"00900"	"00900"	"00900"	"Rosapelikan"	"Pelecanus rufescens"	"Pink-backed Pelican"	"E"	0	"art"	2140	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"RØDPEL"	"RØDPEL"	NA	NA	NA	0
+178	"00911"	"00919"	NA	"Pelikan sp."	"Pelecanidae"	"Pelican sp."	"HU"	0	"ubestemt"	2160	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S PELI"	"S PELI"	NA	NA	NA	0
+180	"00930"	"00930"	"00930"	"Pragtfregatfugl"	"Fregata magnificens"	"Magnificent Frigatebird"	"AU"	0	"art"	2320	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"AMEFRE"	"AMEFRE"	NA	NA	NA	0
+183	"00950"	"00950"	"00950"	"Rørdrum"	"Botaurus stellaris"	"Eurasian Bittern"	"A"	1	"art"	2170	52730	"LC"	"VU"	NA	"X"	"3"	NA	NA	"YV"	80	"RØRDRU"	"RØRDRU"	NA	NA	NA	0
+185	"00960"	"00960"	"00960"	"Amerikansk Rørdrum"	"Botaurus lentiginosus"	"American Bittern"	"AU"	0	"art"	2180	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"AMERØR"	"AMERØR"	NA	NA	NA	0
+187	"00980"	"00980"	"00980"	"Dværghejre"	"Ixobrychus minutus"	"Little Bittern"	"AU"	0	"art"	2190	NA	"LC"	NA	NA	"X"	"3"	NA	NA	NA	NA	"DVÆHEJ"	"DVÆHEJ"	NA	NA	NA	0
+196	"01040"	"01040"	"01040"	"Nathejre"	"Nycticorax nycticorax"	"Black-crowned Night Heron"	"AU"	0	"art"	2200	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"NATHEJ"	"NATHEJ"	NA	NA	NA	0
+203	"01080"	"01080"	"01080"	"Tophejre"	"Ardeola ralloides"	"Squacco Heron"	"AU"	0	"art"	2210	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"TOPHEJ"	"TOPHEJ"	NA	NA	NA	0
+206	"01110"	"01110"	"01110"	"Kohejre"	"Bubulcus ibis"	"Western Cattle Egret"	"AU"	0	"art"	2220	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"KOHEJR"	"KOHEJR"	NA	NA	NA	0
+218	"01190"	"01190"	"01190"	"Silkehejre"	"Egretta garzetta"	"Little Egret"	"AS"	0	"art"	2260	52694	"LC"	NA	NA	"X"	NA	NA	NA	NA	1100	"SILHEJ"	"SILHEJ"	NA	NA	NA	0
+222	"01210"	"01210"	"01210"	"Sølvhejre"	"Ardea alba"	"Great Egret"	"A"	0	"art"	2250	52684	"LC"	"NA"	NA	"X"	NA	NA	NA	NA	780	"SØLVHE"	"SØLVHE"	NA	NA	NA	0
+226	"01251"	"01219"	NA	"Hejre sp. (hvid)"	"Ardeidae"	"Egret/Heron sp. (white)"	"H"	0	"ubestemt"	2270	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S HVHE"	"S HVHE"	NA	NA	NA	0
+227	"01220"	"01220"	"01220"	"Fiskehejre"	"Ardea cinerea"	"Grey Heron"	"A"	0	"art"	2230	52674	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	5000	"FISKEH"	"FISKEH"	NA	NA	NA	0
+232	"01240"	"01240"	"01240"	"Purpurhejre"	"Ardea purpurea"	"Purple Heron"	"AU"	0	"art"	2240	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"PURPUR"	"PURPUR"	NA	NA	NA	0
+237	NA	"01259"	NA	"Hejre sp."	"Ardeidae"	"Heron sp."	"H"	0	"ubestemt"	2280	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S HEJR"	"S HEJR"	NA	NA	NA	0
+244	"01310"	"01310"	"01310"	"Sort Stork"	"Ciconia nigra"	"Black Stork"	"AS"	1	"art"	2100	NA	"LC"	"RE"	NA	"X"	"3"	0	NA	NA	310	"SORSTO"	"SORSTO"	NA	NA	NA	0
+247	"01340"	"01340"	"01340"	"Hvid Stork"	"Ciconia ciconia"	"White Stork"	"A"	1	"art"	2110	52744	"LC"	"CR"	NA	"X"	"2"	0	NA	NA	5200	"HVISTO"	"HVISTO"	NA	NA	NA	0
+252	"01349"	"01359"	NA	"Stork sp."	"Ciconiidae"	"Stork sp."	"H"	0	"ubestemt"	2120	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S STRK"	"S STRK"	NA	NA	NA	0
+253	"01360"	"01360"	"01360"	"Sort Ibis"	"Plegadis falcinellus"	"Glossy Ibis"	"AS"	0	"art"	2310	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"SORIBI"	"SORIBI"	NA	NA	NA	0
+260	"01420"	"01420"	"01420"	"Hellig Ibis"	"Threskiornis aethiopicus"	"African Sacred Ibis"	"EU"	0	"art"	2290	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"HELIBI"	"HELIBI"	NA	NA	NA	0
+263	"01440"	"01440"	"01440"	"Skestork"	"Platalea leucorodia"	"Eurasian Spoonbill"	"A"	1	"art"	2300	52779	"LC"	"LC"	NA	"X"	NA	0	NA	NA	160	"SKESTO"	"SKESTO"	"3"	"10"	"V"	0
+272	NA	"01470"	NA	"Stor Flamingo/Cariberflamingo"	"Phoenicopterus roseus/P. ruber"	"Greater Flamingo/American Flamingo"	"H"	0	"ubestemt"	1330	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"FLAMIN"	"FLAMIN"	NA	NA	NA	0
+273	"01469"	"01471"	"01471"	"Cariberflamingo"	"Phoenicopterus ruber"	"American Flamingo"	"E"	0	"art"	1320	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"R RUBE"	"R RUBE"	NA	NA	NA	0
+274	"01470"	"01472"	"01472"	"Stor Flamingo"	"Phoenicopterus roseus"	"Greater Flamingo"	"DU"	0	"art"	1310	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"R ROSE"	"R ROSE"	NA	NA	NA	0
+275	"01471"	"01475"	"01475"	"Chileflamingo"	"Phoenicopterus chilensis"	"Chilean Flamingo"	"E"	0	"art"	1340	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	"CHILEF"	"CHILEF"	NA	NA	NA	0
+276	"01480"	"01480"	"01480"	"Lille Flamingo"	"Phoeniconaias minor"	"Lesser Flamingo"	"E"	0	"art"	1350	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	"LIFLAM"	"LIFLAM"	NA	NA	NA	0
+277	"01481"	"01489"	NA	"Flamingo sp."	"Phoenicopteridae"	"Flamingo sp."	"H"	0	"ubestemt"	1360	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S FLAM"	"S FLAM"	NA	NA	NA	0
+284	"01520"	"01520"	"01520"	"Knopsvane"	"Cygnus olor"	"Mute Swan"	"A"	0	"art"	30	52803	"LC"	"LC"	"AT"	NA	NA	NA	NA	"YV"	2000	"KNOPSV"	"KNOPSV"	NA	NA	NA	0
+285	"01521"	"01525"	"01525"	"Sortsvane"	"Cygnus atratus"	"Black Swan"	"C"	0	"art"	20	52804	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"SORSVA"	"SORSVA"	NA	NA	NA	0
+286	"01530"	"01530"	"01530"	"Pibesvane"	"Cygnus columbianus"	"Tundra Swan"	"A"	0	"art"	40	NA	"LC"	NA	"AT"	"X"	NA	NA	NA	NA	220	"PIBESV"	"PIBESV"	"4"	"9"	"S"	0
+289	"01535"	"01539"	NA	"Pibesvane/Sangsvane"	"Cygnus columbianus/C. cygnus"	"Tundra Swan/Whooper Swan"	"H"	0	"ubestemt"	60	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S GULN"	"S GULN"	"6"	"9"	"S"	0
+290	"01540"	"01540"	"01540"	"Sangsvane"	"Cygnus cygnus"	"Whooper Swan"	"A"	1	"art"	50	52807	"LC"	"VU"	"AT"	"X"	NA	0	NA	"V"	1200	"SANGSV"	"SANGSV"	"6"	"9"	"S"	0
+292	"01555"	"01559"	NA	"Svane sp."	"Cygnus sp."	"Swan sp."	"H"	0	"ubestemt"	70	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S SVAN"	"S SVAN"	NA	NA	NA	0
+293	"01560"	"01560"	"01560"	"Svanegås"	"Anser cygnoides"	"Swan Goose"	"E"	0	"art"	80	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	NA	"SVANEG"	"SVANEG"	NA	NA	NA	0
+294	"01570"	"01570"	NA	"Tajgasædgås/Tundrasædgås"	"Anser fabalis/A. serrirostris"	"Taiga Bean Goose/Tundra Bean Goose"	"H"	0	"ubestemt"	350	52811	"LC"	NA	NA	NA	NA	NA	NA	NA	5920	"SÆDGÅS"	"SÆDGÅS"	"5"	"8"	"S"	0
+295	"01571"	"01571"	"01571"	"Tajgasædgås"	"Anser fabalis"	"Taiga Bean Goose"	"A"	0	"art"	360	NA	"LC"	NA	"AT"	NA	NA	NA	NA	NA	520	"R FABA"	"R FABA"	"5"	"8"	"S"	0
+298	"01571"	"01574"	"01574"	"Tundrasædgås"	"Anser serrirostris"	"Tundra Bean Goose"	"A"	0	"art"	370	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	5500	"R ROSS"	"R ROSS"	"6"	"8"	"S"	0
+301	"01580"	"01580"	"01580"	"Kortnæbbet Gås"	"Anser brachyrhynchus"	"Pink-footed Goose"	"A"	0	"art"	310	52812	"LC"	NA	"AT"	NA	NA	NA	NA	NA	860	"KORGÅS"	"KORGÅS"	"5"	"9"	"S"	0
+302	"01590"	"01590"	"01590"	"Blisgås"	"Anser albifrons"	"Greater White-fronted Goose"	"A"	0	"art"	390	52813	"LC"	NA	NA	"X"	NA	NA	NA	NA	12000	"BLISGÅ"	"BLISGÅ"	"6"	"9"	"S"	0
+304	"01591"	"01592"	"01590"	"Blisgås, Grønlandsk (ssp. flavirostris)"	"Anser albifrons flavirostris"	"Greater White-fronted Goose (ssp. flavirostris)"	"AS"	0	"underart"	400	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	190	"R FLAB"	"R FLAB"	NA	NA	NA	0
+305	"01601"	"01599"	NA	"Blisgås/Dværggås"	"Anser albifrons/A. erythropus"	"Greater White-fronted Goose/Lesser White-fronted Goose"	"H"	0	"ubestemt"	430	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S BLDV"	"S BLDV"	NA	NA	NA	0
+306	"01600"	"01600"	"01600"	"Dværggås"	"Anser erythropus"	"Lesser White-fronted Goose"	"AS"	0	"art"	420	52814	"VU"	NA	NA	"X"	NA	NA	NA	NA	1	"DVÆRGG"	"DVÆRGG"	NA	NA	NA	0
+307	"01610"	"01610"	"01610"	"Grågås"	"Anser anser"	"Greylag Goose"	"A"	0	"art"	320	52815	"LC"	"LC"	"AT"	NA	NA	NA	NA	"YV"	9600	"GRÅGÅS"	"GRÅGÅS"	NA	NA	NA	0
+310	NA	"01619"	NA	"Grågås x Bramgås (hybrid)"	"Anser anser x Branta leucopsis"	"Greylag Goose x Barnacle Goose"	"H"	0	"hybrid"	340	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H GRBR"	"H GRBR"	NA	NA	NA	0
+311	"01620"	"01620"	"01620"	"Indisk Gås"	"Anser indicus"	"Bar-headed Goose"	"C"	0	"art"	280	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"INDGÅS"	"INDGÅS"	NA	NA	NA	0
+312	"01630"	"01630"	"01630"	"Snegås"	"Anser caerulescens"	"Snow Goose"	"E"	0	"art"	250	NA	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"SNEGÅS"	"SNEGÅS"	NA	NA	NA	0
+315	NA	"01639"	NA	"Snegås x Bramgås (hybrid)"	"Anser caerulescens x Branta leucopsis"	"Snow Goose x Barnacle Goose"	"H"	0	"hybrid"	260	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H SNBR"	"H SNBR"	NA	NA	NA	0
+316	"01640"	"01640"	"01640"	"Dværgsnegås"	"Anser rossii"	"Ross's Goose"	"E"	0	"art"	270	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"DVÆSNE"	"DVÆSNE"	NA	NA	NA	0
+320	"01605"	"01659"	NA	"Grå Gås sp."	"Anser sp."	"Goose sp. (anser)"	"H"	0	"ubestemt"	300	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S ANSE"	"S ANSE"	NA	NA	NA	0
+321	"01660"	"01660"	"01660"	"Canadagås"	"Branta canadensis"	"Canada Goose"	"C"	0	"art"	220	52821	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"CANADA"	"CANADA"	NA	NA	NA	0
+326	NA	"01665"	"01665"	"Dværgcanadagås"	"Branta hutchinsii"	"Cackling Goose"	"E"	0	"art"	210	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"LLCG"	"LLCG"	NA	NA	NA	0
+327	"01661"	"01669"	NA	"Canadagås x Grågås (hybrid)"	"Branta canadensis x Anser anser"	"Canada Goose x Greylag Goose"	"H"	0	"hybrid"	240	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H CAGR"	"H CAGR"	NA	NA	NA	0
+328	"01670"	"01670"	"01670"	"Bramgås"	"Branta leucopsis"	"Barnacle Goose"	"A"	1	"art"	150	NA	"LC"	"LC"	NA	"X"	"4/2"	0	NA	NA	12000	"BRAMGÅ"	"BRAMGÅ"	""	""	""	0
+330	"01680"	"01680"	"01680"	"Knortegås"	"Branta bernicla"	"Brant Goose"	"A"	0	"art"	100	52823	"LC"	NA	NA	NA	NA	NA	NA	NA	2200	"KNORTE"	"KNORTE"	""	""	""	0
+331	"01681"	"01681"	"01680"	"Knortegås, Mørkbuget (ssp. bernicla)"	"Branta bernicla bernicla"	"Brant Goose (ssp. bernicla)"	"A"	0	"underart"	110	NA	"LC"	NA	"AT"	NA	NA	NA	NA	NA	2100	"R BERN"	"R BERN"	""	""	""	0
+332	"01682"	"01682"	"01680"	"Knortegås, Lysbuget (ssp. hrota)"	"Branta bernicla hrota"	"Brant Goose (ssp. hrota)"	"A"	0	"underart"	120	NA	"LC"	NA	"AT"	NA	NA	NA	NA	NA	100	"R HROT"	"R HROT"	""	""	""	0
+333	"01683"	"01683"	"01680"	"Knortegås, Sortbuget (ssp. nigricans)"	"Branta bernicla nigricans"	"Brant Goose (ssp. nigricans)"	"AS"	0	"underart"	130	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"R NIGR"	"R NIGR"	NA	NA	NA	0
+334	NA	"01688"	NA	"Knortegås, Mørkbuget x Sortbuget (hybrid)"	"Branta bernicla bernicla x B. b. nigricans"	"Brant Goose (bernicla x nigricans)"	"H"	0	"hybrid"	140	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H MØSO"	"H MØSO"	NA	NA	NA	0
+336	"01690"	"01690"	"01690"	"Rødhalset Gås"	"Branta ruficollis"	"Red-breasted Goose"	"AS"	0	"art"	180	NA	"VU"	NA	NA	"X"	NA	NA	NA	NA	NA	"RØDGÅS"	"RØDGÅS"	NA	NA	NA	0
+338	"01695"	"01699"	NA	"Rajgås sp."	"Branta sp."	"Goose sp. (branta)"	"H"	0	"ubestemt"	190	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S RAJG"	"S RAJG"	NA	NA	NA	0
+339	"01700"	"01700"	"01700"	"Nilgås"	"Alopochen aegyptiaca"	"Egyptian Goose"	"C"	0	"art"	670	52834	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"NILGÅS"	"NILGÅS"	NA	NA	NA	0
+340	"01696"	"01709"	NA	"Gås sp."	"Anser/Branta sp."	"Goose sp."	"H"	0	"ubestemt"	200	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S GÅS"	"S GÅS"	NA	NA	NA	0
+341	"01710"	"01710"	"01710"	"Rustand"	"Tadorna ferruginea"	"Ruddy Shelduck"	"A"	0	"art"	710	NA	"LC"	"NA"	NA	"X"	NA	NA	NA	NA	NA	"RUSTAN"	"RUSTAN"	NA	NA	NA	0
+345	"01730"	"01730"	"01730"	"Gravand"	"Tadorna tadorna"	"Common Shelduck"	"A"	0	"art"	700	52839	"LC"	"VU"	"AT"	NA	NA	NA	NA	"YV"	2500	"GRAVAN"	"GRAVAN"	NA	NA	NA	0
+350	"01750"	"01750"	"01750"	"Moskusand"	"Cairina moschata"	"Muscovy Duck"	"E"	0	"art"	730	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"MOSKUS"	"MOSKUS"	NA	NA	NA	0
+352	"01770"	"01770"	"01770"	"Brudeand"	"Aix sponsa"	"Wood Duck"	"E"	0	"art"	1190	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BRUDEA"	"BRUDEA"	NA	NA	NA	0
+353	"01780"	"01780"	"01780"	"Mandarinand"	"Aix galericulata"	"Mandarin Duck"	"C"	0	"art"	1180	NA	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"MANDAR"	"MANDAR"	NA	NA	NA	0
+354	"01790"	"01790"	"01790"	"Pibeand"	"Mareca penelope"	"Eurasian Wigeon"	"A"	1	"art"	1020	52862	"LC"	"CR"	"AT"	NA	NA	NA	NA	NA	14000	"PIBEAN"	"PIBEAN"	NA	NA	NA	0
+356	NA	"01798"	NA	"Pibeand x Chilensk And (hybrid)"	"Mareca penelope x M. sibilatrix"	"Eurasian Wigeon x Chiloe Wigeon"	"H"	0	"hybrid"	1040	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H PICH"	"H PICH"	NA	NA	NA	0
+357	NA	"01799"	NA	"Pibeand/Spidsand"	"Mareca penelope/Anas acuta"	"Eurasian Wigeon/Pintail"	"H"	0	"ubestemt"	1050	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S PISP"	"S PISP"	NA	NA	NA	0
+358	"01800"	"01800"	"01800"	"Amerikansk Pibeand"	"Mareca americana"	"American Wigeon"	"AU"	0	"art"	1060	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"AMEPIB"	"AMEPIB"	NA	NA	NA	0
+360	"01810"	"01810"	"01810"	"Segland"	"Mareca falcata"	"Falcated Duck"	"E"	0	"art"	1000	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	"SEGLAN"	"SEGLAN"	NA	NA	NA	0
+361	"01820"	"01820"	"01820"	"Knarand"	"Mareca strepera"	"Gadwall"	"A"	0	"art"	1010	52866	"LC"	"LC"	NA	NA	"3"	NA	NA	"Y"	1200	"KNARAN"	"KNARAN"	NA	NA	NA	0
+363	"01830"	"01830"	"01830"	"Sibirisk Krikand"	"Sibirionetta formosa"	"Baikal Teal"	"AU"	0	"art"	990	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SIBKRI"	"SIBKRI"	NA	NA	NA	0
+365	"01840"	"01840"	"01840"	"Krikand"	"Anas crecca"	"Eurasian Teal"	"A"	0	"art"	1140	52868	"LC"	"VU"	"AT"	NA	NA	NA	NA	"YV"	5000	"KRIKAN"	"KRIKAN"	NA	NA	NA	0
+367	NA	"01844"	NA	"Krikand x Amerikansk Krikand (hybrid)"	"Anas crecca x A. carolinensis"	"Eurasian Teal x Green-winged Teal"	"H"	0	"hybrid"	1160	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H KRAM"	"H KRAM"	NA	NA	NA	0
+368	"01843"	"01845"	"01845"	"Amerikansk Krikand"	"Anas carolinensis"	"Green-winged Teal"	"AS"	0	"art"	1170	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"AMEKRI"	"AMEKRI"	NA	NA	NA	0
+371	"01860"	"01860"	"01860"	"Gråand"	"Anas platyrhynchos"	"Mallard"	"A"	0	"art"	1080	52875	"LC"	"LC"	"AT"	NA	NA	NA	NA	"YV"	53000	"GRÅAND"	"GRÅAND"	NA	NA	NA	0
+372	NA	"01869"	NA	"Gråand x svømmeand sp. (hybrid)"	"Anas platyrhynchos x Mareca/Anas/Spatula sp."	"Mallard x Dabbling Duck sp."	"H"	0	"hybrid"	1110	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H GRSV"	"H GRSV"	NA	NA	NA	0
+375	"01890"	"01890"	"01890"	"Spidsand"	"Anas acuta"	"Northern Pintail"	"A"	0	"art"	1120	52884	"LC"	"EN"	"AT"	NA	"3"	NA	NA	NA	600	"SPIDSA"	"SPIDSA"	NA	NA	NA	0
+378	"01910"	"01910"	"01910"	"Atlingand"	"Spatula querquedula"	"Garganey"	"A"	0	"art"	910	52890	"LC"	"VU"	NA	NA	"3"	NA	NA	"Y"	13400	"ATLING"	"ATLING"	"4"	"9"	"V"	0
+379	"01920"	"01920"	"01920"	"Blåvinget And"	"Spatula discors"	"Blue-winged Teal"	"AU"	0	"art"	970	NA	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"BLÅAND"	"BLÅAND"	NA	NA	NA	0
+381	"01930"	"01930"	"01930"	"Kaneland"	"Spatula cyanoptera"	"Cinnamon Teal"	"E"	0	"art"	980	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"KANELA"	"KANELA"	NA	NA	NA	0
+383	"01940"	"01940"	"01940"	"Skeand"	"Spatula clypeata"	"Northern Shoveler"	"A"	0	"art"	920	52896	"LC"	"VU"	NA	NA	NA	NA	NA	"Y"	650	"SKEAND"	"SKEAND"	NA	NA	NA	0
+384	"01942"	"01949"	NA	"Svømmeand sp."	"Mareca/Anas/Spatula sp."	"Dabbling Duck sp."	"H"	0	"ubestemt"	960	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S SVØM"	"S SVØM"	NA	NA	NA	0
+385	"01950"	"01950"	"01950"	"Marmorand"	"Marmaronetta angustirostris"	"Marbled Duck"	"U"	0	"art"	740	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	NA	"MARMOR"	"MARMOR"	NA	NA	NA	0
+386	"01960"	"01960"	"01960"	"Rødhovedet And"	"Netta rufina"	"Red-crested Pochard"	"AS"	1	"art"	750	52899	"LC"	"CR"	NA	NA	"3"	0	NA	NA	550	"RØDAND"	"RØDAND"	NA	NA	NA	0
+389	"01980"	"01980"	"01980"	"Taffeland"	"Aythya ferina"	"Common Pochard"	"A"	0	"art"	770	52903	"VU"	"VU"	NA	NA	"4"	NA	NA	"YV"	2000	"TAFFEL"	"TAFFEL"	NA	NA	NA	0
+390	"02031"	"01989"	NA	"Taffeland x Troldand (hybrid)"	"Aythya ferina x A. fuligula"	"Common Pochard x Tufted Duck"	"H"	0	"hybrid"	780	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H TATR"	"H TATR"	NA	NA	NA	0
+392	"02000"	"02000"	"02000"	"Halsbåndstroldand"	"Aythya collaris"	"Ring-necked Duck"	"AU"	0	"art"	810	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"HALSBÅ"	"HALSBÅ"	NA	NA	NA	0
+393	NA	"02005"	NA	"Halsbåndstroldand x Troldand (hybrid)"	"Aythya collaris x A. fuligula"	"Ring-necked Duck x Tufted Duck"	"HU"	0	"hybrid"	820	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H HATR"	"H HATR"	NA	NA	NA	0
+395	"02020"	"02020"	"02020"	"Hvidøjet And"	"Aythya nyroca"	"Ferruginous Duck"	"AU"	0	"art"	790	NA	"NT"	NA	NA	"X"	NA	NA	NA	NA	NA	"HVIAND"	"HVIAND"	NA	NA	NA	0
+396	NA	"02029"	NA	"Hvidøjet And x Taffeland (hybrid)"	"Aythya nyroca x A. ferina"	"Ferruginous Duck x Common Pochard"	"HU"	0	"hybrid"	800	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H HVTA"	"H HVTA"	NA	NA	NA	0
+397	"02030"	"02030"	"02030"	"Troldand"	"Aythya fuligula"	"Tufted Duck"	"A"	0	"art"	830	52910	"LC"	"NT"	"AT"	NA	NA	NA	NA	"YV"	8900	"TROLDA"	"TROLDA"	NA	NA	NA	0
+398	NA	"02039"	NA	"Troldand x Bjergand (hybrid)"	"Aythya fuligula x A. marila"	"Tufted Duck x Greater Scaup"	"H"	0	"hybrid"	850	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+399	"02040"	"02040"	"02040"	"Bjergand"	"Aythya marila"	"Greater Scaup"	"A"	0	"art"	860	52912	"LC"	"NA"	NA	NA	NA	NA	NA	NA	3100	"BJERGA"	"BJERGA"	"6"	"9"	"S"	0
+400	"02050"	"02050"	"02050"	"Lille Bjergand"	"Aythya affinis"	"Lesser Scaup"	"AU"	0	"art"	870	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"LILBJE"	"LILBJE"	NA	NA	NA	0
+401	NA	"02058"	NA	"Dykand hybrid"	"Aythya sp. x Aythya sp."	"Duck hybrid (Aythya)"	"H"	0	"hybrid"	890	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H DYKF"	"H DYKF"	NA	NA	NA	0
+403	"02060"	"02060"	"02060"	"Ederfugl"	"Somateria mollissima"	"Common Eider"	"A"	0	"art"	470	52914	"NT"	"NT"	"AT"	NA	NA	NA	NA	"YV"	9800	"EDERFU"	"EDERFU"	NA	NA	NA	0
+408	"02070"	"02070"	"02070"	"Kongeederfugl"	"Somateria spectabilis"	"King Eider"	"AS"	0	"art"	450	NA	"LC"	"NE"	NA	NA	NA	NA	NA	NA	NA	"KONGEE"	"KONGEE"	NA	NA	NA	0
+410	"02090"	"02090"	"02090"	"Stellersand"	"Polysticta stelleri"	"Steller's Eider"	"AU"	0	"art"	490	NA	"VU"	"NA"	NA	"X"	NA	NA	NA	NA	NA	"STELLE"	"STELLE"	NA	NA	NA	0
+414	"02120"	"02120"	"02120"	"Havlit"	"Clangula hyemalis"	"Long-tailed Duck"	"A"	0	"art"	440	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	16000	"HAVLIT"	"HAVLIT"	"6"	"9"	"S"	0
+415	"02130"	"02130"	"02130"	"Sortand"	"Melanitta nigra"	"Common Scoter"	"A"	0	"art"	540	NA	"LC"	NA	"AT"	NA	NA	NA	NA	NA	7500	"SORTAN"	"SORTAN"	NA	NA	NA	0
+417	NA	"02132"	"02132"	"Amerikansk Sortand"	"Melanitta americana"	"Black Scoter"	"AU"	0	"art"	550	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	"R AMER"	"R AMER"	NA	NA	NA	0
+418	"02140"	"02140"	"02140"	"Brilleand"	"Melanitta perspicillata"	"Surf Scoter"	"AS"	0	"art"	500	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BRIAND"	"BRIAND"	NA	NA	NA	0
+419	"02150"	"02150"	"02150"	"Fløjlsand"	"Melanitta fusca"	"Velvet Scoter"	"A"	0	"art"	510	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	4000	"FLØJLS"	"FLØJLS"	NA	NA	NA	0
+421	NA	"02152"	"02152"	"Asiatisk Fløjlsand"	"Melanitta stejnegeri"	"Stejneger's Scoter"	"AU"	0	"art"	520	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"R STEJ"	"R STEJ"	NA	NA	NA	0
+422	"02160"	"02160"	"02160"	"Bøffeland"	"Bucephala albeola"	"Bufflehead"	"DU"	0	"art"	560	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BØFFEL"	"BØFFEL"	NA	NA	NA	0
+424	"02180"	"02180"	"02180"	"Hvinand"	"Bucephala clangula"	"Common Goldeneye"	"A"	1	"art"	570	52925	"LC"	"VU"	"AT"	NA	NA	0	NA	"YV"	11400	"HVINAN"	"HVINAN"	NA	NA	NA	0
+426	"02190"	"02190"	"02190"	"Hjelmskallesluger"	"Lophodytes cucullatus"	"Hooded Merganser"	"DU"	0	"art"	600	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"HJELMS"	"HJELMS"	NA	NA	NA	0
+427	"02200"	"02200"	"02200"	"Lille Skallesluger"	"Mergellus albellus"	"Smew"	"A"	0	"art"	590	52927	"LC"	NA	NA	"X"	NA	NA	NA	"V"	300	"LILSKA"	"LILSKA"	"5"	"10"	"S"	0
+428	"02210"	"02210"	"02210"	"Toppet Skallesluger"	"Mergus serrator"	"Red-breasted Merganser"	"A"	0	"art"	620	NA	"LC"	"VU"	"AT"	NA	NA	NA	NA	"YV"	860	"TOPSKA"	"TOPSKA"	NA	NA	NA	0
+431	"02230"	"02230"	"02230"	"Stor Skallesluger"	"Mergus merganser"	"Common Merganser"	"A"	1	"art"	610	52931	"LC"	"VU"	NA	NA	NA	0	NA	"V"	2100	"STOSKA"	"STOSKA"	NA	NA	NA	0
+436	"02250"	"02250"	"02250"	"Amerikansk Skarveand"	"Oxyura jamaicensis"	"Ruddy Duck"	"CU"	0	"art"	10	NA	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"AMESKA"	"AMESKA"	NA	NA	NA	0
+439	"02261"	"02268"	NA	"Dykand sp. (Mergini)"	"Mergini"	"Duck sp. (Mergini)"	"H"	0	"ubestemt"	650	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S DYKA"	"S DYKA"	NA	NA	NA	0
+440	"02262"	"02269"	NA	"Andefugl sp."	"Anatidae"	"Swan/Goose/Duck sp."	"H"	0	"ubestemt"	660	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S SGA"	"S SGA"	NA	NA	NA	0
+441	"02270"	"02270"	"02270"	"Kalkungrib"	"Cathartes aura"	"Turkey Vulture"	"E"	0	"art"	2390	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"KALKUN"	"KALKUN"	NA	NA	NA	0
+445	"02310"	"02310"	"02310"	"Hvepsevåge"	"Pernis apivorus"	"European Honey Buzzard"	"A"	0	"art"	4100	52958	"LC"	"NT"	NA	"X"	"4"	NA	NA	"Y"	NA	"HVEPSE"	"HVEPSE"	"5"	"9"	"V"	0
+452	"02350"	"02350"	"02350"	"Blå Glente"	"Elanus caeruleus"	"Black-winged Kite"	"AU"	0	"art"	4090	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"BLÅGLE"	"BLÅGLE"	NA	NA	NA	0
+456	"02380"	"02380"	"02380"	"Sort Glente"	"Milvus migrans"	"Black Kite"	"AS"	0	"art"	4410	52978	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"SORGLE"	"SORGLE"	"4"	"9"	"V"	0
+460	"02385"	"02388"	NA	"Sort Glente/Rød Glente"	"Milvus migrans/M. milvus"	"Black Kite/Red Kite"	"H"	0	"ubestemt"	4420	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S GLEN"	"S GLEN"	NA	NA	NA	0
+461	"02386"	"02389"	NA	"Sort Glente x Rød Glente (hybrid)"	"Milvus migrans x M. milvus"	"Black Kite x Red Kite"	"H"	0	"hybrid"	4430	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H SORØ"	"H SORØ"	NA	NA	NA	0
+462	"02390"	"02390"	"02390"	"Rød Glente"	"Milvus milvus"	"Red Kite"	"A"	1	"art"	4400	52977	"LC"	"VU"	NA	"X"	"4"	0	NA	"Y"	NA	"RØDGLE"	"RØDGLE"	NA	NA	NA	0
+469	"02430"	"02430"	"02430"	"Havørn"	"Haliaeetus albicilla"	"White-tailed Eagle"	"A"	1	"art"	4380	52986	"LC"	"NT"	NA	"X"	NA	0	NA	NA	NA	"HAVØRN"	"HAVØRN"	NA	NA	NA	0
+472	"02460"	"02460"	"02460"	"Lammegrib"	"Gypaetus barbatus"	"Bearded Vulture"	"EU"	0	"art"	4110	NA	"NT"	NA	NA	"X"	NA	NA	NA	NA	NA	"LAMMEG"	"LAMMEG"	NA	NA	NA	0
+473	"02470"	"02470"	"02470"	"Ådselgrib"	"Neophron percnopterus"	"Egyptian Vulture"	"AU"	0	"art"	4120	NA	"EN"	NA	NA	"X"	NA	NA	NA	NA	NA	"ÅDSELG"	"ÅDSELG"	NA	NA	NA	0
+479	"02510"	"02510"	"02510"	"Gåsegrib"	"Gyps fulvus"	"Griffon Vulture"	"AU"	0	"art"	4150	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"GÅSEGR"	"GÅSEGR"	NA	NA	NA	0
+484	"02550"	"02550"	"02550"	"Munkegrib"	"Aegypius monachus"	"Cinereous Vulture"	"U"	0	"art"	4160	NA	"NT"	NA	NA	"X"	NA	NA	NA	NA	NA	"MUNKEG"	"MUNKEG"	NA	NA	NA	0
+485	"02560"	"02560"	"02560"	"Slangeørn"	"Circaetus gallicus"	"Short-toed Snake Eagle"	"AU"	0	"art"	4140	NA	"LC"	"RE"	NA	"X"	NA	NA	NA	NA	NA	"SLANGE"	"SLANGE"	NA	NA	NA	0
+490	"02600"	"02600"	"02600"	"Rørhøg"	"Circus aeruginosus"	"Western Marsh Harrier"	"A"	0	"art"	4270	53021	"LC"	"LC"	NA	"X"	NA	NA	NA	"Y"	NA	"RØRHØG"	"RØRHØG"	"4"	"10"	"V"	0
+493	"02610"	"02610"	"02610"	"Blå Kærhøg"	"Circus cyaneus"	"Hen Harrier"	"A"	1	"art"	4280	53029	"LC"	"NA"	NA	"X"	"3"	0	NA	"V"	NA	"BLÅKÆR"	"BLÅKÆR"	"6"	"7"	"S"	0
+496	"02620"	"02620"	"02620"	"Steppehøg"	"Circus macrourus"	"Pallid Harrier"	"AS"	1	"art"	4290	53031	"NT"	NA	NA	"X"	NA	NA	NA	NA	NA	"STEHØG"	"STEHØG"	NA	NA	NA	0
+497	"02625"	"02629"	NA	"Steppehøg/Hedehøg"	"Circus macrourus/C. pygargus"	"Pallid Harrier/Montagu's Harrier"	"H"	0	"ubestemt"	4310	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S HEPP"	"S HEPP"	NA	NA	NA	0
+498	"02630"	"02630"	"02630"	"Hedehøg"	"Circus pygargus"	"Montagu's Harrier"	"A"	1	"art"	4320	53033	"LC"	"EN"	NA	"X"	"4"	0	NA	NA	NA	"HEDEHØ"	"HEDEHØ"	"5"	"9"	"V"	0
+500	"02641"	"02649"	NA	"Kærhøg sp."	"Circus sp."	"Harrier sp."	"H"	0	"ubestemt"	4330	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S KÆRH"	"S KÆRH"	NA	NA	NA	0
+504	"02670"	"02670"	"02670"	"Duehøg"	"Accipiter gentilis"	"Northern Goshawk"	"A"	2	"art"	4350	53089	"LC"	"VU"	NA	NA	NA	NA	NA	"YV"	NA	"DUEHØG"	"DUEHØG"	NA	NA	NA	0
+506	"02671"	"02672"	"02670"	"Duehøg, Russisk (ssp. buteoides)"	"Accipiter gentilis buteoides"	"Northern Goshawk (ssp. buteoides)"	"AU"	0	"underart"	4360	NA	"LC"	"VU"	NA	NA	NA	NA	NA	NA	NA	"R BUTE"	"R BUTE"	NA	NA	NA	0
+510	"02690"	"02690"	"02690"	"Spurvehøg"	"Accipiter nisus"	"Eurasian Sparrowhawk"	"A"	0	"art"	4340	53077	"LC"	"VU"	NA	NA	NA	NA	NA	"YV"	NA	"SPURVE"	"SPURVE"	NA	NA	NA	0
+534	"02870"	"02870"	"02870"	"Musvåge"	"Buteo buteo"	"Common Buzzard"	"A"	0	"art"	4450	53137	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"MUSVÅG"	"MUSVÅG"	NA	NA	NA	0
+536	"02872"	"02872"	"02870"	"Musvåge, Steppevåge (ssp. vulpinus)"	"Buteo buteo vulpinus"	"Common Buzzard (ssp. vulpinus)"	"AU"	0	"underart"	4460	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R VULP"	"R VULP"	NA	NA	NA	0
+538	"02880"	"02880"	"02880"	"Ørnevåge"	"Buteo rufinus"	"Long-legged Buzzard"	"AU"	0	"art"	4470	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"ØRNEVÅ"	"ØRNEVÅ"	NA	NA	NA	0
+542	"02900"	"02900"	"02900"	"Fjeldvåge"	"Buteo lagopus"	"Rough-legged Buzzard"	"A"	0	"art"	4440	53144	"LC"	NA	NA	NA	NA	NA	NA	"V"	NA	"FJELDV"	"FJELDV"	"7"	"8"	"S"	0
+546	"02911"	"02919"	NA	"Våge sp."	"Buteo sp."	"Buzzard sp."	"H"	0	"ubestemt"	4480	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S VÅGE"	"S VÅGE"	NA	NA	NA	0
+547	"02920"	"02920"	"02920"	"Lille Skrigeørn"	"Clanga pomarina"	"Lesser Spotted Eagle"	"AS"	0	"art"	4180	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"LISKRI"	"LISKRI"	NA	NA	NA	0
+548	"02931"	"02929"	NA	"Lille Skrigeørn/Stor Skrigeørn"	"Clanga pomarina/C. clanga"	"Lesser Spotted Eagle/Greater Spotted Eagle"	"H"	0	"ubestemt"	4200	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S SKRI"	"S SKRI"	NA	NA	NA	0
+549	"02930"	"02930"	"02930"	"Stor Skrigeørn"	"Clanga clanga"	"Greater Spotted Eagle"	"AU"	0	"art"	4190	NA	"VU"	NA	NA	"X"	NA	NA	NA	NA	NA	"STOSKR"	"STOSKR"	NA	NA	NA	0
+553	"02942"	"02945"	"02945"	"Steppeørn"	"Aquila nipalensis"	"Steppe Eagle"	"AU"	0	"art"	4210	NA	"EN"	NA	NA	NA	NA	NA	NA	NA	NA	"STEØRN"	"STEØRN"	NA	NA	NA	0
+556	"02950"	"02950"	"02950"	"Kejserørn"	"Aquila heliaca"	"Eastern Imperial Eagle"	"AU"	0	"art"	4220	NA	"VU"	NA	NA	"X"	NA	NA	NA	NA	NA	"KEJSER"	"KEJSER"	NA	NA	NA	0
+559	"02960"	"02960"	"02960"	"Kongeørn"	"Aquila chrysaetos"	"Golden Eagle"	"AS"	3	"art"	4230	NA	"LC"	"CR"	NA	"X"	NA	0	NA	NA	NA	"KONGEØ"	"KONGEØ"	NA	NA	NA	0
+562	"02965"	"02979"	NA	"Ørn sp."	"Aquila/Clanga/Haliaeetus/Hieraatus sp."	"Eagle sp."	"H"	0	"ubestemt"	4250	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S ØRN"	"S ØRN"	NA	NA	NA	0
+563	"02980"	"02980"	"02980"	"Dværgørn"	"Hieraaetus pennatus"	"Booted Eagle"	"AU"	0	"art"	4260	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"DVÆRGØ"	"DVÆRGØ"	NA	NA	NA	0
+564	"02990"	"02990"	"02990"	"Høgeørn"	"Aquila fasciata"	"Bonelli's Eagle"	"AU"	0	"art"	4240	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"HØGEØR"	"HØGEØR"	NA	NA	NA	0
+566	"03010"	"03010"	"03010"	"Fiskeørn"	"Pandion haliaetus"	"Western Osprey"	"A"	3	"art"	4080	52947	"LC"	"CR"	NA	"X"	"3"	0	NA	NA	NA	"FISKEØ"	"FISKEØ"	"4"	"10"	"V"	0
+568	"03030"	"03030"	"03030"	"Lille Tårnfalk"	"Falco naumanni"	"Lesser Kestrel"	"AU"	0	"art"	4840	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"LILTÅR"	"LILTÅR"	NA	NA	NA	0
+569	"03040"	"03040"	"03040"	"Tårnfalk"	"Falco tinnunculus"	"Common Kestrel"	"A"	0	"art"	4850	NA	"LC"	"LC"	NA	NA	"3"	NA	NA	"YV"	NA	"TÅRNFA"	"TÅRNFA"	NA	NA	NA	0
+570	"03050"	"03050"	"03050"	"Amerikansk Tårnfalk"	"Falco sparverius"	"American Kestrel"	"BU"	0	"art"	4860	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"AMETÅR"	"AMETÅR"	NA	NA	NA	0
+572	"03070"	"03070"	"03070"	"Aftenfalk"	"Falco vespertinus"	"Red-footed Falcon"	"AS"	0	"art"	4870	53226	"NT"	NA	NA	"X"	NA	NA	NA	NA	NA	"AFTENF"	"AFTENF"	"5"	"9"	"V"	0
+574	"03090"	"03090"	"03090"	"Dværgfalk"	"Falco columbarius"	"Merlin"	"A"	0	"art"	4890	NA	"LC"	NA	NA	"X"	NA	NA	NA	"V"	NA	"DVÆRGF"	"DVÆRGF"	"6"	"7"	"S"	0
+580	"03100"	"03100"	"03100"	"Lærkefalk"	"Falco subbuteo"	"Eurasian Hobby"	"A"	1	"art"	4900	53234	"LC"	"CR"	NA	NA	NA	0	NA	NA	NA	"LÆRKEF"	"LÆRKEF"	"5"	"9"	"V"	0
+581	"03105"	"03109"	NA	"Lærkefalk/Aftenfalk"	"Falco subbuteo/F. vespertinus"	"Eurasian Hobby/Red-footed Falcon"	"H"	0	"ubestemt"	4910	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S LÆAF"	"S LÆAF"	NA	NA	NA	0
+582	"03110"	"03110"	"03110"	"Eleonorafalk"	"Falco eleonorae"	"Eleonora's Falcon"	"AU"	0	"art"	4880	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"ELEONO"	"ELEONO"	NA	NA	NA	0
+585	"03140"	"03140"	"03140"	"Lannerfalk"	"Falco biarmicus"	"Lanner Falcon"	"DU"	0	"art"	4920	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"LANNER"	"LANNER"	NA	NA	NA	0
+591	"03160"	"03160"	"03160"	"Slagfalk"	"Falco cherrug"	"Saker Falcon"	"AU"	0	"art"	4930	NA	"EN"	NA	NA	"X"	NA	NA	NA	NA	NA	"SLAGFA"	"SLAGFA"	NA	NA	NA	0
+596	"03180"	"03180"	"03180"	"Jagtfalk"	"Falco rusticolus"	"Gyrfalcon"	"AU"	0	"art"	4940	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"JAGTFA"	"JAGTFA"	NA	NA	NA	0
+597	"03185"	"03189"	NA	"Storfalk sp."	"Falco sp."	"Large Falcon sp."	"H"	0	"ubestemt"	4970	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S STFA"	"S STFA"	NA	NA	NA	0
+599	"03200"	"03200"	"03200"	"Vandrefalk"	"Falco peregrinus"	"Peregrine Falcon"	"A"	1	"art"	4950	53247	"LC"	"VU"	NA	"X"	NA	0	NA	NA	NA	"VANDRE"	"VANDRE"	NA	NA	NA	0
+606	"03211"	"03219"	NA	"Falk sp."	"Falco sp."	"Falcon sp."	"H"	0	"ubestemt"	4980	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S FALK"	"S FALK"	NA	NA	NA	0
+625	"03320"	"03320"	"03320"	"Urfugl"	"Lyrurus tetrix"	"Black Grouse"	"AU"	1	"art"	1290	NA	"LC"	"RE"	NA	"X"	"3"	NA	NA	NA	NA	"URFUGL"	"URFUGL"	NA	NA	NA	0
+632	"03350"	"03350"	"03350"	"Tjur"	"Tetrao urogallus"	"Western Capercaillie"	"E"	0	"art"	1280	NA	"LC"	"NA"	NA	"X"	NA	NA	NA	NA	NA	"TJUR"	"TJUR"	NA	NA	NA	0
+662	"03570"	"03570"	"03570"	"Stenhøne"	"Alectoris graeca"	"Rock Partridge"	"E"	0	"art"	1210	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	"STENHØ"	"STENHØ"	NA	NA	NA	1
+664	"03580"	"03580"	"03580"	"Rødhøne"	"Alectoris rufa"	"Red-legged Partridge"	"E"	0	"art"	1230	NA	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"RØDHØN"	"RØDHØN"	NA	NA	NA	0
+683	"03670"	"03670"	"03670"	"Agerhøne"	"Perdix perdix"	"Grey Partridge"	"A"	0	"art"	1300	NA	"LC"	"VU"	NA	NA	"3"	NA	NA	"YV"	NA	"AGERHØ"	"AGERHØ"	NA	NA	NA	0
+690	"03700"	"03700"	"03700"	"Vagtel"	"Coturnix coturnix"	"Common Quail"	"A"	1	"art"	1200	53434	"LC"	"NT"	NA	NA	"3"	NA	NA	NA	NA	"VAGTEL"	"VAGTEL"	"5"	"9"	"V"	0
+721	"03940"	"03940"	"03940"	"Fasan"	"Phasianus colchicus"	"Common Pheasant"	"C"	0	"art"	1260	NA	"LC"	"NA"	NA	NA	NA	NA	NA	"YV"	NA	"FASAN"	"FASAN"	NA	NA	NA	0
+741	"04070"	"04070"	"04070"	"Vandrikse"	"Rallus aquaticus"	"Water Rail"	"A"	0	"art"	1670	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"Y"	6400	"VANDRI"	"VANDRI"	NA	NA	NA	0
+745	"04080"	"04080"	"04080"	"Plettet Rørvagtel"	"Porzana porzana"	"Spotted Crake"	"AS"	1	"art"	1690	NA	"LC"	"EN"	NA	"X"	"4"	0	NA	NA	6000	"PLERØR"	"PLERØR"	"5"	"9"	"V"	0
+747	"04100"	"04100"	"04100"	"Lille Rørvagtel"	"Zapornia parva"	"Little Crake"	"AU"	0	"art"	1700	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"LIRØRV"	"LIRØRV"	NA	NA	NA	0
+748	"04110"	"04110"	"04110"	"Dværgrørvagtel"	"Zapornia pusilla"	"Baillon's Crake"	"AU"	0	"art"	1710	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"DVÆRØR"	"DVÆRØR"	NA	NA	NA	0
+756	"04161"	"04169"	NA	"Rørvagtel sp."	"Porzana/Zapornia sp."	"Crake sp."	"H"	0	"ubestemt"	1720	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S RØRV"	"S RØRV"	NA	NA	NA	0
+761	"04210"	"04210"	"04210"	"Engsnarre"	"Crex crex"	"Corn Crake"	"A"	1	"art"	1680	NA	"LC"	"VU"	NA	"X"	"1"	0	NA	NA	NA	"ENGSNA"	"ENGSNA"	"5"	"9"	"V"	0
+764	"04240"	"04240"	"04240"	"Rørhøne (Grønbenet)"	"Gallinula chloropus"	"Common Moorhen"	"A"	0	"art"	1750	NA	"LC"	"VU"	NA	NA	NA	NA	NA	"YV"	37100	"GRØRØR"	"GRØRØR"	NA	NA	NA	0
+766	"04250"	"04250"	"04250"	"Lille Sultanhøne"	"Porphyrio alleni"	"Allen's Gallinule"	"BU"	0	"art"	1740	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"LILSUL"	"LILSUL"	NA	NA	NA	0
+769	"04270"	"04270"	"04270"	"Sultanhøne"	"Porphyrio porphyrio"	"Western Swamphen"	"E"	0	"art"	1730	53681	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SULTAN"	"SULTAN"	NA	NA	NA	0
+775	"04290"	"04290"	"04290"	"Blishøne"	"Fulica atra"	"Eurasian Coot"	"A"	0	"art"	1760	NA	"LC"	"VU"	NA	NA	NA	NA	NA	"YV"	15500	"BLISHØ"	"BLISHØ"	NA	NA	NA	0
+782	"04330"	"04330"	"04330"	"Trane"	"Grus grus"	"Common Crane"	"A"	1	"art"	1790	53560	"LC"	"LC"	NA	"X"	"3"	0	NA	NA	3500	"TRANE"	"TRANE"	NA	NA	NA	0
+794	"04409"	"04409"	NA	"Trane sp."	"Grus/Antigone sp."	"Crane sp."	"H"	0	"ubestemt"	1800	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S TRAN"	"S TRAN"	NA	NA	NA	0
+795	"04410"	"04410"	"04410"	"Jomfrutrane"	"Grus virgo"	"Demoiselle Crane"	"AU"	0	"art"	1780	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"JOMFRU"	"JOMFRU"	NA	NA	NA	0
+799	"04413"	"04419"	NA	"Stork/Trane sp."	"Ciconia/Grus/Antigone sp."	"Stork/Crane sp."	"H"	0	"ubestemt"	1810	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S STTR"	"S STTR"	NA	NA	NA	0
+800	"04420"	"04420"	"04420"	"Dværgtrappe"	"Tetrax tetrax"	"Little Bustard"	"AU"	0	"art"	1820	NA	"NT"	NA	NA	"X"	NA	NA	NA	NA	NA	"DVÆTRA"	"DVÆTRA"	NA	NA	NA	0
+812	"04460"	"04460"	"04460"	"Stortrappe"	"Otis tarda"	"Great Bustard"	"AU"	0	"art"	1830	NA	"VU"	"NA"	NA	"X"	NA	NA	NA	NA	NA	"STORTR"	"STORTR"	NA	NA	NA	0
+817	"04500"	"04500"	"04500"	"Strandskade"	"Haematopus ostralegus"	"Eurasian Oystercatcher"	"A"	0	"art"	2410	NA	"NT"	"LC"	NA	NA	NA	NA	NA	"YV"	8200	"STRSKA"	"STRSKA"	NA	NA	NA	0
+825	"04550"	"04550"	"04550"	"Stylteløber"	"Himantopus himantopus"	"Black-winged Stilt"	"AS"	1	"art"	2430	NA	"LC"	"NA"	NA	"X"	NA	NA	NA	NA	NA	"STYLTE"	"STYLTE"	NA	NA	NA	0
+829	"04560"	"04560"	"04560"	"Klyde"	"Recurvirostra avosetta"	"Pied Avocet"	"A"	0	"art"	2420	NA	"LC"	"VU"	"AY/AT"	"X"	"4/3"	NA	NA	"Y"	940	"KLYDE"	"KLYDE"	"3"	"11"	"V"	0
+832	"04590"	"04590"	"04590"	"Triel"	"Burhinus oedicnemus"	"Eurasian Stone-curlew"	"AU"	0	"art"	2400	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"TRIEL"	"TRIEL"	NA	NA	NA	0
+841	"04640"	"04640"	"04640"	"Ørkenløber"	"Cursorius cursor"	"Cream-colored Courser"	"AU"	0	"art"	3230	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"ØRKENL"	"ØRKENL"	NA	NA	NA	0
+846	"04650"	"04650"	"04650"	"Rødvinget Braksvale"	"Glareola pratincola"	"Collared Pratincole"	"AU"	0	"art"	3240	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"RØDBRA"	"RØDBRA"	NA	NA	NA	0
+849	"04670"	"04670"	"04670"	"Sortvinget Braksvale"	"Glareola nordmanni"	"Black-winged Pratincole"	"AU"	0	"art"	3260	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	"SORBRA"	"SORBRA"	NA	NA	NA	0
+851	"04681"	"04689"	NA	"Braksvale sp."	"Glareola sp."	"Pratincole sp."	"HU"	0	"ubestemt"	3270	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S BRAK"	"S BRAK"	NA	NA	NA	0
+852	"04690"	"04690"	"04690"	"Lille Præstekrave"	"Charadrius dubius"	"Little Ringed Plover"	"A"	0	"art"	2550	53825	"LC"	"NT"	NA	NA	NA	NA	NA	NA	3100	"LILPRÆ"	"LILPRÆ"	"4"	"9"	"V"	0
+853	"04700"	"04700"	"04700"	"Stor Præstekrave"	"Charadrius hiaticula"	"Common Ringed Plover"	"A"	0	"art"	2520	NA	"LC"	"VU"	NA	NA	NA	NA	NA	"Y"	4740	"STOPRÆ"	"STOPRÆ"	"2"	"10"	"V"	0
+855	"04702"	"04702"	"04700"	"Stor Præstekrave, Tundra (ssp. tundrae)"	"Charadrius hiaticula tundrae"	"Common Ringed Plover (ssp. tundrae)"	"A"	0	"underart"	2540	NA	"LC"	"VU"	NA	NA	NA	NA	NA	NA	4200	"R TUND"	"R TUND"	"2"	"10"	"V"	0
+865	"04770"	"04770"	"04770"	"Hvidbrystet Præstekrave"	"Charadrius alexandrinus"	"Kentish Plover"	"AS"	1	"art"	2560	NA	"LC"	"EN"	NA	"X"	"3"	0	NA	NA	660	"HVIPRÆ"	"HVIPRÆ"	"4"	"9"	"V"	0
+867	"04780"	"04780"	"04780"	"Mongolsk Præstekrave"	"Charadrius mongolus"	"Lesser Sand Plover"	"AU"	0	"art"	2570	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"MONPRÆ"	"MONPRÆ"	NA	NA	NA	0
+870	"04790"	"04790"	"04790"	"Ørkenpræstekrave"	"Charadrius leschenaultii"	"Greater Sand Plover"	"AU"	0	"art"	2580	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ØRKENP"	"ØRKENP"	NA	NA	NA	0
+876	"04820"	"04820"	"04820"	"Pomeransfugl"	"Charadrius morinellus"	"Eurasian Dotterel"	"AS"	0	"art"	2510	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	690	"POMERA"	"POMERA"	"5"	"9"	"V"	0
+879	"04840"	"04840"	"04840"	"Amerikansk Hjejle"	"Pluvialis dominica"	"American Golden Plover"	"AU"	0	"art"	2490	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"AMEHJE"	"AMEHJE"	NA	NA	NA	0
+880	"04841"	"04845"	"04845"	"Sibirisk Hjejle"	"Pluvialis fulva"	"Pacific Golden Plover"	"AU"	0	"art"	2480	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SIBHJE"	"SIBHJE"	NA	NA	NA	0
+881	"04842"	"04848"	NA	"Amerikansk Hjejle/Sibirisk Hjejle"	"Pluvialis fulva/P. dominica"	"Pacific Golden Plover/American Golden Plover"	"HU"	0	"ubestemt"	2500	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S TUHJ"	"S TUHJ"	NA	NA	NA	0
+883	"04850"	"04850"	"04850"	"Hjejle"	"Pluvialis apricaria"	"European Golden Plover"	"A"	1	"art"	2450	NA	"LC"	"CR"	"AT"	"X"	"4"	0	NA	"V"	11100	"HJEJLE"	"HJEJLE"	NA	NA	NA	0
+886	"04860"	"04860"	"04860"	"Strandhjejle"	"Pluvialis squatarola"	"Grey Plover"	"A"	0	"art"	2440	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	2000	"STRHJE"	"STRHJE"	NA	NA	NA	0
+892	"04910"	"04910"	"04910"	"Steppevibe"	"Vanellus gregarius"	"Sociable Lapwing"	"AU"	0	"art"	2610	NA	"CR"	NA	NA	NA	NA	NA	NA	NA	NA	"STEVIB"	"STEVIB"	NA	NA	NA	0
+893	"04920"	"04920"	"04920"	"Sumpvibe"	"Vanellus leucurus"	"White-tailed Lapwing"	"AU"	0	"art"	2620	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SUMPVI"	"SUMPVI"	NA	NA	NA	0
+894	"04930"	"04930"	"04930"	"Vibe"	"Vanellus vanellus"	"Northern Lapwing"	"A"	0	"art"	2590	53792	"NT"	"VU"	"X"	NA	NA	NA	NA	"YV"	72300	"VIBE"	"VIBE"	NA	NA	NA	0
+898	"04960"	"04960"	"04960"	"Islandsk Ryle"	"Calidris canutus"	"Red Knot"	"A"	0	"art"	2740	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	7800	"ISLRYL"	"ISLRYL"	NA	NA	NA	0
+899	"04961"	"04961"	"04960"	"Islandsk Ryle, Sibirisk (ssp. canutus)"	"Calidris canutus canutus"	"Red Knot (ssp. canutus)"	"A"	0	"underart"	2750	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	2500	"R CANU"	"R CANU"	NA	NA	NA	0
+900	"04962"	"04962"	"04960"	"Islandsk Ryle (ssp. islandica)"	"Calidris canutus islandica"	"Red Knot (ssp. islandica)"	"A"	0	"underart"	2760	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	5300	"R ISLR"	"R ISLR"	NA	NA	NA	0
+901	NA	"04969"	NA	"Islandsk Ryle/Lille Kobbersneppe"	"Calidris canutus/limosa lapponica"	"Red Knot/Bar-Tailed Godwit"	"H"	0	"ubestemt"	2770	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S ISLI"	"S ISLI"	NA	NA	NA	0
+902	"04970"	"04970"	"04970"	"Sandløber"	"Calidris alba"	"Sanderling"	"A"	0	"art"	2860	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	2000	"SANDLØ"	"SANDLØ"	NA	NA	NA	0
+903	"04980"	"04980"	"04980"	"Tyknæbbet Dværgryle"	"Calidris pusilla"	"Semipalmated Sandpiper"	"AU"	0	"art"	2970	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	"TYKDVÆ"	"TYKDVÆ"	NA	NA	NA	0
+904	"04990"	"04990"	"04990"	"Alaskaryle"	"Calidris mauri"	"Western Sandpiper"	"U"	0	"art"	2980	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ALASKA"	"ALASKA"	NA	NA	NA	1
+905	"05000"	"05000"	"05000"	"Rødhalset Ryle"	"Calidris ruficollis"	"Red-necked Stint"	"AU"	0	"art"	2850	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	"RØDRYL"	"RØDRYL"	NA	NA	NA	0
+906	"05010"	"05010"	"05010"	"Dværgryle"	"Calidris minuta"	"Little Stint"	"A"	0	"art"	2920	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	3000	"DVÆRGR"	"DVÆRGR"	"5"	"10"	"V"	0
+907	"05015"	"05018"	NA	"Dværgryle/Temmincksryle"	"Calidris minuta/C. temminckii"	"Little Stint/Temminck´s Stint"	"H"	0	"ubestemt"	2930	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S DVTE"	"S DVTE"	"5"	"10"	"V"	0
+909	"05020"	"05020"	"05020"	"Temmincksryle"	"Calidris temminckii"	"Temminck's Stint"	"A"	0	"art"	2840	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	410	"TEMMIN"	"TEMMIN"	"5"	"9"	"V"	0
+912	"05050"	"05050"	"05050"	"Hvidrygget Ryle"	"Calidris fuscicollis"	"White-rumped Sandpiper"	"AU"	0	"art"	2940	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"HVIRYL"	"HVIRYL"	NA	NA	NA	0
+913	"05060"	"05060"	"05060"	"Bairdsryle"	"Calidris bairdii"	"Baird's Sandpiper"	"AU"	0	"art"	2910	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BAIRDS"	"BAIRDS"	NA	NA	NA	0
+914	"05070"	"05070"	"05070"	"Stribet Ryle"	"Calidris melanotos"	"Pectoral Sandpiper"	"AS"	0	"art"	2960	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"STRRYL"	"STRRYL"	NA	NA	NA	0
+916	"05080"	"05080"	"05080"	"Spidshalet Ryle"	"Calidris acuminata"	"Sharp-tailed Sandpiper"	"AU"	0	"art"	2800	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SPIRYL"	"SPIRYL"	NA	NA	NA	0
+917	"05090"	"05090"	"05090"	"Krumnæbbet Ryle"	"Calidris ferruginea"	"Curlew Sandpiper"	"A"	0	"art"	2820	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	4000	"KRURYL"	"KRURYL"	"5"	"9"	"V"	0
+918	"05100"	"05100"	"05100"	"Sortgrå Ryle"	"Calidris maritima"	"Purple Sandpiper"	"A"	0	"art"	2830	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	710	"SORRYL"	"SORRYL"	"5"	"8"	"S"	0
+920	"05120"	"05120"	"05120"	"Almindelig Ryle"	"Calidris alpina"	"Dunlin"	"A"	1	"art"	2870	53938	"LC"	"EN"	NA	"X"	"3w"	NA	NA	NA	13315	"ALMRYL"	"ALMRYL"	NA	NA	NA	0
+921	"05121"	"05121"	"05120"	"Almindelig Ryle, Nordlig (ssp. alpina)"	"Calidris alpina alpina"	"Dunlin (ssp. alpina)"	"A"	1	"underart"	2880	NA	"LC"	"EN"	"AT"	"X"	NA	NA	NA	NA	13300	"R ALPI"	"R ALPI"	NA	NA	NA	0
+923	"05123"	"05123"	"05120"	"Almindelig Ryle, Engryle (ssp. schinzii)"	"Calidris alpina schinzii"	"Dunlin (ssp. schinzii)"	"A"	1	"underart"	2890	NA	"LC"	"EN"	"AY/AT"	"X"	NA	NA	NA	NA	15	"R SCHI"	"R SCHI"	"3"	"8"	"V"	0
+927	"05125"	"05129"	NA	"Ryle sp."	"Calidris sp."	"Sandpiper sp."	"H"	0	"ubestemt"	2900	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S RYLE"	"S RYLE"	NA	NA	NA	0
+929	"05140"	"05140"	"05140"	"Kærløber"	"Calidris falcinellus"	"Broad-billed Sandpiper"	"AS"	0	"art"	2790	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	1100	"KÆRLØB"	"KÆRLØB"	"6"	"8"	"V"	0
+930	"05150"	"05150"	"05150"	"Klireryle"	"Calidris himantopus"	"Stilt Sandpiper"	"AU"	0	"art"	2810	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"KLIRER"	"KLIRER"	NA	NA	NA	0
+931	"05160"	"05160"	"05160"	"Prærieløber"	"Calidris subruficollis"	"Buff-breasted Sandpiper"	"AU"	0	"art"	2950	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	"PRÆLØB"	"PRÆLØB"	NA	NA	NA	0
+932	"05170"	"05170"	"05170"	"Brushane"	"Calidris pugnax"	"Ruff"	"A"	0	"art"	2780	53943	"LC"	"EN"	NA	"X"	"4"	NA	NA	NA	22000	"BRUSHA"	"BRUSHA"	"4"	"10"	"V"	0
+933	"05180"	"05180"	"05180"	"Enkeltbekkasin"	"Lymnocryptes minimus"	"Jack Snipe"	"A"	0	"art"	3040	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	20000	"ENKELT"	"ENKELT"	"6"	"8"	"S"	0
+934	"05190"	"05190"	"05190"	"Dobbeltbekkasin"	"Gallinago gallinago"	"Common Snipe"	"A"	0	"art"	3030	53878	"LC"	"LC"	NA	NA	NA	NA	NA	"Y"	100000	"DOBBEL"	"DOBBEL"	NA	NA	NA	0
+938	"05200"	"05200"	"05200"	"Tredækker"	"Gallinago media"	"Great Snipe"	"AS"	0	"art"	3020	NA	"NT"	"RE"	NA	"X"	NA	NA	NA	NA	300	"TREDÆK"	"TREDÆK"	NA	NA	NA	0
+948	"05270"	"05270"	"05270"	"Langnæbbet Sneppeklire"	"Limnodromus scolopaceus"	"Long-billed Dowitcher"	"AU"	0	"art"	2990	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"LANSNE"	"LANSNE"	NA	NA	NA	0
+950	"05265"	"05289"	NA	"Sneppeklire sp."	"Limnodromus sp."	"Dowitcher sp."	"HU"	0	"ubestemt"	3000	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S SNEP"	"S SNEP"	NA	NA	NA	0
+951	"05290"	"05290"	"05290"	"Skovsneppe"	"Scolopax rusticola"	"Eurasian Woodcock"	"A"	0	"art"	3010	NA	"LC"	"LC"	NA	NA	"3w"	NA	NA	"Y"	240000	"SKOVSN"	"SKOVSN"	NA	NA	NA	0
+954	"05320"	"05320"	"05320"	"Stor Kobbersneppe"	"Limosa limosa"	"Black-tailed Godwit"	"A"	0	"art"	2700	53888	"NT"	"VU"	NA	NA	"2"	NA	NA	"Y"	790	"STOKOB"	"STOKOB"	"3"	"11"	"V"	0
+956	"05322"	"05322"	"05320"	"Stor Kobbersneppe, Islandsk (ssp. islandica)"	"Limosa limosa islandica"	"Black-tailed Godwit (ssp. islandica)"	"A"	0	"underart"	2720	NA	"NT"	"VU"	NA	NA	NA	NA	NA	NA	1100	"R ISLK"	"R ISLK"	"3"	"11"	"V"	0
+957	"05330"	"05330"	"05330"	"Canadisk Kobbersneppe"	"Limosa haemastica"	"Hudsonian Godwit"	"AU"	0	"art"	2690	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"CANKOB"	"CANKOB"	NA	NA	NA	0
+958	"05340"	"05340"	"05340"	"Lille Kobbersneppe"	"Limosa lapponica"	"Bar-tailed Godwit"	"A"	0	"art"	2680	NA	"NT"	NA	NA	"X"	NA	NA	NA	NA	6500	"LILKOB"	"LILKOB"	NA	NA	NA	0
+962	"05380"	"05380"	"05380"	"Småspove"	"Numenius phaeopus"	"Eurasian Whimbrel"	"A"	0	"art"	2650	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	3500	"LILREG"	"LILREG"	"5"	"9"	"V"	0
+969	"05410"	"05410"	"05410"	"Storspove"	"Numenius arquata"	"Eurasian Curlew"	"A"	0	"art"	2660	53897	"NT"	"VU"	NA	NA	"3w"	NA	NA	"YV"	7600	"STOREG"	"STOREG"	NA	NA	NA	0
+974	"05439"	"05439"	NA	"Spove sp."	"Numenius sp."	"Whimbrel/Curlew sp."	"H"	0	"ubestemt"	2670	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	""	""	NA	NA	NA	0
+975	"05440"	"05440"	"05440"	"Bartramsklire"	"Bartramia longicauda"	"Upland Sandpiper"	"AU"	0	"art"	2640	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BARTRA"	"BARTRA"	NA	NA	NA	0
+976	"05450"	"05450"	"05450"	"Sortklire"	"Tringa erythropus"	"Spotted Redshank"	"A"	0	"art"	3100	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	1000	"SORTKL"	"SORTKL"	"4"	"12"	"V"	0
+977	NA	"05459"	NA	"Sortklire/Rødben"	"Tringa erythropus/T. totanus"	"Spotted Redshank/Common Redshank"	"H"	0	"ubestemt"	3160	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S SORØ"	"S SORØ"	NA	NA	NA	0
+978	"05460"	"05460"	"05460"	"Rødben"	"Tringa totanus"	"Common Redshank"	"A"	0	"art"	3130	53902	"LC"	"NT"	"X"	NA	"2"	NA	NA	"YV"	4200	"RØDBEN"	"RØDBEN"	NA	NA	NA	0
+980	"05462"	"05462"	"05460"	"Rødben, Islandsk (ssp. robusta)"	"Tringa totanus robusta"	"Common Redshank (ssp. robusta)"	"A"	0	"underart"	3150	NA	"LC"	"NT"	NA	NA	NA	NA	NA	NA	2400	"R ROBU"	"R ROBU"	"5"	"7"	"S"	0
+982	"05470"	"05470"	"05470"	"Damklire"	"Tringa stagnatilis"	"Marsh Sandpiper"	"AS"	0	"art"	3180	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"DAMKLI"	"DAMKLI"	NA	NA	NA	0
+983	"05480"	"05480"	"05480"	"Hvidklire"	"Tringa nebularia"	"Common Greenshank"	"A"	0	"art"	3110	53904	"LC"	NA	NA	NA	NA	NA	NA	NA	3300	"HVIDKL"	"HVIDKL"	"3"	"11"	"V"	0
+985	"05500"	"05500"	"05500"	"Stor Gulben"	"Tringa melanoleuca"	"Greater Yellowlegs"	"U"	0	"art"	3120	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"STOGUL"	"STOGUL"	NA	NA	NA	0
+986	"05510"	"05510"	"05510"	"Lille Gulben"	"Tringa flavipes"	"Lesser Yellowlegs"	"AU"	0	"art"	3090	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"GULKLI"	"GULKLI"	NA	NA	NA	0
+988	"05530"	"05530"	"05530"	"Svaleklire"	"Tringa ochropus"	"Green Sandpiper"	"A"	1	"art"	3080	53908	"LC"	"EN"	NA	NA	NA	0	NA	NA	24000	"SVALEK"	"SVALEK"	"3"	"11"	"V"	0
+990	"05540"	"05540"	"05540"	"Tinksmed"	"Tringa glareola"	"Wood Sandpiper"	"A"	1	"art"	3170	53910	"LC"	"EN"	NA	"X"	"3"	0	NA	NA	18000	"TINKSM"	"TINKSM"	"4"	"9"	"V"	0
+991	"05550"	"05550"	"05550"	"Terekklire"	"Xenus cinereus"	"Terek Sandpiper"	"AU"	0	"art"	3050	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"TEREKK"	"TEREKK"	NA	NA	NA	0
+992	"05560"	"05560"	"05560"	"Mudderklire"	"Actitis hypoleucos"	"Common Sandpiper"	"A"	1	"art"	3060	53912	"LC"	"RE"	NA	NA	NA	NA	NA	NA	12000	"MUDDER"	"MUDDER"	"4"	"10"	"V"	0
+993	"05570"	"05570"	"05570"	"Plettet Mudderklire"	"Actitis macularius"	"Spotted Sandpiper"	"AU"	0	"art"	3070	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"PLEMUD"	"PLEMUD"	NA	NA	NA	0
+997	"05610"	"05610"	"05610"	"Stenvender"	"Arenaria interpres"	"Ruddy Turnstone"	"A"	1	"art"	2730	NA	"LC"	"CR"	NA	NA	NA	0	NA	NA	730	"STENVE"	"STENVE"	NA	NA	NA	0
+1001	"05630"	"05630"	"05630"	"Amerikansk Svømmesneppe"	"Phalaropus tricolor"	"Wilson's Phalarope"	"AU"	0	"art"	3190	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"WILSVØ"	"WILSVØ"	NA	NA	NA	0
+1002	"05640"	"05640"	"05640"	"Odinshane"	"Phalaropus lobatus"	"Red-necked Phalarope"	"AS"	0	"art"	3200	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	20000	"ODINSH"	"ODINSH"	"6"	"9"	"V"	0
+1003	"05651"	"05649"	NA	"Odinshane/Thorshane"	"Phalaropus lobatus/P. fulicarius"	"Red-necked Phalarope/Red Phalarope"	"H"	0	"ubestemt"	3220	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S ODTH"	"S ODTH"	"6"	"9"	"V"	0
+1004	"05650"	"05650"	"05650"	"Thorshane"	"Phalaropus fulicarius"	"Red Phalarope"	"AS"	0	"art"	3210	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	15700	"THORSH"	"THORSH"	NA	NA	NA	0
+1005	"05652"	"05658"	NA	"Vader sp., Stor"	"Charadrii sp."	"Limicolae (Larger)"	"H"	0	"ubestemt"	3280	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S STVA"	"S STVA"	NA	NA	NA	0
+1006	"05653"	"05659"	NA	"Vader sp., Lille"	"Charadrii sp."	"Limicolae (Smaller)"	"H"	0	"ubestemt"	3290	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S SMVA"	"S SMVA"	NA	NA	NA	0
+1007	"05660"	"05660"	"05660"	"Mellemkjove"	"Stercorarius pomarinus"	"Pomarine Jaeger"	"AS"	0	"art"	3480	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"MELLEM"	"MELLEM"	"6"	"7"	"S"	0
+1008	"05665"	"05669"	NA	"Mellemkjove/Almindelig Kjove"	"Stercorarius pomarinus/S. parasiticus"	"Pomarine Jaeger/Parasitic Jaeger"	"H"	0	"ubestemt"	3490	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S MEAL"	"S MEAL"	"4"	"11"	"V"	0
+1009	"05670"	"05670"	"05670"	"Almindelig Kjove"	"Stercorarius parasiticus"	"Parasitic Jaeger"	"A"	0	"art"	3460	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ALMKJO"	"ALMKJO"	"4"	"10"	"V"	0
+1010	"05680"	"05680"	"05680"	"Lille Kjove"	"Stercorarius longicaudus"	"Long-tailed Jaeger"	"AS"	0	"art"	3450	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"LILKJO"	"LILKJO"	NA	NA	NA	0
+1013	"05690"	"05690"	"05690"	"Storkjove"	"Stercorarius skua"	"Great Skua"	"A"	0	"art"	3500	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"STORKJ"	"STORKJ"	"3"	"11"	"V"	0
+1018	"05701"	"05709"	NA	"Kjove sp."	"Stercorariini"	"Jaeger/Skua sp."	"H"	0	"ubestemt"	3510	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S KJOV"	"S KJOV"	"3"	"11"	"V"	0
+1021	"05730"	"05730"	"05730"	"Stor Sorthovedet Måge"	"Ichthyaetus ichthyaetus"	"Pallas's Gull"	"AU"	0	"art"	3660	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"STOSOR"	"STOSOR"	NA	NA	NA	0
+1023	"05750"	"05750"	"05750"	"Sorthovedet Måge"	"Ichthyaetus melanocephalus"	"Mediterranean Gull"	"A"	1	"art"	3620	NA	"LC"	"VU"	NA	"X"	"4"	0	NA	NA	2400	"SORMÅG"	"SORMÅG"	NA	NA	NA	0
+1025	"05760"	"05760"	"05760"	"Lattermåge"	"Leucophaeus atricilla"	"Laughing Gull"	"AU"	0	"art"	3600	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"LATTER"	"LATTER"	NA	NA	NA	0
+1026	"05770"	"05770"	"05770"	"Præriemåge"	"Leucophaeus pipixcan"	"Franklin's Gull"	"AU"	0	"art"	3610	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"PRÆMÅG"	"PRÆMÅG"	NA	NA	NA	0
+1027	"05780"	"05780"	"05780"	"Dværgmåge"	"Hydrocoloeus minutus"	"Little Gull"	"A"	1	"art"	3580	NA	"LC"	"CR"	NA	"X"	NA	0	NA	NA	1000	"DVÆRGM"	"DVÆRGM"	NA	NA	NA	0
+1028	"05790"	"05790"	"05790"	"Sabinemåge"	"Xema sabini"	"Sabine's Gull"	"AS"	0	"art"	3540	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SABINE"	"SABINE"	NA	NA	NA	0
+1030	"05810"	"05810"	"05810"	"Bonapartemåge"	"Chroicocephalus philadelphia"	"Bonaparte's Gull"	"AU"	0	"art"	3560	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BONAPA"	"BONAPA"	NA	NA	NA	0
+1031	"05820"	"05820"	"05820"	"Hættemåge"	"Chroicocephalus ridibundus"	"Black-headed Gull"	"A"	0	"art"	3570	53995	"LC"	"EN"	"X"	NA	NA	NA	NA	"YV"	31000	"HÆTTEM"	"HÆTTEM"	NA	NA	NA	0
+1040	"05890"	"05890"	"05890"	"Ringnæbbet Måge"	"Larus delawarensis"	"Ring-billed Gull"	"AU"	0	"art"	3650	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"RINMÅG"	"RINMÅG"	NA	NA	NA	0
+1041	"05900"	"05900"	"05900"	"Stormmåge"	"Larus canus"	"Mew Gull"	"A"	0	"art"	3670	53970	"LC"	"LC"	"X"	NA	"2"	NA	NA	"YV"	16400	"STORMM"	"STORMM"	NA	NA	NA	0
+1043	"05901"	"05902"	"05900"	"Stormmåge, Russisk (ssp. heinei)"	"Larus canus heinei"	"Mew Gull (ssp. heinei)"	"A"	0	"underart"	3690	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R HEIN"	"R HEIN"	NA	NA	NA	0
+1045	"05910"	"05910"	"05910"	"Sildemåge"	"Larus fuscus"	"Lesser Black-backed Gull"	"A"	0	"art"	3700	NA	"LC"	"LC"	NA	NA	"4"	NA	NA	"Y"	11800	"SILDEM"	"SILDEM"	"3"	"10"	"V"	0
+1046	"05911"	"05911"	"05910"	"Sildemåge, Baltisk (ssp. fuscus)"	"Larus fuscus fuscus"	"Lesser Black-backed Gull (ssp. fuscus)"	"AS"	0	"underart"	3730	NA	"LC"	"CR"	NA	NA	NA	NA	NA	NA	650	"R FUSC"	"R FUSC"	NA	NA	NA	0
+1047	"05912"	"05912"	"05910"	"Sildemåge, Britisk (ssp. graellsii)"	"Larus fuscus graellsii"	"Lesser Black-backed Gull (ssp. graellsii)"	"A"	0	"underart"	3720	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	5500	"R GRAE"	"R GRAE"	"3"	"10"	"V"	0
+1048	"05913"	"05913"	"05910"	"Sildemåge, Nordsøsildemåge (ssp. intermedius)"	"Larus fuscus intermedius"	"Lesser Black-backed Gull (ssp. intermedius)"	"A"	0	"underart"	3710	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	6300	"R INTE"	"R INTE"	"3"	"10"	"V"	0
+1049	"05926"	"05915"	"05915"	"Middelhavssølvmåge"	"Larus michahellis"	"Yellow-legged Gull"	"AS"	0	"art"	3780	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	13900	"MIDDEL"	"MIDDEL"	NA	NA	NA	0
+1051	"05920"	"05920"	"05920"	"Sølvmåge"	"Larus argentatus"	"European Herring Gull"	"A"	0	"art"	3750	53982	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	14400	"SØLVMÅ"	"SØLVMÅ"	NA	NA	NA	0
+1053	"05922"	"05922"	"05910"	"Sildemåge, Sibirisk Måge (ssp. heuglini)"	"Larus fuscus heuglini"	"Lesser Black-backed Gull (ssp. heuglini)"	"AU"	0	"underart"	3740	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R HEUG"	"R HEUG"	NA	NA	NA	0
+1056	NA	"05925"	"05925"	"Amerikansk Sølvmåge"	"Larus smithsonianus"	"American Herring Gull"	"U"	0	"art"	3830	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"R SMIT"	"R SMIT"	NA	NA	NA	1
+1059	"05921"	"05930"	"05930"	"Kaspisk Måge"	"Larus cachinnans"	"Caspian Gull"	"A"	0	"art"	3790	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"KASMÅG"	"KASMÅG"	NA	NA	NA	0
+1069	"05980"	"05980"	"05980"	"Hvidvinget Måge"	"Larus glaucoides"	"Iceland Gull"	"AS"	0	"art"	3840	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	2100	"HVIMÅG"	"HVIMÅG"	NA	NA	NA	0
+1071	"05981"	"05982"	"05980"	"Hvidvinget Måge, Baffinmåge (ssp. kumlieni)"	"Larus glaucoides kumlieni"	"Iceland Gull (ssp. kumlieni)"	"AU"	0	"underart"	3860	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"R KUML"	"R KUML"	NA	NA	NA	0
+1072	"05970"	"05983"	"05980"	"Hvidvinget Måge, Inuitmåge (ssp. thayeri)"	"Larus glaucoides thayeri"	"Iceland Gull (ssp. thayeri)"	"AU"	0	"underart"	3870	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"R THAY"	"R THAY"	NA	NA	NA	0
+1073	"05990"	"05990"	"05990"	"Gråmåge"	"Larus hyperboreus"	"Glaucous Gull"	"AS"	0	"art"	3890	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	340	"GRÅMÅG"	"GRÅMÅG"	NA	NA	NA	0
+1074	"05991"	"05999"	NA	"Sølvmåge x Gråmåge (hybrid)"	"Larus argentatus x L. hyperboreus"	"European Herring Gull x Glaucous Gull"	"H"	0	"hybrid"	3820	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H SØGR"	"H SØGR"	NA	NA	NA	0
+1075	"06000"	"06000"	"06000"	"Svartbag"	"Larus marinus"	"Great Black-backed Gull"	"A"	0	"art"	3900	53974	"LC"	"LC"	NA	NA	"4"	NA	NA	"YV"	3600	"SVARTB"	"SVARTB"	NA	NA	NA	0
+1078	"06010"	"06010"	"06010"	"Rosenmåge"	"Rhodostethia rosea"	"Ross's Gull"	"AU"	0	"art"	3590	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ROSENM"	"ROSENM"	NA	NA	NA	0
+1079	"06020"	"06020"	"06020"	"Ride"	"Rissa tridactyla"	"Black-legged Kittiwake"	"A"	0	"art"	3520	NA	"VU"	"VU"	NA	NA	NA	NA	NA	NA	NA	"RIDE"	"RIDE"	NA	NA	NA	0
+1081	"06040"	"06040"	"06040"	"Ismåge"	"Pagophila eburnea"	"Ivory Gull"	"AU"	0	"art"	3530	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	"ISMÅGE"	"ISMÅGE"	NA	NA	NA	0
+1082	"06001"	"06049"	NA	"Måge sp."	"Larini"	"Gull sp."	"H"	0	"ubestemt"	3910	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S MÅGE"	"S MÅGE"	NA	NA	NA	0
+1083	"06050"	"06050"	"06050"	"Sandterne"	"Gelochelidon nilotica"	"Gull-billed Tern"	"AS"	1	"art"	3950	NA	"LC"	"CR"	"AY"	"X"	"3"	0	NA	NA	480	"SANDTE"	"SANDTE"	NA	NA	NA	0
+1084	"06060"	"06060"	"06060"	"Rovterne"	"Hydroprogne caspia"	"Caspian Tern"	"A"	1	"art"	3960	NA	"LC"	"CR"	NA	"X"	NA	NA	NA	NA	50	"ROVTER"	"ROVTER"	"5"	"8"	"V"	0
+1098	"06110"	"06110"	"06110"	"Splitterne"	"Thalasseus sandvicensis"	"Sandwich Tern"	"A"	1	"art"	4060	54016	"LC"	"LC"	NA	"X"	"2"	0	NA	NA	1700	"SPLITT"	"SPLITT"	"3"	"11"	"V"	0
+1101	"06120"	"06120"	"06120"	"Aztekerterne"	"Thalasseus elegans"	"Elegant Tern"	"AU"	0	"art"	4050	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	"AZTEKE"	"AZTEKE"	NA	NA	NA	0
+1104	"06140"	"06140"	"06140"	"Rosenterne"	"Sterna dougallii"	"Roseate Tern"	"AU"	0	"art"	4010	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"ROSENT"	"ROSENT"	NA	NA	NA	0
+1108	"06150"	"06150"	"06150"	"Fjordterne"	"Sterna hirundo"	"Common Tern"	"A"	0	"art"	4020	54025	"LC"	"NT"	NA	"X"	NA	NA	NA	"Y"	11000	"FJORDT"	"FJORDT"	"5"	"10"	"V"	0
+1111	"06155"	"06159"	NA	"Fjordterne/Havterne"	"Sterna hirundo/S. paradisaea"	"Common Tern/Arctic Tern"	"H"	0	"ubestemt"	4040	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S HFTE"	"S HFTE"	"4"	"10"	"V"	0
+1112	"06160"	"06160"	"06160"	"Havterne"	"Sterna paradisaea"	"Arctic Tern"	"A"	0	"art"	4030	NA	"LC"	"VU"	NA	"X"	NA	NA	NA	"Y"	31000	"HAVTER"	"HAVTER"	"4"	"10"	"V"	0
+1119	"06220"	"06220"	"06220"	"Brilleterne"	"Onychoprion anaethetus"	"Bridled Tern"	"AU"	0	"art"	3930	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BRITER"	"BRITER"	NA	NA	NA	0
+1123	"06230"	"06230"	"06230"	"Sodfarvet Terne"	"Onychoprion fuscatus"	"Sooty Tern"	"U"	0	"art"	3920	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SODTER"	"SODTER"	NA	NA	NA	0
+1126	"06240"	"06240"	"06240"	"Dværgterne"	"Sternula albifrons"	"Little Tern"	"A"	1	"art"	3940	NA	"LC"	"VU"	NA	"X"	"3"	NA	NA	"Y"	220	"DVÆRGT"	"DVÆRGT"	"5"	"8"	"V"	0
+1131	"06260"	"06260"	"06260"	"Hvidskægget Terne"	"Chlidonias hybrida"	"Whiskered Tern"	"AU"	0	"art"	3970	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"HVSKTE"	"HVSKTE"	NA	NA	NA	0
+1132	"06270"	"06270"	"06270"	"Sortterne"	"Chlidonias niger"	"Black Tern"	"A"	1	"art"	3990	NA	"LC"	"EN"	NA	"X"	"3"	0	NA	NA	4000	"SORTTE"	"SORTTE"	"5"	"9"	"V"	0
+1135	"06280"	"06280"	"06280"	"Hvidvinget Terne"	"Chlidonias leucopterus"	"White-winged Tern"	"AS"	1	"art"	3980	NA	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"HVVITE"	"HVVITE"	NA	NA	NA	0
+1136	"06289"	"06289"	NA	"Moseterne sp."	"Chlidonias sp."	"Tern sp. (Chlidonias)"	"H"	0	"ubestemt"	4000	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"5"	"9"	"V"	0
+1145	"06340"	"06340"	"06340"	"Lomvie"	"Uria aalge"	"Common Murre"	"A"	0	"art"	3390	NA	"LC"	"VU"	NA	NA	NA	NA	NA	NA	116000	"LOMVIE"	"LOMVIE"	NA	NA	NA	0
+1149	"06350"	"06350"	"06350"	"Polarlomvie"	"Uria lomvia"	"Thick-billed Murre"	"AU"	0	"art"	3380	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"POLARL"	"POLARL"	NA	NA	NA	0
+1150	"06360"	"06360"	"06360"	"Alk"	"Alca torda"	"Razorbill"	"A"	0	"art"	3340	NA	"NT"	"VU"	"AT"	NA	"4"	NA	NA	NA	15800	"ALK"	"ALK"	NA	NA	NA	0
+1152	NA	"06362"	"06360"	"Alk, Atlantisk (ssp. islandica)"	"Alca torda islandica"	"Razorbill (ssp. islandica)"	"A"	0	"underart"	3360	NA	"NT"	"VU"	NA	NA	NA	NA	NA	NA	13800	"R ISLB"	"R ISLB"	NA	NA	NA	0
+1153	"06365"	"06369"	NA	"Lomvie/Alk"	"Uria aalge/Alca torda"	"Common Murre/Razorbill"	"H"	0	"ubestemt"	3430	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S LOAL"	"S LOAL"	NA	NA	NA	0
+1155	"06380"	"06380"	"06380"	"Tejst"	"Cepphus grylle"	"Black Guillemot"	"A"	0	"art"	3310	NA	"LC"	"LC"	NA	NA	"2"	NA	NA	NA	8060	"TEJST"	"TEJST"	NA	NA	NA	0
+1160	NA	"06385"	"06380"	"Tejst, Atlantisk (ssp. arcticus)"	"Cepphus grylle arcticus"	"Black Guillemot (ssp. arcticus)"	"A"	0	"underart"	3330	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	7600	"R ATLT"	"R ATLT"	NA	NA	NA	0
+1174	"06470"	"06470"	"06470"	"Søkonge"	"Alle alle"	"Little Auk"	"AS"	0	"art"	3370	NA	"LC"	NA	"AT"	NA	NA	NA	NA	NA	1250000	"SØKONG"	"SØKONG"	"4"	"9"	"S"	0
+1182	"06540"	"06540"	"06540"	"Lunde"	"Fratercula arctica"	"Atlantic Puffin"	"AS"	1	"art"	3300	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	35000	"LUNDE"	"LUNDE"	"4"	"8"	"S"	0
+1185	"06565"	"06569"	NA	"Alkefugl sp."	"Alcinae"	"Auk sp."	"H"	0	"ubestemt"	3440	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S ALKE"	"S ALKE"	NA	NA	NA	0
+1202	"06630"	"06630"	"06630"	"Steppehøne"	"Syrrhaptes paradoxus"	"Pallas's Sandgrouse"	"AU"	0	"art"	1530	NA	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"STEHØN"	"STEHØN"	NA	NA	NA	0
+1205	"06650"	"06650"	"06650"	"Klippedue (tamdue)"	"Columba livia"	"Rock Dove"	"C"	0	"art"	1450	NA	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"KLIPPE"	"KLIPPE"	NA	NA	NA	0
+1210	"06680"	"06680"	"06680"	"Huldue"	"Columba oenas"	"Stock Dove"	"A"	0	"art"	1460	NA	"LC"	"LC"	NA	NA	"4"	NA	NA	"Y"	NA	"HULDUE"	"HULDUE"	NA	NA	NA	0
+1212	"06700"	"06700"	"06700"	"Ringdue"	"Columba palumbus"	"Common Wood Pigeon"	"A"	0	"art"	1470	54105	"LC"	"LC"	NA	NA	"4"	NA	NA	"YV"	NA	"RINGDU"	"RINGDU"	NA	NA	NA	0
+1233	"06840"	"06840"	"06840"	"Tyrkerdue"	"Streptopelia decaocto"	"Eurasian Collared Dove"	"A"	0	"art"	1500	54154	"LC"	"NT"	NA	NA	NA	NA	NA	"YV"	NA	"TYRKER"	"TYRKER"	NA	NA	NA	0
+1237	"06870"	"06870"	"06870"	"Turteldue"	"Streptopelia turtur"	"European Turtle Dove"	"AS"	1	"art"	1480	54149	"VU"	"EN"	NA	NA	"3"	NA	NA	NA	NA	"TURTEL"	"TURTEL"	"5"	"9"	"V"	0
+1242	"06890"	"06890"	"06890"	"Østlig Turteldue"	"Streptopelia orientalis"	"Oriental Turtle Dove"	"AU"	0	"art"	1490	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ØSTTUR"	"ØSTTUR"	NA	NA	NA	0
+1277	"07120"	"07120"	"07120"	"Alexanderparakit"	"Psittacula krameri"	"Rose-ringed Parakeet"	"E"	0	"art"	5020	54565	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"LILALE"	"LILALE"	NA	NA	NA	0
+1286	"07160"	"07160"	"07160"	"Skadegøg"	"Clamator glandarius"	"Great Spotted Cuckoo"	"AU"	0	"art"	1630	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SKADEG"	"SKADEG"	NA	NA	NA	0
+1295	"07240"	"07240"	"07240"	"Gøg"	"Cuculus canorus"	"Common Cuckoo"	"A"	0	"art"	1660	54799	"LC"	"NT"	NA	NA	NA	NA	NA	"Y"	NA	"GØG"	"GØG"	"5"	"9"	"V"	0
+1299	"07270"	"07270"	"07270"	"Sortnæbbet Gøg"	"Coccyzus erythropthalmus"	"Black-billed Cuckoo"	"AU"	0	"art"	1640	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SORGØG"	"SORGØG"	NA	NA	NA	0
+1300	"07280"	"07280"	"07280"	"Gulnæbbet Gøg"	"Coccyzus americanus"	"Yellow-billed Cuckoo"	"BU"	0	"art"	1650	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"GULGØG"	"GULGØG"	NA	NA	NA	0
+1311	"07350"	"07350"	"07350"	"Slørugle"	"Tyto alba"	"Western Barn Owl"	"A"	1	"art"	4490	NA	"LC"	"VU"	NA	NA	"3"	0	NA	NA	NA	"SLØRUG"	"SLØRUG"	NA	NA	NA	0
+1313	"07352"	"07352"	"07350"	"Slørugle, Mørkbrystet (ssp. guttata)"	"Tyto alba guttata"	"Western Barn Owl (ssp. guttata)"	"A"	1	"underart"	4510	NA	"LC"	"VU"	NA	NA	NA	NA	NA	NA	NA	"R GUTT"	"R GUTT"	NA	NA	NA	0
+1323	"07390"	"07390"	"07390"	"Dværghornugle"	"Otus scops"	"Eurasian Scops Owl"	"AU"	0	"art"	4560	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"DVÆHOR"	"DVÆHOR"	NA	NA	NA	0
+1332	"07440"	"07440"	"07440"	"Stor Hornugle"	"Bubo bubo"	"Eurasian Eagle-Owl"	"C"	1	"art"	4620	55008	"LC"	"EN"	NA	"X"	"3"	0	NA	NA	NA	"STOHOR"	"STOHOR"	NA	NA	NA	0
+1343	"07490"	"07490"	"07490"	"Sneugle"	"Bubo scandiacus"	"Snowy Owl"	"AU"	0	"art"	4610	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"SNEUGL"	"SNEUGL"	NA	NA	NA	0
+1344	"07500"	"07500"	"07500"	"Høgeugle"	"Surnia ulula"	"Northern Hawk-Owl"	"AU"	0	"art"	4520	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"HØGEUG"	"HØGEUG"	NA	NA	NA	0
+1347	"07510"	"07510"	"07510"	"Spurveugle"	"Glaucidium passerinum"	"Eurasian Pygmy Owl"	"AU"	0	"art"	4530	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"SPUUGL"	"SPUUGL"	NA	NA	NA	0
+1354	"07570"	"07570"	"07570"	"Kirkeugle"	"Athene noctua"	"Little Owl"	"AS"	2	"art"	4540	NA	"LC"	"CR"	NA	NA	"3"	0	NA	NA	NA	"KIRKEU"	"KIRKEU"	NA	NA	NA	0
+1362	"07610"	"07610"	"07610"	"Natugle"	"Strix aluco"	"Tawny Owl"	"A"	0	"art"	4600	NA	"LC"	"LC"	NA	NA	"4"	NA	NA	"YV"	NA	"NATUGL"	"NATUGL"	NA	NA	NA	0
+1373	"07670"	"07670"	"07670"	"Skovhornugle"	"Asio otus"	"Long-eared Owl"	"A"	0	"art"	4570	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"SKOVHO"	"SKOVHO"	NA	NA	NA	0
+1376	"07685"	"07679"	NA	"Skovhornugle/Mosehornugle"	"Asio otus/A. flammeus"	"Long-eared Owl/Short-eared Owl"	"H"	0	"ubestemt"	4590	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S SKMO"	"S SKMO"	NA	NA	NA	0
+1377	"07680"	"07680"	"07680"	"Mosehornugle"	"Asio flammeus"	"Short-eared Owl"	"A"	1	"art"	4580	55128	"LC"	"CR"	NA	"X"	"3"	0	NA	NA	NA	"MOSEHO"	"MOSEHO"	NA	NA	NA	0
+1379	"07700"	"07700"	"07700"	"Perleugle"	"Aegolius funereus"	"Boreal Owl"	"AS"	2	"art"	4550	NA	"LC"	"CR"	NA	"X"	NA	0	NA	NA	NA	"PERLEU"	"PERLEU"	NA	NA	NA	0
+1383	"07711"	"07719"	NA	"Ugle sp."	"Strigidae"	"Owl sp."	"H"	0	"ubestemt"	4630	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S UGLE"	"S UGLE"	NA	NA	NA	0
+1390	"07780"	"07780"	"07780"	"Natravn"	"Caprimulgus europaeus"	"European Nightjar"	"A"	0	"art"	1550	55209	"LC"	"NT"	NA	"X"	"2"	NA	NA	NA	NA	"NATRAV"	"NATRAV"	"6"	"8"	"V"	0
+1393	"07790"	"07790"	"07790"	"Rødhalset Natravn"	"Caprimulgus ruficollis"	"Red-necked Nightjar"	"U"	0	"art"	1540	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"RØDNAT"	"RØDNAT"	NA	NA	NA	0
+1395	"07810"	"07810"	"07810"	"Ørkennatravn"	"Caprimulgus aegyptius"	"Egyptian Nightjar"	"AU"	0	"art"	1560	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ØRKENN"	"ØRKENN"	NA	NA	NA	0
+1415	"07950"	"07950"	"07950"	"Mursejler"	"Apus apus"	"Common Swift"	"A"	0	"art"	1610	55328	"LC"	"NT"	NA	NA	NA	NA	NA	"Y"	NA	"MURSEJ"	"MURSEJ"	"5"	"9"	"V"	0
+1418	"07960"	"07960"	"07960"	"Gråsejler"	"Apus pallidus"	"Pallid Swift"	"AU"	0	"art"	1600	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"GRÅSEJ"	"GRÅSEJ"	NA	NA	NA	0
+1423	"07980"	"07980"	"07980"	"Alpesejler"	"Tachymarptis melba"	"Alpine Swift"	"AU"	0	"art"	1580	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ALPESE"	"ALPESE"	NA	NA	NA	0
+1431	"08009"	"08009"	NA	"Sejler sp."	"Apus sp."	"Swift sp."	"H"	0	"ubestemt"	1620	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"5"	"9"	"V"	0
+1467	"08310"	"08310"	"08310"	"Isfugl"	"Alcedo atthis"	"Common Kingfisher"	"A"	0	"art"	4830	NA	"LC"	"VU"	NA	"X"	"3"	NA	NA	"YV"	NA	"ISFUGL"	"ISFUGL"	NA	NA	NA	0
+1481	"08390"	"08390"	"08390"	"Grøn Biæder"	"Merops persicus"	"Blue-cheeked Bee-eater"	"AU"	0	"art"	4800	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"GRØBIÆ"	"GRØBIÆ"	NA	NA	NA	0
+1485	"08400"	"08400"	"08400"	"Biæder"	"Merops apiaster"	"European Bee-eater"	"AS"	2	"art"	4810	NA	"LC"	"VU"	NA	NA	NA	0	NA	NA	NA	"BIÆDER"	"BIÆDER"	NA	NA	NA	0
+1486	"08410"	"08410"	"08410"	"Ellekrage"	"Coracias garrulus"	"European Roller"	"AU"	0	"art"	4820	NA	"LC"	"RE"	NA	"X"	NA	NA	NA	NA	NA	"ELLEKR"	"ELLEKR"	NA	NA	NA	0
+1495	"08460"	"08460"	"08460"	"Hærfugl"	"Upupa epops"	"Eurasian Hoopoe"	"AS"	1	"art"	4640	55871	"LC"	"RE"	NA	NA	NA	NA	NA	NA	NA	"HÆRFUG"	"HÆRFUG"	NA	NA	NA	0
+1502	"08480"	"08480"	"08480"	"Vendehals"	"Jynx torquilla"	"Eurasian Wryneck"	"A"	1	"art"	4650	56121	"LC"	"VU"	NA	NA	"3"	NA	NA	NA	NA	"VENDEH"	"VENDEH"	"4"	"9"	"V"	0
+1508	"08500"	"08500"	"08500"	"Guldspætte"	"Colaptes auratus"	"Northern Flicker"	"AU"	0	"art"	4690	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"GULSPÆ"	"GULSPÆ"	NA	NA	NA	0
+1514	"08550"	"08550"	"08550"	"Gråspætte"	"Picus canus"	"Grey-headed Woodpecker"	"U"	0	"art"	4660	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"GRÅSPÆ"	"GRÅSPÆ"	NA	NA	NA	1
+1515	"08560"	"08560"	"08560"	"Grønspætte"	"Picus viridis"	"European Green Woodpecker"	"A"	0	"art"	4670	NA	"LC"	"VU"	NA	NA	"2"	NA	NA	"YV"	NA	"GRØNSP"	"GRØNSP"	NA	NA	NA	0
+1524	"08630"	"08630"	"08630"	"Sortspætte"	"Dryocopus martius"	"Black Woodpecker"	"A"	0	"art"	4680	NA	"LC"	"VU"	NA	"X"	NA	NA	NA	"YV"	NA	"SORTSP"	"SORTSP"	NA	NA	NA	0
+1537	"08760"	"08760"	"08760"	"Stor Flagspætte"	"Dendrocopos major"	"Great Spotted Woodpecker"	"A"	0	"art"	4740	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"STOFLA"	"STOFLA"	NA	NA	NA	0
+1538	"08761"	"08761"	"08760"	"Stor Flagspætte, Nordlig (ssp. major)"	"Dendrocopos major major"	"Great Spotted Woodpecker (ssp. major)"	"A"	0	"underart"	4750	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R MAJO"	"R MAJO"	NA	NA	NA	0
+1541	NA	"08764"	"08760"	"Stor Flagspætte, Sydlig (ssp. pinetorum)"	"Dendrocopos major pinetorum"	"Great Spotted Woodpecker (ssp. pinetorum)"	"A"	0	"underart"	4760	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R PINE"	"R PINE"	NA	NA	NA	0
+1542	NA	"08769"	NA	"Stor Flagspætte x Hvidrygget Flagspætte (hybrid)"	"Dendrocopos major x D. leucotos"	"Great Spotted Woodpecker x White-backed Woodpecker"	"HU"	0	"hybrid"	4770	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H STHV"	"H STHV"	NA	NA	NA	0
+1551	"08830"	"08830"	"08830"	"Mellemflagspætte"	"Dendrocoptes medius"	"Middle Spotted Woodpecker"	"AU"	0	"art"	4730	NA	"LC"	"RE"	NA	"X"	NA	NA	NA	NA	NA	"MELFLA"	"MELFLA"	NA	NA	NA	0
+1562	"08870"	"08870"	"08870"	"Lille Flagspætte"	"Dryobates minor"	"Lesser Spotted Woodpecker"	"A"	1	"art"	4700	NA	"LC"	"EN"	NA	NA	NA	NA	NA	NA	NA	"LILFLA"	"LILFLA"	NA	NA	NA	0
+1563	NA	"08871"	"08870"	"Lille Flagspætte, Nordlig (ssp. minor)"	"Dryobates minor minor"	"Lesser Spotted Woodpecker (ssp. minor)"	"A"	1	"underart"	4710	NA	"LC"	"EN"	NA	NA	NA	NA	NA	NA	NA	"R MINO"	"R MINO"	NA	NA	NA	0
+1568	NA	"08876"	"08870"	"Lille Flagspætte, Sydlig (ssp. hortorum)"	"Dryobates minor hortorum"	"Lesser Spotted Woodpecker (ssp. hortorum)"	"A"	1	"underart"	4720	NA	"LC"	"EN"	NA	NA	NA	NA	NA	NA	NA	"R HORT"	"R HORT"	NA	NA	NA	0
+1580	"08980"	"08980"	"08980"	"Tretået Spætte"	"Picoides tridactylus"	"Eurasian Three-toed Woodpecker"	"AU"	0	"art"	4780	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"TRESPÆ"	"TRESPÆ"	NA	NA	NA	0
+1672	"09610"	"09610"	"09610"	"Kalanderlærke"	"Melanocorypha calandra"	"Calandra Lark"	"U"	0	"art"	5480	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"KALAND"	"KALAND"	NA	NA	NA	1
+1676	"09620"	"09620"	"09620"	"Østlig Kalanderlærke"	"Melanocorypha bimaculata"	"Bimaculated Lark"	"AU"	0	"art"	5470	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+1684	"09680"	"09680"	"09680"	"Korttået Lærke"	"Calandrella brachydactyla"	"Greater Short-toed Lark"	"AU"	0	"art"	5490	NA	"LC"	"NA"	NA	"X"	NA	NA	NA	NA	NA	"KORLÆR"	"KORLÆR"	NA	NA	NA	0
+1697	"09700"	"09700"	"09700"	"Dværglærke"	"Alaudala rufescens"	"Lesser Short-toed Lark"	"U"	0	"art"	5460	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"DVÆRGL"	"DVÆRGL"	NA	NA	NA	0
+1708	"09720"	"09720"	"09720"	"Toplærke"	"Galerida cristata"	"Crested Lark"	"AS"	1	"art"	5530	NA	"LC"	"CR"	NA	NA	"3"	0	NA	NA	NA	"TOPLÆR"	"TOPLÆR"	NA	NA	NA	0
+1718	"09740"	"09740"	"09740"	"Hedelærke"	"Lullula arborea"	"Woodlark"	"A"	0	"art"	5510	57683	"LC"	"NT"	NA	"X"	"2"	NA	NA	NA	NA	"HEDELÆ"	"HEDELÆ"	NA	NA	NA	0
+1722	"09760"	"09760"	"09760"	"Sanglærke"	"Alauda arvensis"	"Eurasian Skylark"	"A"	0	"art"	5520	57680	"LC"	"NT"	NA	NA	"3"	NA	NA	"YV"	NA	"SANGLÆ"	"SANGLÆ"	NA	NA	NA	0
+1728	"09780"	"09780"	"09780"	"Bjerglærke"	"Eremophila alpestris"	"Horned Lark"	"A"	0	"art"	5500	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BJERGL"	"BJERGL"	"5"	"9"	"S"	0
+1737	NA	"09799"	NA	"Lærke sp."	"Alaudidae"	"Lark sp."	"H"	0	"ubestemt"	5540	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S LÆRK"	"S LÆRK"	NA	NA	NA	0
+1740	"09810"	"09810"	"09810"	"Digesvale"	"Riparia riparia"	"Sand Martin"	"A"	0	"art"	5800	57697	"LC"	"NT"	NA	NA	NA	NA	NA	"Y"	NA	"DIGESV"	"DIGESV"	"4"	"10"	"V"	0
+1759	"09910"	"09910"	"09910"	"Klippesvale"	"Ptyonoprogne rupestris"	"Eurasian Crag Martin"	"AU"	0	"art"	5790	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"KLISVA"	"KLISVA"	NA	NA	NA	0
+1760	"09920"	"09920"	"09920"	"Landsvale"	"Hirundo rustica"	"Barn Swallow"	"A"	0	"art"	5760	57729	"LC"	"LC"	NA	NA	"3"	NA	NA	"Y"	NA	"LANDSV"	"LANDSV"	"4"	"10"	"V"	0
+1768	"09950"	"09950"	"09950"	"Rødrygget Svale"	"Cecropis daurica"	"Red-rumped Swallow"	"AS"	0	"art"	5750	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"RØDSVA"	"RØDSVA"	NA	NA	NA	0
+1777	"10010"	"10010"	"10010"	"Bysvale"	"Delichon urbicum"	"Common House Martin"	"A"	0	"art"	5740	57746	"LC"	"LC"	NA	NA	NA	NA	NA	"Y"	NA	"BYSVAL"	"BYSVAL"	"4"	"10"	"V"	0
+1778	"10011"	"10018"	NA	"Landsvale x Bysvale (hybrid)"	"Hirundo rustica x Delichon urbicum"	"Barn Swallow x Common House Martin"	"H"	0	"hybrid"	5780	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H LABY"	"H LABY"	NA	NA	NA	0
+1779	"10012"	"10019"	NA	"Svale sp."	"Hirundinidae"	"Swallow/Martin sp."	"H"	0	"ubestemt"	5810	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S SVAL"	"S SVAL"	"4"	"10"	"V"	0
+1780	"10020"	"10020"	"10020"	"Storpiber"	"Anthus richardi"	"Richard's Pipit"	"AS"	0	"art"	7060	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"STORPI"	"STORPI"	NA	NA	NA	0
+1785	"10040"	"10040"	"10040"	"Mongolsk Piber"	"Anthus godlewskii"	"Blyth's Pipit"	"AU"	0	"art"	7070	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"MONPIB"	"MONPIB"	NA	NA	NA	0
+1786	"10050"	"10050"	"10050"	"Markpiber"	"Anthus campestris"	"Tawny Pipit"	"AS"	1	"art"	7080	NA	"LC"	"CR"	NA	"X"	"3"	0	NA	NA	NA	"MARKPI"	"MARKPI"	NA	NA	NA	0
+1796	"10080"	"10080"	"10080"	"Tajgapiber"	"Anthus hodgsoni"	"Olive-backed Pipit"	"AU"	0	"art"	7000	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"TAIGAP"	"TAIGAP"	NA	NA	NA	0
+1797	"10090"	"10090"	"10090"	"Skovpiber"	"Anthus trivialis"	"Tree Pipit"	"A"	0	"art"	6990	57802	"LC"	"LC"	NA	NA	NA	NA	NA	"Y"	NA	"SKOVPI"	"SKOVPI"	"5"	"9"	"V"	0
+1802	"10110"	"10110"	"10110"	"Engpiber"	"Anthus pratensis"	"Meadow Pipit"	"A"	0	"art"	7020	57798	"NT"	"LC"	NA	NA	"4"	NA	NA	"YV"	NA	"ENGPIB"	"ENGPIB"	NA	NA	NA	0
+1805	"10120"	"10120"	"10120"	"Rødstrubet Piber"	"Anthus cervinus"	"Red-throated Pipit"	"AS"	0	"art"	7010	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"RØDPIB"	"RØDPIB"	"5"	"10"	"V"	0
+1807	"10141"	"10135"	"10135"	"Skærpiber"	"Anthus petrosus"	"European Rock Pipit"	"A"	0	"art"	7040	NA	"LC"	"EN"	NA	NA	NA	NA	NA	NA	NA	"SKÆRPI"	"SKÆRPI"	"6"	"7"	"S"	0
+1812	"10140"	"10140"	"10140"	"Bjergpiber"	"Anthus spinoletta"	"Water Pipit"	"AS"	0	"art"	7030	57804	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BJERGP"	"BJERGP"	"3"	"10"	"S"	0
+1819	"10159"	"10159"	NA	"Piber sp."	"Anthus sp."	"Pipit sp."	"H"	0	"ubestemt"	7090	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S PIBE"	"S PIBE"	NA	NA	NA	0
+1823	"10170"	"10170"	"10170"	"Gul Vipstjert"	"Motacilla flava"	"Western Yellow Wagtail"	"A"	0	"art"	7100	57826	"LC"	"LC"	"X"	NA	NA	NA	NA	"Y"	NA	"GULVIP"	"GULVIP"	"5"	"9"	"V"	0
+1824	"10171"	"10171"	"10170"	"Gul Vipstjert (ssp. flava)"	"Motacilla flava flava"	"Western Yellow Wagtail (ssp. flava)"	"A"	0	"underart"	7110	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"S GULV"	"S GULV"	"5"	"9"	"V"	0
+1825	"10172"	"10172"	"10170"	"Gul Vipstjert, Gulhovedet (ssp. flavissima)"	"Motacilla flava flavissima"	"Western Yellow Wagtail (ssp. flavissima)"	"AS"	0	"underart"	7120	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R FLAV"	"R FLAV"	NA	NA	NA	0
+1826	"10173"	"10173"	"10170"	"Gul Vipstjert, Nordlig (ssp. thunbergi)"	"Motacilla flava thunbergi"	"Western Yellow Wagtail (ssp. thunbergi)"	"A"	0	"underart"	7140	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R THUN"	"R THUN"	"5"	"9"	"V"	0
+1827	"10174"	"10174"	"10170"	"Gul Vipstjert, Sorthovedet (ssp. feldegg)"	"Motacilla flava feldegg"	"Western Yellow Wagtail (ssp. feldegg)"	"AU"	0	"underart"	7130	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R FELD"	"R FELD"	NA	NA	NA	0
+1833	"10180"	"10180"	"10180"	"Citronvipstjert"	"Motacilla citreola"	"Citrine Wagtail"	"AS"	0	"art"	7170	NA	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"CITVIP"	"CITVIP"	NA	NA	NA	0
+1837	"10190"	"10190"	"10190"	"Bjergvipstjert"	"Motacilla cinerea"	"Grey Wagtail"	"A"	0	"art"	7160	NA	"LC"	"VU"	NA	NA	NA	NA	NA	"YV"	NA	"BJERGV"	"BJERGV"	NA	NA	NA	0
+1841	"10200"	"10200"	"10200"	"Hvid Vipstjert"	"Motacilla alba"	"White Wagtail"	"A"	0	"art"	7190	57821	"LC"	"LC"	NA	NA	NA	NA	NA	"Y"	NA	"HVIVIP"	"HVIVIP"	"3"	"10"	"V"	0
+1843	"10202"	"10202"	"10200"	"Hvid Vipstjert, Sortrygget Vipstjert (ssp. yarrellii)"	"Motacilla alba yarrellii"	"White Wagtail (ssp. yarrellii)"	"AS"	0	"underart"	7210	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R YARR"	"R YARR"	"2"	"7"	"V"	0
+1881	"10480"	"10480"	"10480"	"Silkehale"	"Bombycilla garrulus"	"Bohemian Waxwing"	"A"	0	"art"	6230	58082	"LC"	NA	NA	NA	NA	NA	NA	"V"	NA	"SILHAL"	"SILHAL"	"5"	"9"	"S"	0
+1883	"10500"	"10500"	"10500"	"Vandstær"	"Cinclus cinclus"	"White-throated Dipper"	"A"	2	"art"	6370	NA	"LC"	"CR"	NA	NA	NA	0	NA	"V"	NA	"VANDST"	"VANDST"	NA	NA	NA	0
+1905	"10660"	"10660"	"10660"	"Gærdesmutte"	"Troglodytes troglodytes"	"Eurasian Wren"	"A"	0	"art"	6320	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"GÆRSMU"	"GÆRSMU"	NA	NA	NA	0
+1925	"10840"	"10840"	"10840"	"Jernspurv"	"Prunella modularis"	"Dunnock"	"A"	0	"art"	6940	NA	"LC"	"LC"	"X"	NA	"4"	NA	NA	"YV"	NA	"JERNSP"	"JERNSP"	NA	NA	NA	0
+1931	"10860"	"10860"	"10860"	"Sibirisk Jernspurv"	"Prunella montanella"	"Siberian Accentor"	"AU"	0	"art"	6930	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SIBJER"	"SIBJER"	NA	NA	NA	0
+1939	"10940"	"10940"	"10940"	"Alpejernspurv"	"Prunella collaris"	"Alpine Accentor"	"AU"	0	"art"	6920	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ALPEJE"	"ALPEJE"	NA	NA	NA	0
+1954	"10990"	"10990"	"10990"	"Rødhals"	"Erithacus rubecula"	"European Robin"	"A"	0	"art"	6400	NA	"LC"	"LC"	NA	NA	"4"	NA	NA	"YV"	NA	"RØDHAL"	"RØDHAL"	NA	NA	NA	0
+1964	"11030"	"11030"	"11030"	"Nattergal"	"Luscinia luscinia"	"Thrush Nightingale"	"A"	0	"art"	6420	NA	"LC"	"VU"	NA	NA	"4"	NA	NA	"Y"	NA	"NATTER"	"NATTER"	"5"	"7"	"V"	0
+1966	NA	"11039"	NA	"Nattergal/Sydlig Nattergal"	"Luscinia luscinia/L. megarhynchos"	"Thrush Nightingale/Common Nightingale"	"H"	0	"ubestemt"	6440	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S NATT"	"S NATT"	NA	NA	NA	0
+1967	"11040"	"11040"	"11040"	"Sydlig Nattergal"	"Luscinia megarhynchos"	"Common Nightingale"	"AS"	0	"art"	6430	58455	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"SYDNAT"	"SYDNAT"	NA	NA	NA	0
+1971	"11050"	"11050"	"11050"	"Rubinnattergal"	"Calliope calliope"	"Siberian Rubythroat"	"AU"	0	"art"	6480	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"RUBINN"	"RUBINN"	NA	NA	NA	0
+1972	"11060"	"11060"	"11060"	"Blåhals"	"Luscinia svecica"	"Bluethroat"	"A"	1	"art"	6450	58460	"LC"	"LC"	NA	"X"	NA	0	NA	NA	NA	"BLÅHAL"	"BLÅHAL"	"4"	"9"	"V"	0
+1973	"11061"	"11061"	"11060"	"Blåhals, Nordlig (ssp. svecica)"	"Luscinia svecica svecica"	"Bluethroat (ssp. svecica)"	"AS"	1	"underart"	6460	NA	"LC"	"LC"	NA	"X"	NA	0	NA	NA	NA	"R SVEC"	"R SVEC"	"5"	"9"	"V"	0
+1974	"11062"	"11062"	"11060"	"Blåhals, Sydlig (ssp. cyanecula)"	"Luscinia svecica cyanecula"	"Bluethroat (ssp. cyanecula)"	"A"	1	"underart"	6470	NA	"LC"	"LC"	NA	"X"	NA	0	NA	NA	NA	"R CYAN"	"R CYAN"	"4"	"9"	"V"	0
+1987	"11130"	"11130"	"11130"	"Blåstjert"	"Tarsiger cyanurus"	"Red-flanked Bluetail"	"AU"	0	"art"	6490	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BLÅSTJ"	"BLÅSTJ"	NA	NA	NA	0
+1997	"11210"	"11210"	"11210"	"Husrødstjert"	"Phoenicurus ochruros"	"Black Redstart"	"A"	0	"art"	6560	58496	"LC"	"NT"	NA	NA	NA	NA	NA	"Y"	NA	"HUSRØD"	"HUSRØD"	"3"	"11"	"V"	0
+2005	"11220"	"11220"	"11220"	"Rødstjert"	"Phoenicurus phoenicurus"	"Common Redstart"	"A"	0	"art"	6550	58497	"LC"	"LC"	NA	NA	"2"	NA	NA	"Y"	NA	"RØDSTJ"	"RØDSTJ"	"5"	"9"	"V"	0
+2028	"11370"	"11370"	"11370"	"Bynkefugl"	"Saxicola rubetra"	"Whinchat"	"A"	0	"art"	6590	58512	"LC"	"LC"	NA	NA	"4"	NA	NA	"Y"	NA	"BYNKEF"	"BYNKEF"	"5"	"9"	"V"	0
+2029	NA	"11379"	NA	"Bynkefugl x Sortstrubet Bynkefugl (hybrid)"	"Saxicola rubetra x S. rubicola"	"Whinchat x European Stonechat"	"H"	0	"hybrid"	6630	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H BYSO"	"H BYSO"	NA	NA	NA	1
+2033	"11390"	"11390"	"11390"	"Sortstrubet Bynkefugl"	"Saxicola rubicola"	"European Stonechat"	"A"	1	"art"	6600	58515	"LC"	"LC"	NA	NA	"3"	NA	NA	NA	NA	"SORBYN"	"SORBYN"	NA	NA	NA	0
+2036	"11393"	"11393"	"11390"	"Sortstrubet Bynkefugl, Atlantisk (ssp. hibernans)"	"Saxicola rubicola hibernans"	"European Stonechat (ssp. hibernans)"	"A"	1	"underart"	6620	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R HIBE"	"R HIBE"	NA	NA	NA	0
+2037	"11395"	"11394"	"11399"	"Sibirisk Bynkefugl (ssp. maurus)"	"Saxicola maurus maurus"	"Siberian Stonechat (ssp. maurus)"	"AU"	1	"underart"	6660	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"R MAUR"	"R MAUR"	NA	NA	NA	0
+2039	NA	"11396"	"11399"	"Sibirisk Bynkefugl, Steppebynkefugl (ssp. variegatus)"	"Saxicola maurus variegatus"	"Siberian Stonechat (ssp. variegatus)"	"AU"	0	"underart"	6650	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"R VARI"	"R VARI"	NA	NA	NA	0
+2047	"11440"	"11440"	"11440"	"Isabellastenpikker"	"Oenanthe isabellina"	"Isabelline Wheatear"	"AU"	0	"art"	6700	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ISASTE"	"ISASTE"	NA	NA	NA	0
+2049	"11460"	"11460"	"11460"	"Stenpikker"	"Oenanthe oenanthe"	"Northern Wheatear"	"A"	0	"art"	6670	58539	"LC"	"VU"	"X"	NA	NA	NA	NA	"Y"	NA	"STENPI"	"STENPI"	"4"	"10"	"V"	0
+2051	"11462"	"11462"	"11460"	"Stenpikker, Grønlandsk (ssp. leucorhoa)"	"Oenanthe oenanthe leucorhoa"	"Northern Wheatear (ssp. leucorhoa)"	"A"	0	"underart"	6690	NA	"LC"	"VU"	NA	NA	NA	NA	NA	NA	NA	"R LEUC"	"R LEUC"	NA	NA	NA	0
+2054	"11470"	"11470"	"11470"	"Nonnestenpikker"	"Oenanthe pleschanka"	"Pied Wheatear"	"AU"	0	"art"	6730	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"NONNES"	"NONNES"	NA	NA	NA	0
+2058	"11480"	"11480"	NA	"Vestlig Middelhavsstenpikker/Østlig Middelhavsstenpikker "	"Oenanthe hispanica/O. melanoleuca"	"Western Black-eared Wheatear/Eastern Black-eared Wheatear"	"AU"	0	"ubestemt"	6720	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"MIDSTE"	"MIDSTE"	NA	NA	NA	0
+2061	"11490"	"11490"	"11490"	"Ørkenstenpikker"	"Oenanthe deserti"	"Desert Wheatear"	"AU"	0	"art"	6710	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ØRKSTE"	"ØRKSTE"	NA	NA	NA	0
+2089	"11620"	"11620"	"11620"	"Stendrossel"	"Monticola saxatilis"	"Common Rock Thrush"	"AU"	0	"art"	6580	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"STENDR"	"STENDR"	NA	NA	NA	0
+2099	"11700"	"11700"	"11700"	"Gulddrossel"	"Zoothera dauma"	"Scaly Thrush"	"AU"	0	"art"	6750	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"GULDDR"	"GULDDR"	NA	NA	NA	0
+2126	"11860"	"11860"	"11860"	"Ringdrossel"	"Turdus torquatus"	"Ring Ouzel"	"A"	0	"art"	6870	58265	"LC"	"NA"	NA	NA	"4"	NA	NA	NA	NA	"RINGDR"	"RINGDR"	"4"	"10"	"V"	0
+2130	"11870"	"11870"	"11870"	"Solsort"	"Turdus merula"	"Common Blackbird"	"A"	0	"art"	6820	NA	"LC"	"LC"	NA	NA	"4"	NA	NA	"YV"	NA	"SOLSOR"	"SOLSOR"	NA	NA	NA	0
+2143	"11970"	"11970"	NA	"Rødstrubet Drossel/Sortstrubet Drossel"	"Turdus ruficollis/T. atrogularis"	"Red-throated Thrush/Black-throated Thrush"	"HU"	0	"ubestemt"	6900	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"MØRDRO"	"MØRDRO"	NA	NA	NA	1
+2144	"11971"	"11971"	"11971"	"Rødstrubet Drossel"	"Turdus ruficollis"	"Red-throated Thrush"	"U"	0	"art"	6890	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"R RUFI"	"R RUFI"	NA	NA	NA	1
+2145	"11970"	"11972"	"11972"	"Sortstrubet Drossel"	"Turdus atrogularis"	"Black-throated Thrush"	"AU"	0	"art"	6880	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"R ATRO"	"R ATRO"	NA	NA	NA	0
+2146	"11980"	"11980"	"11980"	"Sjagger"	"Turdus pilaris"	"Fieldfare"	"A"	0	"art"	6850	58255	"LC"	"LC"	NA	NA	"4w"	NA	NA	"YV"	NA	"SJAGGE"	"SJAGGE"	NA	NA	NA	0
+2148	"12000"	"12000"	"12000"	"Sangdrossel"	"Turdus philomelos"	"Song Thrush"	"A"	0	"art"	6780	58252	"LC"	"LC"	NA	NA	"4"	NA	NA	"Y"	NA	"SANGDR"	"SANGDR"	"3"	"11"	"V"	0
+2152	"12011"	"12009"	NA	"Sangdrossel/Vindrossel"	"Turdus philomelos/T. iliacus"	"Song Thrush/Redwing"	"H"	0	"ubestemt"	6810	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S SAVI"	"S SAVI"	NA	NA	NA	0
+2153	"12010"	"12010"	"12010"	"Vindrossel"	"Turdus iliacus"	"Redwing"	"A"	0	"art"	6790	58254	"NT"	"NA"	NA	NA	"4w"	NA	NA	"V"	NA	"VINDRO"	"VINDRO"	"6"	"9"	"S"	0
+2155	"12012"	"12012"	"12010"	"Vindrossel, Islandsk (ssp. coburni)"	"Turdus iliacus coburni"	"Redwing (ssp. coburni)"	"AU"	0	"underart"	6800	NA	"NT"	"NA"	NA	NA	NA	NA	NA	NA	NA	"R COBU"	"R COBU"	NA	NA	NA	0
+2156	"12020"	"12020"	"12020"	"Misteldrossel"	"Turdus viscivorus"	"Mistle Thrush"	"A"	0	"art"	6770	NA	"LC"	"LC"	NA	NA	"4"	NA	NA	"YV"	NA	"MISTEL"	"MISTEL"	"2"	"11"	"V"	0
+2159	"12030"	"12030"	"12030"	"Vandredrossel"	"Turdus migratorius"	"American Robin"	"AU"	0	"art"	6830	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"VANDRO"	"VANDRO"	NA	NA	NA	0
+2164	"11985"	"12069"	NA	"Drossel sp."	"Turdinae"	"Thrush sp."	"H"	0	"ubestemt"	6910	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S DROS"	"S DROS"	NA	NA	NA	0
+2190	"12260"	"12260"	"12260"	"Cistussanger"	"Cisticola juncidis"	"Zitting Cisticola"	"AU"	0	"art"	5560	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"CISTUS"	"CISTUS"	NA	NA	NA	0
+2210	"12350"	"12350"	"12350"	"Stribet Græshoppesanger"	"Locustella lanceolata"	"Lanceolated Warbler"	"AU"	0	"art"	5580	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"STRGRÆ"	"STRGRÆ"	NA	NA	NA	0
+2211	"12360"	"12360"	"12360"	"Græshoppesanger"	"Locustella naevia"	"Common Grasshopper Warbler"	"A"	0	"art"	5610	NA	"LC"	"LC"	NA	NA	"4"	NA	NA	"Y"	NA	"GRÆSHO"	"GRÆSHO"	"5"	"9"	"V"	0
+2215	"12370"	"12370"	"12370"	"Flodsanger"	"Locustella fluviatilis"	"River Warbler"	"AS"	0	"art"	5600	NA	"LC"	"NE"	NA	NA	NA	NA	NA	NA	NA	"FLODSA"	"FLODSA"	NA	NA	NA	0
+2216	"12380"	"12380"	"12380"	"Savisanger"	"Locustella luscinioides"	"Savi's Warbler"	"AS"	1	"art"	5590	NA	"LC"	"CR"	NA	NA	"4"	NA	NA	NA	NA	"SAVISA"	"SAVISA"	"5"	"8"	"V"	0
+2220	"12390"	"12390"	"12390"	"Stor Græshoppesanger"	"Helopsaltes fasciolatus"	"Gray's Grasshopper Warbler"	"AU"	0	"art"	5570	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"STOGRÆ"	"STOGRÆ"	NA	NA	NA	0
+2225	"12410"	"12410"	"12410"	"Tamarisksanger"	"Acrocephalus melanopogon"	"Moustached Warbler"	"U"	0	"art"	5670	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"TAMARI"	"TAMARI"	NA	NA	NA	0
+2228	"12420"	"12420"	"12420"	"Vandsanger"	"Acrocephalus paludicola"	"Aquatic Warbler"	"AU"	0	"art"	5660	NA	"VU"	NA	NA	"X"	NA	NA	NA	NA	NA	"VANDSA"	"VANDSA"	NA	NA	NA	0
+2229	"12430"	"12430"	"12430"	"Sivsanger"	"Acrocephalus schoenobaenus"	"Sedge Warbler"	"A"	0	"art"	5680	58794	"LC"	"LC"	"X"	NA	"4"	NA	NA	"Y"	NA	"SIVSAN"	"SIVSAN"	"5"	"9"	"V"	0
+2233	"12470"	"12470"	"12470"	"Lille Rørsanger"	"Acrocephalus agricola"	"Paddyfield Warbler"	"AU"	0	"art"	5720	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"LIRØRS"	"LIRØRS"	NA	NA	NA	0
+2236	"12480"	"12480"	"12480"	"Buskrørsanger"	"Acrocephalus dumetorum"	"Blyth's Reed Warbler"	"AU"	0	"art"	5690	NA	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"BUSKRØ"	"BUSKRØ"	NA	NA	NA	0
+2239	"12500"	"12500"	"12500"	"Kærsanger"	"Acrocephalus palustris"	"Marsh Warbler"	"A"	0	"art"	5700	58803	"LC"	"LC"	NA	NA	"4"	NA	NA	"Y"	NA	"KÆRSAN"	"KÆRSAN"	"6"	"8"	"V"	0
+2240	"12510"	"12510"	"12510"	"Rørsanger"	"Acrocephalus scirpaceus"	"Eurasian Reed Warbler"	"A"	0	"art"	5710	NA	"LC"	"NT"	NA	NA	"4"	NA	NA	"Y"	NA	"RØRSAN"	"RØRSAN"	"5"	"10"	"V"	0
+2248	"12530"	"12530"	"12530"	"Drosselrørsanger"	"Acrocephalus arundinaceus"	"Great Reed Warbler"	"AS"	1	"art"	5730	NA	"LC"	"CR"	NA	NA	NA	NA	NA	NA	NA	"DROSSE"	"DROSSE"	NA	NA	NA	0
+2257	"12550"	"12550"	"12550"	"Bleg Gulbug"	"Iduna pallida"	"Eastern Olivaceous Warbler"	"AU"	0	"art"	5630	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ØSTBLE"	"ØSTBLE"	NA	NA	NA	0
+2264	"12560"	"12560"	"12560"	"Lille Gulbug"	"Iduna caligata"	"Booted Warbler"	"AU"	0	"art"	5620	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"LILGUL"	"LILGUL"	NA	NA	NA	0
+2269	"12590"	"12590"	"12590"	"Gulbug"	"Hippolais icterina"	"Icterine Warbler"	"A"	0	"art"	5650	NA	"LC"	"VU"	"X"	NA	"4"	NA	NA	"Y"	NA	"GULBUG"	"GULBUG"	"6"	"8"	"V"	0
+2270	"12600"	"12600"	"12600"	"Spottesanger"	"Hippolais polyglotta"	"Melodious Warbler"	"AU"	0	"art"	5640	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SPOTTE"	"SPOTTE"	NA	NA	NA	0
+2286	"12650"	"12650"	NA	"Rødstrubet Sanger/Iberisk Sanger/Makisanger"	"Curruca cantillans/iberiae/subalpina"	"Eastern/Western Subalpine/Moltoni's Warbler"	"HU"	0	"ubestemt"	6169	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"HVISAN"	"HVISAN"	NA	NA	NA	0
+2293	"12670"	"12670"	"12670"	"Sorthovedet Sanger"	"Curruca melanocephala"	"Sardinian Warbler"	"AU"	0	"art"	6170	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SOHOSA"	"SOHOSA"	NA	NA	NA	0
+2301	"12690"	"12690"	"12690"	"Sortstrubet Sanger"	"Curruca ruppeli"	"Rüppell's Warbler"	"AU"	0	"art"	6150	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"SOSTSA"	"SOSTSA"	NA	NA	NA	0
+2302	"12700"	"12700"	"12700"	"Asiatisk Ørkensanger"	"Curruca nana"	"Asian Desert Warbler"	"AU"	0	"art"	6100	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ØRKSAN"	"ØRKSAN"	NA	NA	NA	0
+2312	"12730"	"12730"	"12730"	"Høgesanger"	"Curruca nisoria"	"Barred Warbler"	"AS"	1	"art"	6110	NA	"LC"	"RE"	NA	"X"	"4"	0	NA	NA	NA	"HØGESA"	"HØGESA"	NA	NA	NA	0
+2320	"12740"	"12740"	"12740"	"Gærdesanger"	"Curruca curruca"	"Lesser Whitethroat"	"A"	0	"art"	6120	58955	"LC"	"LC"	NA	NA	NA	NA	NA	"Y"	NA	"GÆRSAN"	"GÆRSAN"	"5"	"9"	"V"	0
+2322	"12742"	"12742"	"12740"	"Gærdesanger, Sibirisk (ssp. blythi)"	"Curruca curruca blythi"	"Lesser Whitethroat (ssp. blythi)"	"AU"	0	"underart"	6130	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R BLYT"	"R BLYT"	NA	NA	NA	0
+2326	"12750"	"12750"	"12750"	"Tornsanger"	"Curruca communis"	"Common Whitethroat"	"A"	0	"art"	6180	58961	"LC"	"LC"	NA	NA	"4"	NA	NA	"Y"	NA	"TORNSA"	"TORNSA"	"5"	"9"	"V"	0
+2331	"12760"	"12760"	"12760"	"Havesanger"	"Sylvia borin"	"Garden Warbler"	"A"	0	"art"	6090	58953	"LC"	"LC"	NA	NA	"4"	NA	NA	"Y"	NA	"HAVESA"	"HAVESA"	"5"	"9"	"V"	0
+2334	"12770"	"12770"	"12770"	"Munk"	"Sylvia atricapilla"	"Eurasian Blackcap"	"A"	0	"art"	6080	58952	"LC"	"LC"	NA	NA	"4"	NA	NA	"Y"	NA	"MUNK"	"MUNK"	"4"	"10"	"V"	0
+2355	"12930"	"12930"	"12930"	"Lundsanger"	"Phylloscopus trochiloides"	"Greenish Warbler"	"AS"	0	"art"	6000	NA	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"LUNDSA"	"LUNDSA"	NA	NA	NA	0
+2361	"12950"	"12950"	"12950"	"Nordsanger"	"Phylloscopus borealis"	"Arctic Warbler"	"AU"	0	"art"	6010	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"NORDSA"	"NORDSA"	NA	NA	NA	0
+2364	"12980"	"12980"	"12980"	"Fuglekongesanger"	"Phylloscopus proregulus"	"Pallas's Leaf Warbler"	"AS"	0	"art"	5870	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"FUGSAN"	"FUGSAN"	NA	NA	NA	0
+2368	"13000"	"13000"	"13000"	"Hvidbrynet Løvsanger"	"Phylloscopus inornatus"	"Yellow-browed Warbler"	"AS"	0	"art"	5850	58883	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"HVILØV"	"HVILØV"	NA	NA	NA	0
+2370	"13005"	"13005"	"13005"	"Himalayasanger"	"Phylloscopus humei"	"Hume's Leaf Warbler"	"AU"	0	"art"	5860	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"HUMSAN"	"HUMSAN"	NA	NA	NA	0
+2373	"13010"	"13010"	"13010"	"Schwarz´ Løvsanger"	"Phylloscopus schwarzi"	"Radde's Warbler"	"AU"	0	"art"	5990	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SCHLØV"	"SCHLØV"	NA	NA	NA	0
+2375	"13030"	"13030"	"13030"	"Brun Løvsanger"	"Phylloscopus fuscatus"	"Dusky Warbler"	"AU"	0	"art"	5880	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BRULØV"	"BRULØV"	NA	NA	NA	0
+2380	"13070"	"13070"	"13070"	"Bjergløvsanger"	"Phylloscopus bonelli"	"Western Bonelli's Warbler"	"AU"	0	"art"	5820	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BJELØV"	"BJELØV"	NA	NA	NA	0
+2383	NA	"13079"	NA	"Bjergløvsanger/Balkanløvsanger"	"Phylloscopus bonelli/P. orientalis"	"Western Bonelli´s Warbler/Eastern Bonelli´s Warbler"	"HU"	0	"ubestemt"	5830	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S BJER"	"S BJER"	NA	NA	NA	0
+2384	"13080"	"13080"	"13080"	"Skovsanger"	"Phylloscopus sibilatrix"	"Wood Warbler"	"A"	0	"art"	5840	58868	"LC"	"LC"	NA	NA	"4"	NA	NA	"Y"	NA	"SKOVSA"	"SKOVSA"	"5"	"8"	"V"	0
+2392	"13110"	"13110"	"13110"	"Gransanger"	"Phylloscopus collybita"	"Common Chiffchaff"	"A"	0	"art"	5950	58861	"LC"	"LC"	NA	NA	NA	NA	NA	"Y"	NA	"GRANSA"	"GRANSA"	"3"	"11"	"V"	0
+2393	"13111"	"13111"	"13110"	"Gransanger, Sydlig (ssp. collybita)"	"Phylloscopus collybita collybita"	"Common Chiffchaff (ssp. collybita)"	"A"	0	"underart"	5960	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R COLL"	"R COLL"	NA	NA	NA	0
+2395	"13113"	"13113"	"13110"	"Gransanger, Sibirisk (ssp. tristis)"	"Phylloscopus collybita tristis"	"Common Chiffchaff (ssp. tristis)"	"AS"	0	"underart"	5980	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R TRIS"	"R TRIS"	NA	NA	NA	0
+2396	"13112"	"13114"	"13110"	"Gransanger, Skandinavisk (ssp. abietinus)"	"Phylloscopus collybita abietinus"	"Common Chiffchaff (ssp. abietinus)"	"A"	0	"underart"	5970	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R ABIE"	"R ABIE"	NA	NA	NA	0
+2398	"13116"	"13116"	"13116"	"Iberisk Gransanger"	"Phylloscopus ibericus"	"Iberian Chiffchaff"	"AU"	0	"art"	5940	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"IBEGRA"	"IBEGRA"	NA	NA	NA	0
+2399	NA	"13119"	NA	"Gransanger x Løvsanger (hybrid)"	"Phylloscopus collybita x P. trochilus"	"Common Chiffchaff x Willow Warbler"	"H"	0	"hybrid"	5930	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H GRLØ"	"H GRLØ"	NA	NA	NA	0
+2400	"13120"	"13120"	"13120"	"Løvsanger"	"Phylloscopus trochilus"	"Willow Warbler"	"A"	0	"art"	5900	58860	"LC"	"VU"	NA	NA	NA	NA	NA	"Y"	NA	"LØVSAN"	"LØVSAN"	"5"	"9"	"V"	0
+2404	"13129"	"13129"	NA	"Phylloscopus sp."	"Phylloscopus sp."	"Warbler sp. (Phylloscopus)"	"H"	0	"ubestemt"	6030	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	""	""	NA	NA	NA	0
+2406	"13140"	"13140"	"13140"	"Fuglekonge"	"Regulus regulus"	"Goldcrest"	"A"	0	"art"	6200	NA	"LC"	"LC"	NA	NA	"4"	NA	NA	"YV"	NA	"FUGLEK"	"FUGLEK"	NA	NA	NA	0
+2413	"13150"	"13150"	"13150"	"Rødtoppet Fuglekonge"	"Regulus ignicapilla"	"Common Firecrest"	"A"	1	"art"	6210	NA	"LC"	"LC"	NA	NA	"4"	NA	NA	NA	NA	"RØDFUG"	"RØDFUG"	"4"	"10"	"V"	0
+2419	NA	"13168"	NA	"Sanger sp."	"Sylvidae"	"Warbler sp."	"H"	0	"ubestemt"	6220	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S SANG"	"S SANG"	NA	NA	NA	0
+2440	"13340"	"13340"	"13340"	"Brun Fluesnapper"	"Muscicapa dauurica"	"Asian Brown Flycatcher"	"AU"	0	"art"	6390	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BRUFLU"	"BRUFLU"	NA	NA	NA	0
+2442	"13350"	"13350"	"13350"	"Grå Fluesnapper"	"Muscicapa striata"	"Spotted Flycatcher"	"A"	0	"art"	6380	NA	"LC"	"LC"	NA	NA	"3"	NA	NA	"Y"	NA	"GRÅFLU"	"GRÅFLU"	"5"	"9"	"V"	0
+2456	"13430"	"13430"	"13430"	"Lille Fluesnapper"	"Ficedula parva"	"Red-breasted Flycatcher"	"AS"	0	"art"	6500	NA	"LC"	"NA"	NA	"X"	NA	NA	NA	NA	NA	"LILFLU"	"LILFLU"	NA	NA	NA	0
+2463	"13480"	"13480"	"13480"	"Hvidhalset Fluesnapper"	"Ficedula albicollis"	"Collared Flycatcher"	"AS"	0	"art"	6520	59049	"LC"	"NA"	NA	"X"	NA	NA	NA	NA	NA	"HVIFLU"	"HVIFLU"	NA	NA	NA	0
+2466	"13491"	"13489"	NA	"Hvidhalset Fluesnapper x Broget Fluesnapper (hybrid)"	"Ficedula albicollis x F. hypoleuca"	"Collared Flycatcher x European Pied Flycatcher"	"H"	0	"hybrid"	6530	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H HVBR"	"H HVBR"	NA	NA	NA	0
+2467	"13490"	"13490"	"13490"	"Broget Fluesnapper"	"Ficedula hypoleuca"	"European Pied Flycatcher"	"A"	0	"art"	6510	59048	"LC"	"VU"	NA	NA	"4"	NA	NA	"Y"	NA	"BROFLU"	"BROFLU"	"5"	"9"	"V"	0
+2479	NA	"13559"	NA	"Fluesnapper sp."	"Muscicapidae"	"Flycatcher sp."	"H"	0	"ubestemt"	6540	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S FLUE"	"S FLUE"	NA	NA	NA	0
+2488	"13640"	"13640"	"13640"	"Skægmejse"	"Panurus biarmicus"	"Bearded Reedling"	"A"	0	"art"	5550	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"SKÆGME"	"SKÆGME"	NA	NA	NA	0
+2572	"14370"	"14370"	"14370"	"Halemejse"	"Aegithalos caudatus"	"Long-tailed Tit"	"A"	0	"art"	6040	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"HALEME"	"HALEME"	NA	NA	NA	0
+2573	"14371"	"14371"	"14370"	"Halemejse, Nordlig (ssp. caudatus)"	"Aegithalos caudatus caudatus"	"Long-tailed Bushtit (ssp. caudatus)"	"A"	0	"underart"	6050	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R CAUD"	"R CAUD"	NA	NA	NA	0
+2576	"14372"	"14374"	"14370"	"Halemejse, Sydlig (ssp. europaeus)"	"Aegithalos caudatus europaeus"	"Long-tailed Bushtit (ssp. europaeus)"	"A"	0	"underart"	6060	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R EURH"	"R EURH"	NA	NA	NA	0
+2579	"14373"	"14378"	NA	"Nordlig Halemejse x Sydlig Halemejse (hybrid)"	"Aegithalos c. caudatus x A. c. europaeus"	"Long-tailed Bushtit (caudatus x europaeus)"	"H"	0	"hybrid"	6070	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H NOSY"	"H NOSY"	NA	NA	NA	0
+2583	"14400"	"14400"	"14400"	"Sumpmejse"	"Poecile palustris"	"Marsh Tit"	"A"	0	"art"	5370	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"SUMPME"	"SUMPME"	NA	NA	NA	0
+2589	"14409"	"14409"	NA	"Sumpmejse/Fyrremejse"	"Poecile palustris/P. montanus"	"Marsh Tit/Willow Tit"	"H"	0	"ubestemt"	5410	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S SUFY"	"S SUFY"	NA	NA	NA	0
+2594	"14420"	"14420"	"14420"	"Fyrremejse"	"Poecile montanus"	"Willow Tit"	"A"	1	"art"	5380	NA	"LC"	"NT"	NA	NA	NA	NA	NA	NA	NA	"FYRREM"	"FYRREM"	NA	NA	NA	0
+2595	"14421"	"14421"	"14420"	"Fyrremejse, Nordlig (ssp. borealis)"	"Poecile montanus borealis"	"Willow Tit (ssp. borealis)"	"AU"	1	"underart"	5390	NA	"LC"	"NT"	NA	NA	NA	NA	NA	NA	NA	"R BORE"	"R BORE"	NA	NA	NA	0
+2597	"14422"	"14423"	"14420"	"Fyrremejse, Pilemejse (ssp. salicarius)"	"Poecile montanus salicarius"	"Willow Tit (ssp. salicarius)"	"A"	1	"underart"	5400	NA	"LC"	"NT"	NA	NA	NA	NA	NA	NA	NA	"R SALI"	"R SALI"	NA	NA	NA	0
+2614	"14540"	"14540"	"14540"	"Topmejse"	"Lophophanes cristatus"	"European Crested Tit"	"A"	0	"art"	5360	NA	"LC"	"NT"	NA	NA	"4"	NA	NA	"YV"	NA	"TOPMEJ"	"TOPMEJ"	NA	NA	NA	0
+2625	"14610"	"14610"	"14610"	"Sortmejse"	"Periparus ater"	"Coal Tit"	"A"	0	"art"	5350	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"SORTME"	"SORTME"	NA	NA	NA	0
+2632	"14620"	"14620"	"14620"	"Blåmejse"	"Cyanistes caeruleus"	"Eurasian Blue Tit"	"A"	0	"art"	5420	59909	"LC"	"LC"	NA	NA	"4"	NA	NA	"YV"	NA	"BLÅMEJ"	"BLÅMEJ"	NA	NA	NA	0
+2642	"14640"	"14640"	"14640"	"Musvit"	"Parus major"	"Great Tit"	"A"	0	"art"	5430	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"MUSVIT"	"MUSVIT"	NA	NA	NA	0
+2654	"14669"	"14669"	NA	"Mejse sp."	"Parus/Poecile/etc. sp."	"Tit sp."	"H"	0	"ubestemt"	5440	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S MEJS"	"S MEJS"	NA	NA	NA	0
+2667	"14790"	"14790"	"14790"	"Spætmejse"	"Sitta europaea"	"Eurasian Nuthatch"	"A"	0	"art"	6290	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"SPÆTME"	"SPÆTME"	NA	NA	NA	0
+2668	"14793"	"14791"	"14790"	"Spætmejse, Lysbuget (ssp. europaea)"	"Sitta europaea europaea"	"Eurasian Nuthatch (ssp. europaea)"	"A"	0	"underart"	6300	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R EURS"	"R EURS"	NA	NA	NA	0
+2670	"14791"	"14793"	"14790"	"Spætmejse, Mørkbuget (ssp. caesia)"	"Sitta europaea caesia"	"Eurasian Nuthatch (ssp. caesia)"	"A"	0	"underart"	6310	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R CAES"	"R CAES"	NA	NA	NA	0
+2694	"14860"	"14860"	"14860"	"Træløber"	"Certhia familiaris"	"Eurasian Treecreeper"	"A"	0	"art"	6250	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"TRÆLØB"	"TRÆLØB"	NA	NA	NA	0
+2695	NA	"14861"	"14860"	"Træløber, Nordlig (ssp. familiaris)"	"Certhia familiaris familiaris"	"Eurasian Treecreeper (ssp. familiaris)"	"A"	0	"underart"	6260	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R FAMI"	"R FAMI"	NA	NA	NA	0
+2697	NA	"14863"	"14860"	"Træløber, Sydlig (ssp. macrodactyla)"	"Certhia familiaris macrodactyla"	"Eurasian Treecreeper (ssp. macrodactyla)"	"A"	0	"underart"	6270	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R MACT"	"R MACT"	NA	NA	NA	0
+2700	"14865"	"14869"	NA	"Træløber/Korttået Træløber"	"Certhia familiaris/C. brachydactyla"	"Eurasian Treecreeper/Short-toed Treecreeper"	"H"	0	"ubestemt"	6280	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S TRÆL"	"S TRÆL"	NA	NA	NA	0
+2701	"14870"	"14870"	"14870"	"Korttået Træløber"	"Certhia brachydactyla"	"Short-toed Treecreeper"	"A"	0	"art"	6240	NA	"LC"	"LC"	NA	NA	"4"	NA	NA	NA	NA	"KORTRÆ"	"KORTRÆ"	NA	NA	NA	0
+2710	"14900"	"14900"	"14900"	"Pungmejse"	"Remiz pendulinus"	"Eurasian Penduline Tit"	"AS"	0	"art"	5450	NA	"LC"	"CR"	NA	NA	NA	NA	NA	NA	NA	"PUNGME"	"PUNGME"	"4"	"10"	"V"	0
+2733	"15080"	"15080"	"15080"	"Pirol"	"Oriolus oriolus"	"Eurasian Golden Oriole"	"AS"	1	"art"	5060	60449	"LC"	"CR"	NA	NA	NA	NA	NA	NA	NA	"PIROL"	"PIROL"	"5"	"7"	"V"	0
+2740	"15130"	"15130"	"15130"	"Brun Tornskade"	"Lanius cristatus"	"Brown Shrike"	"AU"	0	"art"	5070	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BRUTOR"	"BRUTOR"	NA	NA	NA	0
+2742	"15140"	"15140"	"15140"	"Turkestantornskade"	"Lanius phoenicuroides"	"Red-tailed Shrike"	"AU"	0	"art"	5090	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ISATOR"	"ISATOR"	NA	NA	NA	0
+2747	"15150"	"15150"	"15150"	"Rødrygget Tornskade"	"Lanius collurio"	"Red-backed Shrike"	"A"	0	"art"	5080	60470	"LC"	"LC"	NA	"X"	"3"	NA	NA	"Y"	NA	"RØDRTO"	"RØDRTO"	"5"	"9"	"V"	0
+2756	"15190"	"15190"	"15190"	"Rosenbrystet Tornskade"	"Lanius minor"	"Lesser Grey Shrike"	"AU"	0	"art"	5110	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"ROSTOR"	"ROSTOR"	NA	NA	NA	0
+2757	"15203"	"15195"	"15200"	"Stor Tornskade, Ørkentornskade (ssp. pallidirostris)"	"Lanius excubitor pallidirostris"	"Great Grey Shrike (ssp. pallidirostris)"	"AU"	0	"underart"	5130	NA	"LC"	"CR"	NA	NA	NA	NA	NA	NA	NA	"SYDSTO"	"SYDSTO"	NA	NA	NA	0
+2761	"15200"	"15200"	"15200"	"Stor Tornskade"	"Lanius excubitor"	"Great Grey Shrike"	"A"	1	"art"	5120	60482	"LC"	"CR"	NA	NA	"3"	0	NA	"V"	NA	"STOTOR"	"STOTOR"	NA	NA	NA	0
+2766	"15230"	"15230"	"15230"	"Rødhovedet Tornskade"	"Lanius senator"	"Woodchat Shrike"	"AU"	0	"art"	5140	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"RØDHTO"	"RØDHTO"	NA	NA	NA	0
+2786	"15390"	"15390"	"15390"	"Skovskade"	"Garrulus glandarius"	"Eurasian Jay"	"A"	0	"art"	5170	60727	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"SKOVSK"	"SKOVSK"	NA	NA	NA	0
+2803	"15470"	"15470"	"15470"	"Iberisk Blåskade"	"Cyanopica cooki"	"Iberian Magpie"	"E"	0	"art"	5160	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BLÅSKA"	"BLÅSKA"	NA	NA	NA	0
+2806	"15490"	"15490"	"15490"	"Husskade"	"Pica pica"	"Eurasian Magpie"	"A"	0	"art"	5180	60753	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"HUSSKA"	"HUSSKA"	NA	NA	NA	0
+2818	"15570"	"15570"	"15570"	"Nøddekrige"	"Nucifraga caryocatactes"	"Spotted Nutcracker"	"AS"	1	"art"	5190	NA	"LC"	"RE"	NA	NA	NA	NA	NA	"V"	NA	"NØDDEK"	"NØDDEK"	NA	NA	NA	0
+2819	"15571"	"15571"	"15570"	"Nøddekrige, Tyknæbbet (ssp. caryocatactes)"	"Nucifraga caryocatactes caryocatactes"	"Spotted Nutcracker (ssp. caryocatactes)"	"AS"	1	"underart"	5200	NA	"LC"	"RE"	NA	NA	NA	NA	NA	NA	NA	"R CARY"	"R CARY"	NA	NA	NA	0
+2820	"15572"	"15572"	"15570"	"Nøddekrige, Tyndnæbbet (ssp. macrorhynchos)"	"Nucifraga caryocatactes macrorhynchos"	"Spotted Nutcracker (ssp. macrorhynchos)"	"AS"	1	"underart"	5210	NA	"LC"	"RE"	NA	NA	NA	NA	NA	NA	NA	"R MACN"	"R MACN"	NA	NA	NA	0
+2829	"15600"	"15600"	"15600"	"Allike"	"Coloeus monedula"	"Western Jackdaw"	"A"	0	"art"	5230	NA	"LC"	"LC"	NA	NA	"4"	NA	NA	"YV"	NA	"ALLIKE"	"ALLIKE"	NA	NA	NA	0
+2832	"15603"	"15603"	"15600"	"Allike, Vestlig (ssp. spermologus)"	"Coloeus monedula spermologus"	"Western Jackdaw (ssp. spermologus)"	"A"	0	"underart"	5250	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R SPER"	"R SPER"	NA	NA	NA	0
+2834	"15610"	"15610"	"15610"	"Sibirisk Allike"	"Coloeus dauuricus"	"Daurian Jackdaw"	"AU"	0	"art"	5220	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SIBALL"	"SIBALL"	NA	NA	NA	0
+2835	"15620"	"15620"	"15620"	"Huskrage"	"Corvus splendens"	"House Crow"	"U"	0	"art"	5340	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"HUSKRA"	"HUSKRA"	NA	NA	NA	0
+2836	"15630"	"15630"	"15630"	"Råge"	"Corvus frugilegus"	"Rook"	"A"	0	"art"	5270	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"RÅGE"	"RÅGE"	NA	NA	NA	0
+2841	"15670"	"15670"	NA	"Sortkrage/Gråkrage"	"Corvus corone/C. cornix"	"Carrion Crow/Hooded Crow"	"H"	0	"ubestemt"	5320	NA	NA	NA	NA	NA	NA	NA	NA	"YV"	NA	"KRAGE"	"KRAGE"	NA	NA	NA	0
+2842	"15671"	"15671"	"15671"	"Sortkrage"	"Corvus corone"	"Carrion Crow"	"A"	0	"art"	5290	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"SORTKR"	"SORTKR"	NA	NA	NA	0
+2844	"15673"	"15673"	"15673"	"Gråkrage"	"Corvus cornix"	"Hooded Crow"	"A"	0	"art"	5300	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"GRÅKRA"	"GRÅKRA"	NA	NA	NA	0
+2848	"15675"	"15679"	NA	"Sortkrage x Gråkrage (hybrid)"	"Corvus corone x C. cornix"	"Carrion Crow x Hooded Crow"	"H"	0	"hybrid"	5310	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H SOGR"	"H SOGR"	NA	NA	NA	0
+2854	"15720"	"15720"	"15720"	"Ravn"	"Corvus corax"	"Northern Raven"	"A"	0	"art"	5280	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"RAVN"	"RAVN"	NA	NA	NA	0
+2863	"15721"	"15749"	NA	"Kragefugl sp."	"Corvidae"	"Corvid sp."	"H"	0	"ubestemt"	5330	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S KRAG"	"S KRAG"	NA	NA	NA	0
+2872	"15820"	"15820"	"15820"	"Stær"	"Sturnus vulgaris"	"Common Starling"	"A"	0	"art"	6340	60851	"LC"	"VU"	NA	NA	NA	NA	NA	"YV"	NA	"STÆR"	"STÆR"	NA	NA	NA	0
+2875	"15830"	"15830"	"15830"	"Ensfarvet Stær"	"Sturnus unicolor"	"Spotless Starling"	"AU"	0	"art"	6350	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ENSSTÆ"	"ENSSTÆ"	NA	NA	NA	0
+2876	"15840"	"15840"	"15840"	"Rosenstær"	"Pastor roseus"	"Rosy Starling"	"AS"	0	"art"	6360	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ROSENS"	"ROSENS"	NA	NA	NA	0
+2883	"15910"	"15910"	"15910"	"Gråspurv"	"Passer domesticus"	"House Sparrow"	"A"	0	"art"	6950	60925	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"GRÅSPU"	"GRÅSPU"	NA	NA	NA	0
+2901	"15980"	"15980"	"15980"	"Skovspurv"	"Passer montanus"	"Eurasian Tree Sparrow"	"A"	0	"art"	6960	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"SKOVSP"	"SKOVSP"	NA	NA	NA	0
+2904	"15981"	"15988"	NA	"Gråspurv/Skovspurv"	"Passer domesticus/P. montanus"	"House Sparrow/Eurasian Tree Sparrow"	"H"	0	"ubestemt"	6980	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S SPUR"	"S SPUR"	NA	NA	NA	0
+2905	NA	"15989"	NA	"Gråspurv x Skovspurv (hybrid)"	"Passer domesticus x P. montanus"	"House Sparrow x Eurasian Tree Sparrow"	"H"	0	"hybrid"	6970	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H GRSK"	"H GRSK"	NA	NA	NA	0
+2962	"16360"	"16360"	"16360"	"Bogfinke"	"Fringilla coelebs"	"Common Chaffinch"	"A"	0	"art"	7230	61286	"LC"	"LC"	NA	NA	"4"	NA	NA	"YV"	NA	"BOGFIN"	"BOGFIN"	NA	NA	NA	0
+2975	"16380"	"16380"	"16380"	"Kvækerfinke"	"Fringilla montifringilla"	"Brambling"	"A"	0	"art"	7240	61288	"LC"	"NA"	NA	NA	NA	NA	NA	"V"	NA	"KVÆKER"	"KVÆKER"	"6"	"8"	"S"	0
+2976	"16365"	"16388"	NA	"Bogfinke/Kvækerfinke"	"Fringilla coelebs/F. montifringilla"	"Common Chaffinch/Brambling"	"H"	0	"ubestemt"	7250	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S BOKV"	"S BOKV"	NA	NA	NA	0
+2977	"16389"	"16389"	NA	"Finke sp."	"Fringillidae"	"Fringillidae sp."	"H"	0	"ubestemt"	7260	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S FINK"	"S FINK"	NA	NA	NA	0
+2979	"16400"	"16400"	"16400"	"Gulirisk"	"Serinus serinus"	"European Serin"	"AS"	1	"art"	7530	61290	"LC"	"CR"	NA	NA	NA	NA	NA	NA	NA	"GULIRI"	"GULIRI"	"4"	"10"	"V"	0
+2990	"16490"	"16490"	"16490"	"Grønirisk"	"Chloris chloris"	"European Greenfinch"	"A"	0	"art"	7370	NA	"LC"	"NT"	NA	NA	"4"	NA	NA	"YV"	NA	"GRØNIR"	"GRØNIR"	NA	NA	NA	0
+2994	"16500"	"16500"	"16500"	"Brunirisk"	"Chloris sinica"	"Grey-capped Greenfinch"	"E"	0	"art"	7380	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BRUNIR"	"BRUNIR"	NA	NA	NA	0
+2997	"16530"	"16530"	"16530"	"Stillits"	"Carduelis carduelis"	"European Goldfinch"	"A"	0	"art"	7520	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"STILLI"	"STILLI"	NA	NA	NA	0
+3003	"16540"	"16540"	"16540"	"Grønsisken"	"Spinus spinus"	"Eurasian Siskin"	"A"	0	"art"	7550	61340	"LC"	"NT"	NA	NA	"4"	NA	NA	"YV"	NA	"GRØNSI"	"GRØNSI"	NA	NA	NA	0
+3009	"16600"	"16600"	"16600"	"Tornirisk"	"Linaria cannabina"	"Common Linnet"	"A"	0	"art"	7400	61366	"LC"	"LC"	NA	NA	"4"	NA	NA	"Y"	NA	"TORNIR"	"TORNIR"	"3"	"11"	"V"	0
+3015	NA	"16609"	NA	"Tornirisk/Bjergirisk"	"Linaria cannabina/L. flavirostris"	"Common Linnet/Twite"	"H"	0	"ubestemt"	7410	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S TOBJ"	"S TOBJ"	NA	NA	NA	0
+3017	"16620"	"16620"	"16620"	"Bjergirisk"	"Linaria flavirostris"	"Twite"	"A"	0	"art"	7390	NA	"LC"	NA	NA	NA	NA	NA	NA	"V"	NA	"BJERGI"	"BJERGI"	"5"	"9"	"S"	0
+3018	"16630"	"16630"	NA	"Nordlig Gråsisken/Lille Gråsisken"	"Acanthis flammea/A. cabaret"	"Common Redpoll/Lesser Redpoll"	"H"	0	"ubestemt"	7440	NA	"LC"	NA	NA	NA	NA	NA	NA	"YV"	NA	"S GRÅS"	"S GRÅS"	NA	NA	NA	0
+3022	"16634"	"16635"	"16635"	"Lille Gråsisken"	"Acanthis cabaret"	"Lesser Redpoll"	"A"	0	"art"	7430	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"V"	NA	"LILGRÅ"	"LILGRÅ"	NA	NA	NA	0
+3024	"16640"	"16640"	"16640"	"Hvidsisken"	"Acanthis hornemanni"	"Arctic Redpoll"	"AS"	0	"art"	7450	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"HVIDSI"	"HVIDSI"	NA	NA	NA	0
+3028	"16650"	"16650"	"16650"	"Hvidvinget Korsnæb"	"Loxia leucoptera"	"Two-barred Crossbill"	"AS"	0	"art"	7510	NA	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"HVIKOR"	"HVIKOR"	NA	NA	NA	0
+3030	"16660"	"16660"	"16660"	"Lille Korsnæb"	"Loxia curvirostra"	"Red Crossbill"	"A"	0	"art"	7480	61408	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"LILKOR"	"LILKOR"	NA	NA	NA	0
+3034	"16665"	"16669"	NA	"Lille Korsnæb/Stor Korsnæb"	"Loxia curvirostra/L. pytyopsittacus"	"Red Crossbill/Parrot Crossbill"	"H"	0	"ubestemt"	7490	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S KORS"	"S KORS"	NA	NA	NA	0
+3036	"16680"	"16680"	"16680"	"Stor Korsnæb"	"Loxia pytyopsittacus"	"Parrot Crossbill"	"AS"	0	"art"	7470	NA	"LC"	"NA"	NA	NA	"4"	NA	NA	NA	NA	"STOKOR"	"STOKOR"	"5"	"9"	"S"	0
+3046	"16740"	"16740"	"16740"	"Ørkenfinke"	"Rhodospiza obsoleta"	"Desert Finch"	"E"	0	"art"	7360	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ØRKENF"	"ØRKENF"	NA	NA	NA	0
+3048	"16760"	"16760"	"16760"	"Ørkendompap"	"Bucanetes githagineus"	"Trumpeter Finch"	"AU"	0	"art"	7350	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	"ØRKEND"	"ØRKEND"	NA	NA	NA	0
+3055	"16790"	"16790"	"16790"	"Karmindompap"	"Carpodacus erythrinus"	"Common Rosefinch"	"A"	0	"art"	7280	NA	"LC"	"EN"	NA	NA	NA	NA	NA	NA	NA	"KARMIN"	"KARMIN"	"6"	"9"	"V"	0
+3067	"16890"	"16890"	"16890"	"Rosenfinke"	"Carpodacus roseus"	"Pallas's Rosefinch"	"E"	0	"art"	7300	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"ROSEND"	"ROSEND"	NA	NA	NA	0
+3077	"16990"	"16990"	"16990"	"Krognæb"	"Pinicola enucleator"	"Pine Grosbeak"	"AU"	0	"art"	7310	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"KROGNÆ"	"KROGNÆ"	NA	NA	NA	0
+3082	"17040"	"17040"	"17040"	"Langhalet Rosenfinke"	"Carpodacus sibiricus"	"Long-tailed Rosefinch"	"DU"	0	"art"	7290	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"LANROS"	"LANROS"	NA	NA	NA	0
+3088	"17100"	"17100"	"17100"	"Dompap"	"Pyrrhula pyrrhula"	"Eurasian Bullfinch"	"A"	0	"art"	7320	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"DOMPAP"	"DOMPAP"	NA	NA	NA	0
+3089	"17101"	"17101"	"17100"	"Dompap, Stor (ssp. pyrrhula)"	"Pyrrhula pyrrhula pyrrhula"	"Eurasian Bullfinch (ssp. pyrrhula)"	"A"	0	"underart"	7330	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R PYRR"	"R PYRR"	NA	NA	NA	0
+3090	"17102"	"17102"	"17100"	"Dompap, Lille (ssp. europaea)"	"Pyrrhula pyrrhula europaea"	"Eurasian Bullfinch (ssp. europaea)"	"A"	0	"underart"	7340	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R EURD"	"R EURD"	NA	NA	NA	0
+3100	"17170"	"17170"	"17170"	"Kernebider"	"Coccothraustes coccothraustes"	"Hawfinch"	"A"	0	"art"	7270	NA	"LC"	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"KERNEB"	"KERNEB"	NA	NA	NA	0
+3249	"18400"	"18400"	"18400"	"Hvidstrubet Spurv"	"Zonotrichia albicollis"	"White-throated Sparrow"	"AU"	0	"art"	7600	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"HVISPU"	"HVISPU"	NA	NA	NA	0
+3251	"18420"	"18420"	"18420"	"Mørkøjet Junco"	"Junco hyemalis"	"Dark-eyed Junco"	"AU"	0	"art"	7590	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"MØRJUN"	"MØRJUN"	NA	NA	NA	0
+3257	"18470"	"18470"	"18470"	"Lapværling"	"Calcarius lapponicus"	"Lapland Longspur"	"A"	0	"art"	7560	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"LAPLAN"	"LAPLAN"	"5"	"9"	"S"	0
+3258	"18479"	"18479"	NA	"Lapværling/Snespurv"	"Calcarius lapponicus/Plectrophenax nivalis"	"Lapland Longspur/Snow Bunting"	"H"	0	"ubestemt"	7580	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S LASN"	"S LASN"	"5"	"9"	"S"	0
+3261	"18500"	"18500"	"18500"	"Snespurv"	"Plectrophenax nivalis"	"Snow Bunting"	"A"	0	"art"	7570	NA	"LC"	NA	NA	NA	NA	NA	NA	"V"	NA	"SNESPU"	"SNESPU"	"5"	"9"	"S"	0
+3274	"18560"	"18560"	"18560"	"Hvidkindet Værling"	"Emberiza leucocephalos"	"Pine Bunting"	"AU"	0	"art"	7700	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"HVIVÆR"	"HVIVÆR"	NA	NA	NA	0
+3276	"18570"	"18570"	"18570"	"Gulspurv"	"Emberiza citrinella"	"Yellowhammer"	"A"	0	"art"	7690	NA	"LC"	"VU"	NA	NA	"4"	NA	NA	"YV"	NA	"GULSPU"	"GULSPU"	NA	NA	NA	0
+3280	"18580"	"18580"	"18580"	"Gærdeværling"	"Emberiza cirlus"	"Cirl Bunting"	"AU"	0	"art"	7680	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"GÆRDEV"	"GÆRDEV"	NA	NA	NA	0
+3285	"18600"	"18600"	"18600"	"Klippeværling"	"Emberiza cia"	"Rock Bunting"	"AU"	0	"art"	7650	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"KLIVÆR"	"KLIVÆR"	NA	NA	NA	0
+3297	"18650"	"18650"	"18650"	"Gulgrå Værling"	"Emberiza cineracea"	"Cinereous Bunting"	"AU"	0	"art"	7660	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	"GULGVÆ"	"GULGVÆ"	NA	NA	NA	0
+3300	"18660"	"18660"	"18660"	"Hortulan"	"Emberiza hortulana"	"Ortolan Bunting"	"AS"	0	"art"	7670	61871	"LC"	NA	NA	"X"	"2"	NA	NA	NA	NA	"HORTUL"	"HORTUL"	NA	NA	NA	0
+3310	"18730"	"18730"	"18730"	"Pileværling"	"Emberiza rustica"	"Rustic Bunting"	"AU"	0	"art"	7720	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"PILEVÆ"	"PILEVÆ"	NA	NA	NA	0
+3311	"18740"	"18740"	"18740"	"Dværgværling"	"Emberiza pusilla"	"Little Bunting"	"AS"	0	"art"	7730	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"DVÆRGV"	"DVÆRGV"	NA	NA	NA	0
+3313	"18760"	"18760"	"18760"	"Gulbrystet Værling"	"Emberiza aureola"	"Yellow-breasted Bunting"	"AU"	0	"art"	7740	NA	"EN"	NA	NA	NA	NA	NA	NA	NA	NA	"GULVÆR"	"GULVÆR"	NA	NA	NA	0
+3314	"18770"	"18770"	"18770"	"Rørspurv"	"Emberiza schoeniclus"	"Common Reed Bunting"	"A"	0	"art"	7710	61900	"LC"	"NT"	NA	NA	NA	NA	NA	"YV"	NA	"RØRSPU"	"RØRSPU"	NA	NA	NA	0
+3322	"18800"	"18800"	"18800"	"Brunhovedet Værling"	"Emberiza bruniceps"	"Red-headed Bunting"	"DU"	0	"art"	7610	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"BRUVÆR"	"BRUVÆR"	NA	NA	NA	0
+3324	NA	"18809"	NA	"Brunhovedet Værling/Hætteværling"	"Emberiza bruniceps/E. melanocephala"	"Red-headed Bunting/Black-headed Bunting"	"HU"	0	"ubestemt"	7630	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S BRHÆ"	"S BRHÆ"	NA	NA	NA	0
+3325	"18810"	"18810"	"18810"	"Hætteværling"	"Emberiza melanocephala"	"Black-headed Bunting"	"AU"	0	"art"	7620	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"HÆTTEV"	"HÆTTEV"	NA	NA	NA	0
+3326	"18819"	"18819"	NA	"Værling sp."	"Emberiza sp."	"Bunting sp."	"H"	0	"ubestemt"	7750	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S VÆRL"	"S VÆRL"	NA	NA	NA	0
+3327	"18820"	"18820"	"18820"	"Bomlærke"	"Emberiza calandra"	"Corn Bunting"	"A"	0	"art"	7640	NA	"LC"	"NT"	"X"	NA	"4"	NA	NA	"YV"	NA	"BOMLÆR"	"BOMLÆR"	NA	NA	NA	0
+3342	"18920"	"18920"	"18920"	"Indigofinke"	"Passerina cyanea"	"Indigo Bunting"	"DU"	0	"art"	7780	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"INDIGO"	"INDIGO"	NA	NA	NA	0
+3383	"AM001"	"AM001"	"AM001"	"Lille Vandsalamander"	"Triturus vulgaris"	"Common Newt"	"X"	0	"andre_dyr"	7820	NA	NA	"CR"	"X"	NA	NA	NA	NA	NA	NA	"P LIVA"	"P LIVA"	NA	NA	NA	0
+3384	"AM002"	"AM002"	"AM002"	"Stor Vandsalamander"	"Triturus cristatus"	"Great Crested Newt"	"X"	0	"andre_dyr"	7830	NA	NA	"CR"	"X"	NA	NA	NA	NA	NA	NA	"P STVA"	"P STVA"	NA	NA	NA	0
+3385	"AM003"	"AM003"	"AM003"	"Bjergsalamander"	"Triturus alpestris"	"Alpine Newt"	"X"	0	"andre_dyr"	7840	NA	NA	"CR"	NA	NA	NA	NA	NA	NA	NA	"P BJER"	"P BJER"	NA	NA	NA	0
+3386	"AM004"	"AM004"	"AM004"	"Klokkefrø"	"Bombina bombina"	"Fire-bellied Toad"	"X"	0	"andre_dyr"	7850	NA	NA	"DD"	NA	NA	NA	NA	NA	NA	NA	"P KLOK"	"P KLOK"	NA	NA	NA	0
+3387	"AM005"	"AM005"	"AM005"	"Løgfrø"	"Pelobates fuscus"	"Common Spadefoot"	"X"	0	"andre_dyr"	7860	NA	NA	"EN"	NA	NA	NA	NA	NA	NA	NA	"P LØGF"	"P LØGF"	NA	NA	NA	0
+3388	"AM006"	"AM006"	"AM006"	"Skrubtudse"	"Bufo bufo"	"Common Toad"	"X"	0	"andre_dyr"	7870	NA	NA	"EN"	"X"	NA	NA	NA	NA	NA	NA	"P SKRU"	"P SKRU"	NA	NA	NA	0
+3389	"AM007"	"AM007"	"AM007"	"Grønbroget Tudse"	"Bufo viridis"	"Green Toad"	"X"	0	"andre_dyr"	7880	NA	NA	"EN"	NA	NA	NA	NA	NA	NA	NA	"P GRTU"	"P GRTU"	NA	NA	NA	0
+3390	"AM008"	"AM008"	"AM008"	"Strandtudse"	"Bufo calamita"	"Natterjack"	"X"	0	"andre_dyr"	7890	NA	NA	"EN"	"X"	NA	NA	NA	NA	NA	NA	"P STRA"	"P STRA"	NA	NA	NA	0
+3391	"AM009"	"AM009"	"AM009"	"Løvfrø"	"Hyla arborea"	"Common Tree Frog"	"X"	0	"andre_dyr"	7900	NA	NA	"EN"	"X"	NA	NA	NA	NA	NA	NA	"P LØVF"	"P LØVF"	NA	NA	NA	0
+3392	"AM010"	"AM010"	"AM010"	"Butsnudet Frø"	"Rana temporaria"	"Common Frog"	"X"	0	"andre_dyr"	7910	NA	NA	"EN"	"X"	NA	NA	NA	NA	NA	NA	"P BUFR"	"P BUFR"	NA	NA	NA	0
+3393	"AM011"	"AM011"	"AM011"	"Spidssnudet Frø"	"Rana arvalis"	"Moor Frog"	"X"	0	"andre_dyr"	7920	NA	NA	"EN"	"X"	NA	NA	NA	NA	NA	NA	"P SPFR"	"P SPFR"	NA	NA	NA	0
+3394	"AM012"	"AM012"	"AM012"	"Springfrø"	"Rana dalmatina"	"Agile Frog"	"X"	0	"andre_dyr"	7930	NA	NA	"EN"	"X"	NA	NA	NA	NA	NA	NA	"P SPRI"	"P SPRI"	NA	NA	NA	0
+3395	"AM013"	"AM013"	"AM013"	"Grøn Frø"	"Rana esculenta"	"Edible Frog"	"X"	0	"andre_dyr"	7940	NA	NA	"EN"	"X"	NA	NA	NA	NA	NA	NA	"P GRFR"	"P GRFR"	NA	NA	NA	0
+3396	"AM014"	"AM014"	"AM014"	"Latterfrø"	"Rana ridibunda"	"Marsh Frog"	"X"	0	"andre_dyr"	7950	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P LATT"	"P LATT"	NA	NA	NA	0
+3397	"LE001"	"LE001"	"LE001"	"Gråbåndet Bredpande"	"Erynnis tages"	"Dinky Skipper"	"X"	0	"andre_dyr"	8020	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I GRBR"	"I GRBR"	NA	NA	NA	0
+3398	"LE002"	"LE002"	"LE002"	"Spættet Bredpande"	"Pyrgus malvae"	"Grizzled Skipper"	"X"	0	"andre_dyr"	8030	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SPBR"	"I SPBR"	NA	NA	NA	0
+3399	"LE003"	"LE003"	"LE003"	"Fransk Bredpande"	"Pyrgus armoricanus"	"Oberthürs Grizzled Skipper"	"X"	0	"andre_dyr"	8040	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I FRBR"	"I FRBR"	NA	NA	NA	0
+3400	"LE004"	"LE004"	"LE004"	"Skærbredpande"	"Pyrgus serratulae"	"Olive Skipper"	"X"	0	"andre_dyr"	8050	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SKÆR"	"I SKÆR"	NA	NA	NA	0
+3401	"LE005"	"LE005"	"LE005"	"Sortplettet Bredpande"	"Carterocephalus silvicola"	"Northern Chequered Skipper"	"X"	0	"andre_dyr"	8060	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SOBR"	"I SOBR"	NA	NA	NA	0
+3402	"LE006"	"LE006"	"LE006"	"Spejlbredpande"	"Heteropterus morpheus"	"Large Chequered Skipper"	"X"	0	"andre_dyr"	8070	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SPEJ"	"I SPEJ"	NA	NA	NA	0
+3403	"LE007"	"LE007"	"LE007"	"Stregbredpande"	"Thymelicus lineola"	"Essex Skipper"	"X"	0	"andre_dyr"	8080	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I STRE"	"I STRE"	NA	NA	NA	0
+3404	"LE008"	"LE008"	"LE008"	"Skråstregbredpande"	"Thymelicus sylvestris"	"Small Skipper"	"X"	0	"andre_dyr"	8090	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SKRÅ"	"I SKRÅ"	NA	NA	NA	0
+3405	"LE009"	"LE009"	"LE009"	"Kommabredpande"	"Hesperia comma"	"Silver-spotted Skipper"	"X"	0	"andre_dyr"	8100	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I KOMM"	"I KOMM"	NA	NA	NA	0
+3406	"LE010"	"LE010"	"LE010"	"Stor Bredpande"	"Ochlodes faunus"	"Large Skipper"	"X"	0	"andre_dyr"	8110	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I STBR"	"I STBR"	NA	NA	NA	0
+3407	"LE011"	"LE011"	"LE011"	"Apollo"	"Parnassius apollo"	"Apollo"	"X"	0	"andre_dyr"	8120	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I APOL"	"I APOL"	NA	NA	NA	0
+3408	"LE012"	"LE012"	"LE012"	"Mnemosyne"	"Parnassius mnemosyne"	"Clouded Apollo"	"X"	0	"andre_dyr"	8130	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I MNEM"	"I MNEM"	NA	NA	NA	0
+3409	"LE013"	"LE013"	"LE013"	"Svalehale"	"Papilio machaon"	"Swallowtail"	"X"	0	"andre_dyr"	8140	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SVAL"	"I SVAL"	NA	NA	NA	0
+3410	"LE014"	"LE014"	"LE014"	"Skovhvidvinge"	"Leptidea sinapsis"	"Wood White"	"X"	0	"andre_dyr"	8150	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SKHV"	"I SKHV"	NA	NA	NA	0
+3411	"LE015"	"LE015"	"LE015"	"Sortåret Hvidvinge"	"Aporia crataegi"	"Black-veined White"	"X"	0	"andre_dyr"	8160	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SOHV"	"I SOHV"	NA	NA	NA	0
+3412	"LE016"	"LE016"	"LE016"	"Stor Kålsommerfugl"	"Pieris brassicae"	"Large White"	"X"	0	"andre_dyr"	8170	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I STKÅ"	"I STKÅ"	NA	NA	NA	0
+3413	"LE017"	"LE017"	"LE017"	"Lille Kålsommerfugl"	"Pieris rapae"	"Small White"	"X"	0	"andre_dyr"	8180	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I LIKÅ"	"I LIKÅ"	NA	NA	NA	0
+3414	"LE018"	"LE018"	"LE018"	"Grønåret Kålsommerfugl"	"Pieris napi"	"Green-veined White"	"X"	0	"andre_dyr"	8190	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I GRÅK"	"I GRÅK"	NA	NA	NA	0
+3415	"LE019"	"LE019"	"LE019"	"Grønbroget Kålsommerfugl"	"Pontia daplidice"	"Bath White"	"X"	0	"andre_dyr"	8200	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I GRBK"	"I GRBK"	NA	NA	NA	0
+3416	"LE020"	"LE020"	"LE020"	"Aurora"	"Anthocharis cardamines"	"Orange Tip"	"X"	0	"andre_dyr"	8210	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I AURO"	"I AURO"	NA	NA	NA	0
+3417	"LE021"	"LE021"	"LE021"	"Mosehøsommerfugl"	"Colias palaeno"	"Moorland Clouded Yellow"	"X"	0	"andre_dyr"	8220	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I MOHØ"	"I MOHØ"	NA	NA	NA	0
+3418	"LE022"	"LE022"	"LE022"	"Gul Høsommerfugl"	"Colias hyale"	"Pale Clouded Yellow"	"X"	0	"andre_dyr"	8230	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I GUHØ"	"I GUHØ"	NA	NA	NA	0
+3419	"LE023"	"LE023"	"LE023"	"Sydlig Høsommerfugl"	"Colias alfacariensis"	"Bergers Clouded Yellow"	"X"	0	"andre_dyr"	8240	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SYHØ"	"I SYHØ"	NA	NA	NA	0
+3420	"LE024"	"LE024"	"LE024"	"Orange Høsommerfugl"	"Colias croceus"	"Clouded Yellow"	"X"	0	"andre_dyr"	8250	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I ORHØ"	"I ORHØ"	NA	NA	NA	0
+3421	"LE025"	"LE025"	"LE025"	"Citronsommerfugl"	"Gonepteryx rhamni"	"Brimstone"	"X"	0	"andre_dyr"	8260	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I CITR"	"I CITR"	NA	NA	NA	0
+3422	"LE026"	"LE026"	"LE026"	"Monark"	"Danaus plexippus"	"Monarch"	"X"	0	"andre_dyr"	8270	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I MONA"	"I MONA"	NA	NA	NA	0
+3423	"LE027"	"LE027"	"LE027"	"Iris"	"Apatura iris"	"Purple Emperor"	"X"	0	"andre_dyr"	8280	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I IRIS"	"I IRIS"	NA	NA	NA	0
+3424	"LE028"	"LE028"	"LE028"	"Poppelsommerfugl"	"Limenitis populi"	"Poplar Admiral"	"X"	0	"andre_dyr"	8290	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I POSO"	"I POSO"	NA	NA	NA	0
+3425	"LE029"	"LE029"	"LE029"	"Hvid Admiral"	"Limenitis camilla"	"White Admiral"	"X"	0	"andre_dyr"	8300	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I HVAD"	"I HVAD"	NA	NA	NA	0
+3426	"LE030"	"LE030"	"LE030"	"Kirsebærtakvinge"	"Nymphalis polychloros"	"Large Tortoiseshell"	"X"	0	"andre_dyr"	8310	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I KIRS"	"I KIRS"	NA	NA	NA	0
+3427	"LE031"	"LE031"	"LE031"	"Østlig Takvinge"	"Nymphalis xanthomelas"	"Yellow-legged Tortoiseshell"	"X"	0	"andre_dyr"	8320	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I ØSTA"	"I ØSTA"	NA	NA	NA	0
+3428	"LE032"	"LE032"	"LE032"	"Det Hvide L"	"Nymphalis vaualbum"	"False Comma"	"X"	0	"andre_dyr"	8330	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I HVL"	"I HVL"	NA	NA	NA	0
+3429	"LE033"	"LE033"	"LE033"	"Sørgekåbe"	"Nymphalis antiopa"	"Camberwell Beauty"	"X"	0	"andre_dyr"	8340	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SØRG"	"I SØRG"	NA	NA	NA	0
+3430	"LE034"	"LE034"	"LE034"	"Dagpåfugleøje"	"Inachis io"	"Peacock Butterfly"	"X"	0	"andre_dyr"	8350	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I DAGP"	"I DAGP"	NA	NA	NA	0
+3431	"LE035"	"LE035"	"LE035"	"Admiral"	"Vanessa atalanta"	"Red Admiral"	"X"	0	"andre_dyr"	8360	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I ADMI"	"I ADMI"	NA	NA	NA	0
+3432	"LE036"	"LE036"	"LE036"	"Tidselsommerfugl"	"Vanessa cardui"	"Painted Lady"	"X"	0	"andre_dyr"	8370	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I TIDS"	"I TIDS"	NA	NA	NA	0
+3433	"LE037"	"LE037"	"LE037"	"Nældens Takvinge"	"Aglais urticae"	"Small Tortoiseshell"	"X"	0	"andre_dyr"	8380	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I NÆTA"	"I NÆTA"	NA	NA	NA	0
+3434	"LE038"	"LE038"	"LE038"	"Det Hvide C"	"Polygonia c-album"	"Comma Butterfly"	"X"	0	"andre_dyr"	8390	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I HVC"	"I HVC"	NA	NA	NA	0
+3435	"LE039"	"LE039"	"LE039"	"Nældesommerfugl"	"Araschnia levana"	"Map Butterfly"	"X"	0	"andre_dyr"	8400	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I NÆLD"	"I NÆLD"	NA	NA	NA	0
+3436	"LE040"	"LE040"	"LE040"	"Kejserkåbe"	"Argynnis paphia"	"Silver-washed Fritillary"	"X"	0	"andre_dyr"	8410	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I KEJS"	"I KEJS"	NA	NA	NA	0
+3437	"LE041"	"LE041"	"LE041"	"Østlig Perlemorsommerfugl"	"Argynnis laodice"	"Pallas Fritillary"	"X"	0	"andre_dyr"	8420	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I ØSPE"	"I ØSPE"	NA	NA	NA	0
+3438	"LE042"	"LE042"	"LE042"	"Markperlemorsommerfugl"	"Argynnis aglaja"	"Dark Green Fritillary"	"X"	0	"andre_dyr"	8430	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I MARK"	"I MARK"	NA	NA	NA	0
+3439	"LE043"	"LE043"	"LE043"	"Skovperlemorsommerfugl"	"Argynnis adippe"	"High Brown Fritillary"	"X"	0	"andre_dyr"	8440	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SKPE"	"I SKPE"	NA	NA	NA	0
+3440	"LE044"	"LE044"	"LE044"	"Klitperlemorsommerfugl"	"Agynnis niobe"	"Niobe Fritillary"	"X"	0	"andre_dyr"	8450	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I KLIT"	"I KLIT"	NA	NA	NA	0
+3441	"LE045"	"LE045"	"LE045"	"Storplettet Perlemorsommerfugl"	"Issoria lathonia"	"Queen of Spain Fritillary"	"X"	0	"andre_dyr"	8460	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I STPE"	"I STPE"	NA	NA	NA	0
+3442	"LE046"	"LE046"	"LE046"	"Engperlemorsommerfugl"	"Brenthus ino"	"Lesser Marbled Fritillary"	"X"	0	"andre_dyr"	8470	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I ENGP"	"I ENGP"	NA	NA	NA	0
+3443	"LE047"	"LE047"	"LE047"	"Moseperlemorsommerfugl"	"Boloria aquilonaris"	"Cranberry Fritillary"	"X"	0	"andre_dyr"	8480	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I MOPE"	"I MOPE"	NA	NA	NA	0
+3444	"LE048"	"LE048"	"LE048"	"Brunlig Perlemorsommerfugl"	"Boloria selene"	"Small Pearl-bordered Fritillary"	"X"	0	"andre_dyr"	8490	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I BRPE"	"I BRPE"	NA	NA	NA	0
+3445	"LE049"	"LE049"	"LE049"	"Rødlig Perlemorsommerfugl"	"Boloria euphrosyne"	"Pearl-bordered Fritillary"	"X"	0	"andre_dyr"	8500	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I RØPE"	"I RØPE"	NA	NA	NA	0
+3446	"LE050"	"LE050"	"LE050"	"Okkergul Pletvinge"	"Melitaea cinxia"	"Glanville Fritillary"	"X"	0	"andre_dyr"	8510	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I OKPL"	"I OKPL"	NA	NA	NA	0
+3447	"LE051"	"LE051"	"LE051"	"Mørk Pletvinge"	"Melitaea diamina"	"False Heath Fritillary"	"X"	0	"andre_dyr"	8520	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I MØPL"	"I MØPL"	NA	NA	NA	0
+3448	"LE052"	"LE052"	"LE052"	"Brun Pletvinge"	"Mellicta athalia"	"Heath Fritillary"	"X"	0	"andre_dyr"	8530	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I BRPL"	"I BRPL"	NA	NA	NA	0
+3449	"LE053"	"LE053"	"LE053"	"Askepletvinge"	"Euphydryas maturna"	"Scarce Fritillary"	"X"	0	"andre_dyr"	8540	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I ASKE"	"I ASKE"	NA	NA	NA	0
+3450	"LE054"	"LE054"	"LE054"	"Hedepletvinge"	"Euphydryas aurinia"	"Marsh Fritillary"	"X"	0	"andre_dyr"	8550	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I HEDE"	"I HEDE"	NA	NA	NA	0
+3451	"LE055"	"LE055"	"LE055"	"Sandrandøje"	"Hipparchia semele"	"Grayling"	"X"	0	"andre_dyr"	8560	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SAND"	"I SAND"	NA	NA	NA	0
+3452	"LE056"	"LE056"	"LE056"	"Skov-bjergrandøje"	"Erebia ligea"	"Arran Brown"	"X"	0	"andre_dyr"	8570	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SKBR"	"I SKBR"	NA	NA	NA	0
+3453	"LE057"	"LE057"	"LE057"	"Græsrandøje"	"Maniola jurtina"	"Meadow Brown"	"X"	0	"andre_dyr"	8580	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I GRRA"	"I GRRA"	NA	NA	NA	0
+3454	"LE058"	"LE058"	"LE058"	"Engrandøje"	"Aphantopus hyperantus"	"Ringlet"	"X"	0	"andre_dyr"	8590	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I ENGR"	"I ENGR"	NA	NA	NA	0
+3455	"LE059"	"LE059"	"LE059"	"Buskrandøje"	"Pyronia tithonus"	"Gatekeeper"	"X"	0	"andre_dyr"	8600	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I BUSK"	"I BUSK"	NA	NA	NA	0
+3456	"LE060"	"LE060"	"LE060"	"Moserandøje"	"Coenonympha tullia"	"Large Heath"	"X"	0	"andre_dyr"	8610	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I MORA"	"I MORA"	NA	NA	NA	0
+3457	"LE061"	"LE061"	"LE061"	"Okkergul Randøje"	"Coenonympha pamphilus"	"Small Heath"	"X"	0	"andre_dyr"	8620	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I OKRA"	"I OKRA"	NA	NA	NA	0
+3458	"LE062"	"LE062"	"LE062"	"Perlemorrandøje"	"Coenonympha arcania"	"Pearly Heath"	"X"	0	"andre_dyr"	8630	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I PERL"	"I PERL"	NA	NA	NA	0
+3459	"LE063"	"LE063"	"LE063"	"Herorandøje"	"Coenonympha hero"	"Scarce Heath"	"X"	0	"andre_dyr"	8640	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I HERO"	"I HERO"	NA	NA	NA	0
+3460	"LE064"	"LE064"	"LE064"	"Skovrandøje"	"Pararge aegeria"	"Speckled Wood"	"X"	0	"andre_dyr"	8650	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SKRA"	"I SKRA"	NA	NA	NA	0
+3461	"LE065"	"LE065"	"LE065"	"Vejrandøje"	"Lasiommata megera"	"Wall Brown"	"X"	0	"andre_dyr"	8660	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I VEJR"	"I VEJR"	NA	NA	NA	0
+3462	"LE066"	"LE066"	"LE066"	"Skov-vejrandøje"	"Lasiommata maera"	"Large Wall Brown"	"X"	0	"andre_dyr"	8670	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SKVE"	"I SKVE"	NA	NA	NA	0
+3463	"LE067"	"LE067"	"LE067"	"Bjerg-vejrandøje"	"Lasiommata petropolitana"	"Northern Wall Brown"	"X"	0	"andre_dyr"	8680	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I BJER"	"I BJER"	NA	NA	NA	0
+3464	"LE068"	"LE068"	"LE068"	"Terningsommerfugl"	"Hamearis lucina"	"Duke  of Burgundy"	"X"	0	"andre_dyr"	8690	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I TERN"	"I TERN"	NA	NA	NA	0
+3465	"LE069"	"LE069"	"LE069"	"Guldhale"	"Thecla betulae"	"Brown Hairstreak"	"X"	0	"andre_dyr"	8700	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I GULD"	"I GULD"	NA	NA	NA	0
+3466	"LE070"	"LE070"	"LE070"	"Blåhale"	"Neozephyrus quercus"	"Purple Hairstreak"	"X"	0	"andre_dyr"	8710	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I BLÅH"	"I BLÅH"	NA	NA	NA	0
+3467	"LE071"	"LE071"	"LE071"	"Det Hvide W"	"Satyrium w-album"	"White-letter Hairstreak"	"X"	0	"andre_dyr"	8720	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I HVW"	"I HVW"	NA	NA	NA	0
+3468	"LE072"	"LE072"	"LE072"	"Egesommerfugl"	"Satyrium ilicis"	"Ilex Hairstreak"	"X"	0	"andre_dyr"	8730	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I EGES"	"I EGES"	NA	NA	NA	0
+3469	"LE073"	"LE073"	"LE073"	"Slåensommerfugl"	"Satyrium pruni"	"Black Hairstreak"	"X"	0	"andre_dyr"	8740	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SLÅE"	"I SLÅE"	NA	NA	NA	0
+3470	"LE074"	"LE074"	"LE074"	"Grøn Busksommerfugl"	"Callophrys rubi"	"Green Hairstreak"	"X"	0	"andre_dyr"	8750	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I GRBU"	"I GRBU"	NA	NA	NA	0
+3471	"LE075"	"LE075"	"LE075"	"Lille Ildfugl"	"Lycaena phlaeas"	"Small Copper"	"X"	0	"andre_dyr"	8760	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I LIIL"	"I LIIL"	NA	NA	NA	0
+3472	"LE076"	"LE076"	"LE076"	"Stor Ildfugl"	"Lycaena dispar"	"Large Copper"	"X"	0	"andre_dyr"	8770	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I STIL"	"I STIL"	NA	NA	NA	0
+3473	"LE077"	"LE077"	"LE077"	"Dukatsommerfugl"	"Lycaena virgaureae"	"Scarce Copper"	"X"	0	"andre_dyr"	8780	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I DUKA"	"I DUKA"	NA	NA	NA	0
+3474	"LE078"	"LE078"	"LE078"	"Sort Ildfugl"	"Lycaena tityrus"	"Sooty Copper"	"X"	0	"andre_dyr"	8790	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SOIL"	"I SOIL"	NA	NA	NA	0
+3475	"LE079"	"LE079"	"LE079"	"Violet Ildfugl"	"Lycaena alciphron"	"Purple-shot Copper"	"X"	0	"andre_dyr"	8800	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I VIIL"	"I VIIL"	NA	NA	NA	0
+3476	"LE080"	"LE080"	"LE080"	"Violetrandet Ildfugl"	"Lycaena hippothoe"	"Purple-edged Copper"	"X"	0	"andre_dyr"	8810	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I VIRI"	"I VIRI"	NA	NA	NA	0
+3477	"LE081"	"LE081"	"LE081"	"Dværgblåfugl"	"Cupido minimus"	"Little Blue"	"X"	0	"andre_dyr"	8820	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I DVÆR"	"I DVÆR"	NA	NA	NA	0
+3478	"LE082"	"LE082"	"LE082"	"Skovblåfugl"	"Celastrina argiolus"	"Lorquins Blue"	"X"	0	"andre_dyr"	8830	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SKBL"	"I SKBL"	NA	NA	NA	0
+3479	"LE083"	"LE083"	"LE083"	"Kløverblåfugl"	"Glaucopsyche alexis"	"Green-underside Blue"	"X"	0	"andre_dyr"	8840	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I KLØV"	"I KLØV"	NA	NA	NA	0
+3480	"LE084"	"LE084"	"LE084"	"Ensianblåfugl"	"Maculinea alcon"	"Alcon Blue"	"X"	0	"andre_dyr"	8850	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I ENSI"	"I ENSI"	NA	NA	NA	0
+3481	"LE085"	"LE085"	"LE085"	"Sortplettet Blåfugl"	"Maculinea arion"	"Large Blue"	"X"	0	"andre_dyr"	8860	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I SOPB"	"I SOPB"	NA	NA	NA	0
+3482	"LE086"	"LE086"	"LE086"	"Engblåfugl"	"Polyommatus semiargus"	"Mazarine Blue"	"X"	0	"andre_dyr"	8870	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"I ENGB"	"I ENGB"	NA	NA	NA	0
+3483	"LE087"	"LE087"	"LE087"	"Almindelig Blåfugl"	"Polyommatus icarus"	"Common Blue"	"X"	0	"andre_dyr"	8880	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I ALBL"	"I ALBL"	NA	NA	NA	0
+3484	"LE088"	"LE088"	"LE088"	"Isblåfugl"	"Polyommatus amandus"	"Amandas Blue"	"X"	0	"andre_dyr"	8890	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I ISBL"	"I ISBL"	NA	NA	NA	0
+3485	"LE089"	"LE089"	"LE089"	"Rødplettet Blåfugl"	"Aricia agestis"	"Brown Argus"	"X"	0	"andre_dyr"	8900	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I RØBL"	"I RØBL"	NA	NA	NA	0
+3486	"LE090"	"LE090"	"LE090"	"Sortbrun Blåfugl"	"Aricia artaxerxes"	"Mountain Argus"	"X"	0	"andre_dyr"	8910	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I SOBB"	"I SOBB"	NA	NA	NA	0
+3487	"LE091"	"LE091"	"LE091"	"Bølleblåfugl"	"Plebeius optilete"	"Cranberry Blue"	"X"	0	"andre_dyr"	8920	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I BØLL"	"I BØLL"	NA	NA	NA	0
+3488	"LE092"	"LE092"	"LE092"	"Argusblåfugl"	"Plebeius argus"	"Silver-studded Blue"	"X"	0	"andre_dyr"	8930	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I ARGU"	"I ARGU"	NA	NA	NA	0
+3489	"LE093"	"LE093"	"LE093"	"Foranderlig Blåfugl"	"Plebeius idas"	"Idas Blue"	"X"	0	"andre_dyr"	8940	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I FOBL"	"I FOBL"	NA	NA	NA	0
+3490	"LE200"	"LE200"	"LE200"	"Seksplettet Køllesværmer"	"Zygaena filipendulae"	"Six-spot Blue"	"X"	0	"andre_dyr"	8970	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I SEKØ"	"I SEKØ"	NA	NA	NA	0
+3491	"LE201"	"LE201"	"LE201"	"Metalvinge"	"Adscita statices"	"The Forester"	"X"	0	"andre_dyr"	8980	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I META"	"I META"	NA	NA	NA	0
+3492	"LE202"	"LE202"	"LE202"	"Egespinder"	"Lasiocampa quercus"	"Oak Eggar"	"X"	0	"andre_dyr"	8990	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I EGES"	"I EGES"	NA	NA	NA	0
+3493	"LE203"	"LE203"	"LE203"	"Græsspinder"	"Euthrix potatoria"	"The Drinker"	"X"	0	"andre_dyr"	9000	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I GRSP"	"I GRSP"	NA	NA	NA	0
+3494	"LE204"	"LE204"	"LE204"	"Brombærspinder"	"Macrothylacia rubi"	"Fox Moth"	"X"	0	"andre_dyr"	9010	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I BROM"	"I BROM"	NA	NA	NA	0
+3495	"LE205"	"LE205"	"LE205"	"Fyrrespinder"	"Dendrolimus pini"	"Pine-tree lapet"	"X"	0	"andre_dyr"	9020	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I FYSP"	"I FYSP"	NA	NA	NA	0
+3496	"LE206"	"LE206"	"LE206"	"Ringspinder"	"Malacosoma neustria"	"The Lackey"	"X"	0	"andre_dyr"	9030	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I RING"	"I RING"	NA	NA	NA	0
+3497	"LE207"	"LE207"	"LE207"	"Poppelspinder"	"Poecilocampa populi"	"December Moth"	"X"	0	"andre_dyr"	9040	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I POSP"	"I POSP"	NA	NA	NA	0
+3498	"LE208"	"LE208"	"LE208"	"Lille Natpåfugleøje"	"Saturnia pavonia"	"Emperor Moth"	"X"	0	"andre_dyr"	9050	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I LINA"	"I LINA"	NA	NA	NA	0
+3499	"LE209"	"LE209"	"LE209"	"Sømplet"	"Aglia tau"	"Tau Emperor"	"X"	0	"andre_dyr"	9060	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I SØMP"	"I SØMP"	NA	NA	NA	0
+3500	"LE210"	"LE210"	"LE210"	"Lindesværmer"	"Mimas tilia"	"Lime Hawk-moth"	"X"	0	"andre_dyr"	9070	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I LIND"	"I LIND"	NA	NA	NA	0
+3501	"LE211"	"LE211"	"LE211"	"Poppelsværmer"	"Laothoe populi"	"Poplar Hawk-moth"	"X"	0	"andre_dyr"	9080	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I POSV"	"I POSV"	NA	NA	NA	0
+3502	"LE212"	"LE212"	"LE212"	"Fyrresværmer"	"Hyloicus pinastri"	"Pine Hawk-moth"	"X"	0	"andre_dyr"	9090	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I FYSV"	"I FYSV"	NA	NA	NA	0
+3503	"LE213"	"LE213"	"LE213"	"Aftenpåfugleøje"	"Smerinthus ocellata"	"Eyed Hawk-moth"	"X"	0	"andre_dyr"	9100	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"I AFTE"	"I AFTE"	NA	NA	NA	0
+3504	"LE214"	"LE214"	"LE214"	"Ligustersværmer"	"Sphinx ligustri"	"Prived Hawk-moth"	"X"	0	"andre_dyr"	9110	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I LIGU"	"I LIGU"	NA	NA	NA	0
+3505	"LE215"	"LE215"	"LE215"	"Snerlesværmer"	"Agrius concolvuli"	"Convolvulus Hawk-moth"	"X"	0	"andre_dyr"	9120	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I SNLS"	"I SNLS"	NA	NA	NA	0
+3506	"LE216"	"LE216"	"LE216"	"Dødningehoved"	"Acherontia atropos"	"Deaths-head Hawk-moth"	"X"	0	"andre_dyr"	9130	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I DØDN"	"I DØDN"	NA	NA	NA	0
+3507	"LE217"	"LE217"	"LE217"	"Oleandersværmer"	"Daphnis nerii"	"Oleander Hawk-moth"	"X"	0	"andre_dyr"	9140	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I OLEA"	"I OLEA"	NA	NA	NA	0
+3508	"LE218"	"LE218"	"LE218"	"Vortemælksværmer"	"Hyles euphorniae"	"Spurge Hawk-moth"	"X"	0	"andre_dyr"	9150	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I VORT"	"I VORT"	NA	NA	NA	0
+3509	"LE219"	"LE219"	"LE219"	"Snerresværmer"	"Hyles gallii"	"Bedstraw Hawk-moth"	"X"	0	"andre_dyr"	9160	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I SNRS"	"I SNRS"	NA	NA	NA	0
+3510	"LE220"	"LE220"	"LE220"	"Dueurtsværmer"	"Deilephila elpenor"	"Elephant Hawk-moth"	"X"	0	"andre_dyr"	9170	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I DUEU"	"I DUEU"	NA	NA	NA	0
+3511	"LE221"	"LE221"	"LE221"	"Lille Vinsværmer"	"Deilephila porcellus"	"Small Elephant Hawk-moth"	"X"	0	"andre_dyr"	9180	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I LIVI"	"I LIVI"	NA	NA	NA	0
+3512	"LE222"	"LE222"	"LE222"	"Humlebisværmer"	"Hemaris fuciformis"	"Broad-bordered Bee Hawk-moth"	"X"	0	"andre_dyr"	9190	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I HUML"	"I HUML"	NA	NA	NA	0
+3513	"LE223"	"LE223"	"LE223"	"Duehale"	"Macroglossum stellaratum"	"Hummingbird Hawk-moth"	"X"	0	"andre_dyr"	9200	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I DUEH"	"I DUEH"	NA	NA	NA	0
+3514	"LE224"	"LE224"	"LE224"	"Hermelinskåbe"	"Cerura vinula"	"Puss Moth"	"X"	0	"andre_dyr"	9210	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I HERM"	"I HERM"	NA	NA	NA	0
+3515	"LE225"	"LE225"	"LE225"	"Bøgespinder"	"Stauropus fagi"	"Lobster Moth"	"X"	0	"andre_dyr"	9220	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I BØSP"	"I BØSP"	NA	NA	NA	0
+3516	"LE226"	"LE226"	"LE226"	"Måneplet"	"Phalera bucephala"	"Buff-tip"	"X"	0	"andre_dyr"	9230	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I MÅNE"	"I MÅNE"	NA	NA	NA	0
+3517	"LE227"	"LE227"	"LE227"	"Lille Måneplet"	"Clostera curtula"	"Chocolate-tip"	"X"	0	"andre_dyr"	9240	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I LIMÅ"	"I LIMÅ"	NA	NA	NA	0
+3518	"LE228"	"LE228"	"LE228"	"Porcelænsspinder"	"Pheosia tremula"	"Swallow Prominent"	"X"	0	"andre_dyr"	9250	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I PORC"	"I PORC"	NA	NA	NA	0
+3519	"LE229"	"LE229"	"LE229"	"Zigzagspinder"	"Eligmodonta ziczac"	"Pebble Prominent"	"X"	0	"andre_dyr"	9260	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I ZIGZ"	"I ZIGZ"	NA	NA	NA	0
+3520	"LE230"	"LE230"	"LE230"	"Kamelspinder"	"Ptilodon capucina"	"Coxcomb Prominent"	"X"	0	"andre_dyr"	9270	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"I KAME"	"I KAME"	NA	NA	NA	0
+3521	"LE231"	"LE231"	"LE231"	"Bøgenonne"	"Calliteara pudibunda"	"Pale Tussock"	"X"	0	"andre_dyr"	9280	NA	NA	"RE"	NA	NA	NA	NA	NA	NA	NA	"I BØNO"	"I BØNO"	NA	NA	NA	0
+3522	"LE232"	"LE232"	"LE232"	"Lille Penselspinder"	"Orgyia antiqua"	"The Vapourer"	"X"	0	"andre_dyr"	9290	NA	NA	"RE"	NA	NA	NA	NA	NA	NA	NA	"I LIPE"	"I LIPE"	NA	NA	NA	0
+3523	"LE233"	"LE233"	"LE233"	"Gulhale"	"Euproctis similis"	"Yellow-tail"	"X"	0	"andre_dyr"	9300	NA	NA	"RE"	NA	NA	NA	NA	NA	NA	NA	"I GULH"	"I GULH"	NA	NA	NA	0
+3524	"LE234"	"LE234"	"LE234"	"Nonne"	"Lymantria monacha"	"Black Arches"	"X"	0	"andre_dyr"	9310	NA	NA	"RE"	NA	NA	NA	NA	NA	NA	NA	"I NONN"	"I NONN"	NA	NA	NA	0
+3525	"LE235"	"LE235"	"LE235"	"Brun Bjørnespinder"	"Arctia caja"	"Garden Tiger"	"X"	0	"andre_dyr"	9320	NA	NA	"RE"	NA	NA	NA	NA	NA	NA	NA	"I BRBJ"	"I BRBJ"	NA	NA	NA	0
+3526	"LE236"	"LE236"	"LE236"	"Skovbjørn"	"Parasemia plantaginis"	"Wood Tiger"	"X"	0	"andre_dyr"	9330	NA	NA	"RE"	NA	NA	NA	NA	NA	NA	NA	"I SKBJ"	"I SKBJ"	NA	NA	NA	0
+3527	"LE237"	"LE237"	"LE237"	"Jomfrubjørn"	"Callimorpha dominula"	"Scarlet Tiger"	"X"	0	"andre_dyr"	9340	NA	NA	"RE"	NA	NA	NA	NA	NA	NA	NA	"I JOMF"	"I JOMF"	NA	NA	NA	0
+3528	"LE238"	"LE238"	"LE238"	"Kanelbjørn"	"Phragmatobia fuligonosa"	"Ruby Tiger"	"X"	0	"andre_dyr"	9350	NA	NA	"RE"	NA	NA	NA	NA	NA	NA	NA	"I KANE"	"I KANE"	NA	NA	NA	0
+3529	"LE239"	"LE239"	"LE239"	"Hvid Tigerspinder"	"Spilosoma lubricipeda"	"White Ermine"	"X"	0	"andre_dyr"	9360	NA	NA	"RE"	NA	NA	NA	NA	NA	NA	NA	"I HVTI"	"I HVTI"	NA	NA	NA	0
+3530	"LE240"	"LE240"	"LE240"	"Gul Tigerspinder"	"Spilosoma lutea"	"Buff Ermine"	"X"	0	"andre_dyr"	9370	NA	NA	"RE"	NA	NA	NA	NA	NA	NA	NA	"I GUTI"	"I GUTI"	NA	NA	NA	0
+3531	"LE241"	"LE241"	"LE241"	"Grå Tigerspinder"	"Diaphora mendica"	"Muslin Moth"	"X"	0	"andre_dyr"	9380	NA	NA	"RE"	NA	NA	NA	NA	NA	NA	NA	"I GRTI"	"I GRTI"	NA	NA	NA	0
+3532	"LE242"	"LE242"	"LE242"	"Smutugle"	"Noctua pronuba"	"Large Yellow Underwing"	"X"	0	"andre_dyr"	9390	NA	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	"I SMUT"	"I SMUT"	NA	NA	NA	0
+3533	"LE243"	"LE243"	"LE243"	"Gul Båndugle"	"Noctua fimbriata"	"Broad-bordered Yellow Underwing"	"X"	0	"andre_dyr"	9400	NA	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	"I GUBÅ"	"I GUBÅ"	NA	NA	NA	0
+3534	"LE244"	"LE244"	"LE244"	"Violetgrå Båndugle"	"Noctua janthina"	"Lesser Broad-bordered Yellow Underwing"	"X"	0	"andre_dyr"	9410	NA	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	"I VIBÅ"	"I VIBÅ"	NA	NA	NA	0
+3535	"LE245"	"LE245"	"LE245"	"Lyngugle"	"Anarta myrtilli"	"Beautiful Yellow Underwing"	"X"	0	"andre_dyr"	9420	NA	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	"I LYNG"	"I LYNG"	NA	NA	NA	0
+3536	"LE246"	"LE246"	"LE246"	"Rødt Ordensbånd"	"Catocala nupta"	"Red Underwing"	"X"	0	"andre_dyr"	9430	NA	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	"I RØOR"	"I RØOR"	NA	NA	NA	0
+3537	"MA001"	"MA001"	"MA001"	"Pindsvin"	"Erinaceus europaeus"	"Hedgehog"	"X"	0	"andre_dyr"	9610	NA	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	"P PIND"	"P PIND"	NA	NA	NA	0
+3538	"MA002"	"MA002"	"MA002"	"Muldvarp"	"Talpa europaea"	"European Mole"	"X"	0	"andre_dyr"	9620	NA	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	"P MULD"	"P MULD"	NA	NA	NA	0
+3539	"MA003"	"MA003"	"MA003"	"Almindelig Spidsmus"	"Sorex araneus"	"Eurasian Common Shrew"	"X"	0	"andre_dyr"	9630	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P ALSP"	"P ALSP"	NA	NA	NA	0
+3540	"MA004"	"MA004"	"MA004"	"Dværgspidsmus"	"Sorex minutus"	"Eurasian Pygmy Shrew"	"X"	0	"andre_dyr"	9640	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P DVSP"	"P DVSP"	NA	NA	NA	0
+3541	"MA005"	"MA005"	"MA005"	"Vandspidsmus"	"Neomys fodiens"	"Eurasian Water Shrew"	"X"	0	"andre_dyr"	9650	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P VASP"	"P VASP"	NA	NA	NA	0
+3542	"MA006"	"MA006"	"MA006"	"Brunflagermus"	"Nyctalus noctula"	"Noctule"	"X"	0	"andre_dyr"	9660	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P BRUN"	"P BRUN"	NA	NA	NA	0
+3543	"MA007"	"MA007"	"MA007"	"Sydflagermus"	"Eptesicus serotinus"	"Serotine"	"X"	0	"andre_dyr"	9670	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P SYDF"	"P SYDF"	NA	NA	NA	0
+3544	"MA008"	"MA008"	"MA008"	"Nordflagermus"	"Eptesicus nilssonii"	"Northern Bat"	"X"	0	"andre_dyr"	9680	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P NOFL"	"P NOFL"	NA	NA	NA	0
+3545	"MA009"	"MA009"	"MA009"	"Skimmelflagermus"	"Vespertilio murinus"	"Parti-coloured Bat"	"X"	0	"andre_dyr"	9690	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"P SKIM"	"P SKIM"	NA	NA	NA	0
+3546	"MA010"	"MA010"	"MA010"	"Langøret Flagermus"	"Plecotus auritus"	"Brown Long-eared Bat"	"X"	0	"andre_dyr"	9700	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"P LAFL"	"P LAFL"	NA	NA	NA	0
+3547	"MA011"	"MA011"	"MA011"	"Bredøret Flagermus"	"Barbastella barbastellus"	"Western Barbastella"	"X"	0	"andre_dyr"	9710	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"P BREF"	"P BREF"	NA	NA	NA	0
+3548	"MA012"	"MA012"	"MA012"	"Pipistrelflagermus/Dværgflagermus sp."	"Pipistrellus pipistrellus/P. pygmaeus sp."	"Common Pipistrelle/Soprano Pipistrelle sp."	"X"	0	"andre_dyr"	9720	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P DVFL"	"P DVFL"	NA	NA	NA	0
+3549	"MA013"	"MA013"	"MA013"	"Troldflagermus"	"Pipistrellus nathusii"	"Nathusius Pipistrelle"	"X"	0	"andre_dyr"	9730	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P TROL"	"P TROL"	NA	NA	NA	0
+3550	"MA014"	"MA014"	"MA014"	"Frynseflagermus"	"Myotis nattereri"	"Natterers Bat"	"X"	0	"andre_dyr"	9740	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"P FRYN"	"P FRYN"	NA	NA	NA	0
+3551	"MA015"	"MA015"	"MA015"	"Bechsteins Flagermus"	"Myotis bechsteinii"	"Bechsteins Bat"	"X"	0	"andre_dyr"	9750	NA	NA	"EN"	NA	NA	NA	NA	NA	NA	NA	"P BEFL"	"P BEFL"	NA	NA	NA	0
+3552	"MA016"	"MA016"	"MA016"	"Brandts Flagermus"	"Myotis brandtii"	"Brandts Bat"	"X"	0	"andre_dyr"	9760	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"P BRAF"	"P BRAF"	NA	NA	NA	0
+3553	"MA017"	"MA017"	"MA017"	"Skægflagermus"	"Myotis mystacinus"	"Whiskered Bat"	"X"	0	"andre_dyr"	9770	NA	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	"P SKÆG"	"P SKÆG"	NA	NA	NA	0
+3554	"MA018"	"MA018"	"MA018"	"Vandflagermus"	"Myotis daubentonii"	"Daubentons Bat"	"X"	0	"andre_dyr"	9780	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P VAFL"	"P VAFL"	NA	NA	NA	0
+3555	"MA019"	"MA019"	"MA019"	"Damflagermus"	"Myotis dasycneme"	"Pond Bat"	"X"	0	"andre_dyr"	9790	NA	NA	"VU"	"AY"	NA	NA	NA	NA	NA	NA	"P DAMF"	"P DAMF"	NA	NA	NA	0
+3556	"MA020"	"MA020"	"MA020"	"Hare"	"Lepus capensis"	"Brown Hare"	"X"	0	"andre_dyr"	9800	NA	NA	"LC"	"X"	NA	NA	NA	NA	"YV"	NA	"P HARE"	"P HARE"	NA	NA	NA	0
+3557	"MA021"	"MA021"	"MA021"	"Vildkanin"	"Oryctolagus cuniculus"	"Rabbit"	"X"	0	"andre_dyr"	9810	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"P VIKA"	"P VIKA"	NA	NA	NA	0
+3558	"MA022"	"MA022"	"MA022"	"Egern"	"Sciurus vulgaris"	"Red Squirrel"	"X"	0	"andre_dyr"	9820	NA	NA	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"P EGER"	"P EGER"	NA	NA	NA	0
+3559	"MA023"	"MA023"	"MA023"	"Hasselmus"	"Muscardinus avellanarius"	"Hazel Dormouse"	"X"	0	"andre_dyr"	9830	NA	NA	"EN"	NA	NA	NA	NA	NA	NA	NA	"P HASS"	"P HASS"	NA	NA	NA	0
+3560	"MA024"	"MA024"	"MA024"	"Birkemus"	"Sicista betulina"	"Northern Birch Mouse"	"X"	0	"andre_dyr"	9840	NA	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	"P BIRK"	"P BIRK"	NA	NA	NA	0
+3561	"MA025"	"MA025"	"MA025"	"Brun Rotte"	"Rattus norvegicus"	"Brown Rat"	"X"	0	"andre_dyr"	9850	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"P BRRO"	"P BRRO"	NA	NA	NA	0
+3562	"MA026"	"MA026"	"MA026"	"Husrotte"	"Rattus rattus"	"Black Rat"	"X"	0	"andre_dyr"	9860	NA	NA	"RE"	NA	NA	NA	NA	NA	NA	NA	"P HUSR"	"P HUSR"	NA	NA	NA	0
+3563	"MA027"	"MA027"	"MA027"	"Husmus"	"Mus musculus/domesticus"	"House Mouse"	"X"	0	"andre_dyr"	9870	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"P HUMU"	"P HUMU"	NA	NA	NA	0
+3564	"MA028"	"MA028"	"MA028"	"Halsbåndmus"	"Apodemus flavicollis"	"Yellow-necked Mouse"	"X"	0	"andre_dyr"	9880	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P HALS"	"P HALS"	NA	NA	NA	0
+3565	"MA029"	"MA029"	"MA029"	"Skovmus"	"Apodemus sylvaticus"	"Wood Mouse"	"X"	0	"andre_dyr"	9890	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"P SKMU"	"P SKMU"	NA	NA	NA	0
+3566	"MA030"	"MA030"	"MA030"	"Brandmus"	"Apodemus agrarius"	"Striped Field Mouse"	"X"	0	"andre_dyr"	9900	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P BRAN"	"P BRAN"	NA	NA	NA	0
+3567	"MA031"	"MA031"	"MA031"	"Dværgmus"	"Micromys minutus"	"Harvest Mouse"	"X"	0	"andre_dyr"	9910	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P DVMU"	"P DVMU"	NA	NA	NA	0
+3568	"MA032"	"MA032"	"MA032"	"Mosegris"	"Arvicola terrestris"	"European Water Vole"	"X"	0	"andre_dyr"	9920	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P MOSE"	"P MOSE"	NA	NA	NA	0
+3569	"MA033"	"MA033"	"MA033"	"Nordmarkmus"	"Microtus agrestis"	"Field Vole"	"X"	0	"andre_dyr"	9930	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P NOMA"	"P NOMA"	NA	NA	NA	0
+3570	"MA034"	"MA034"	"MA034"	"Sydmarkmus"	"Microtus arvalis"	"Common Vole"	"X"	0	"andre_dyr"	9940	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P SYDM"	"P SYDM"	NA	NA	NA	0
+3571	"MA035"	"MA035"	"MA035"	"Markmus sp."	"Microtus agrestis/arvalis"	"Field Vole/Common Vole"	"X"	0	"andre_dyr"	9950	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P MARK"	"P MARK"	NA	NA	NA	0
+3572	"MA036"	"MA036"	"MA036"	"Rødmus"	"Clethrionomys glareolus"	"Bank Vole"	"X"	0	"andre_dyr"	9960	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P RØDM"	"P RØDM"	NA	NA	NA	0
+3573	"MA037"	"MA037"	"MA037"	"Bisamrotte"	"Ondatra zibethica"	"Musk Rat"	"X"	0	"andre_dyr"	9970	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"P BISA"	"P BISA"	NA	NA	NA	0
+3574	"MA038"	"MA038"	"MA038"	"Ræv"	"Vulpes vulpes"	"Red Fox"	"X"	0	"andre_dyr"	9980	NA	NA	"NT"	NA	NA	NA	NA	NA	"YV"	NA	"P RÆV"	"P RÆV"	NA	NA	NA	0
+3575	"MA039"	"MA039"	"MA039"	"Grævling"	"Meles meles"	"Eurasian Badger"	"X"	0	"andre_dyr"	9990	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P GRÆV"	"P GRÆV"	NA	NA	NA	0
+3576	"MA040"	"MA040"	"MA040"	"Husmår"	"Martes foina"	"Beech Marten"	"X"	0	"andre_dyr"	10000	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"P HUMÅ"	"P HUMÅ"	NA	NA	NA	0
+3577	"MA041"	"MA041"	"MA041"	"Skovmår"	"Martes martes"	"Pine Marten"	"X"	0	"andre_dyr"	10010	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"P SKMÅ"	"P SKMÅ"	NA	NA	NA	0
+3578	"MA042"	"MA042"	"MA042"	"Ilder"	"Mustela putorius"	"Polecat"	"X"	0	"andre_dyr"	10020	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"P ILDE"	"P ILDE"	NA	NA	NA	0
+3579	"MA043"	"MA043"	"MA043"	"Mink"	"Mustela vison"	"American Mink"	"X"	0	"andre_dyr"	10030	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P MINK"	"P MINK"	NA	NA	NA	0
+3580	"MA044"	"MA044"	"MA044"	"Lækat"	"Mustela erminea"	"Stoat"	"X"	0	"andre_dyr"	10040	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"P LÆKA"	"P LÆKA"	NA	NA	NA	0
+3581	"MA045"	"MA045"	"MA045"	"Brud"	"Mustela nivalis"	"Weasel"	"X"	0	"andre_dyr"	10050	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"P BRUD"	"P BRUD"	NA	NA	NA	0
+3582	"MA046"	"MA046"	"MA046"	"Odder"	"Lutra lutra"	"European Otter"	"X"	0	"andre_dyr"	10060	NA	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	"P ODDE"	"P ODDE"	NA	NA	NA	0
+3583	"MA047"	"MA047"	"MA047"	"Kat"	"Felis catus"	"Domestic Cat"	"X"	0	"andre_dyr"	10070	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P KAT"	"P KAT"	NA	NA	NA	0
+3584	"MA048"	"MA048"	"MA048"	"Vaskebjørn"	"Procyon lotor"	"Racoon"	"X"	0	"andre_dyr"	10080	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"P VASK"	"P VASK"	NA	NA	NA	0
+3585	"MA049"	"MA049"	"MA049"	"Mårhund"	"Nyctereutes procyonoides"	"Racoon-dog"	"X"	0	"andre_dyr"	10090	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"P MÅRH"	"P MÅRH"	NA	NA	NA	0
+3586	"MA050"	"MA050"	"MA050"	"Spættet Sæl"	"Phoca vitulina"	"Common Seal"	"X"	0	"andre_dyr"	10100	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P SPSÆ"	"P SPSÆ"	NA	NA	NA	0
+3587	"MA051"	"MA051"	"MA051"	"Gråsæl"	"Halichoerus grypus"	"Grey Seal"	"X"	0	"andre_dyr"	10110	NA	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	"P GRÅS"	"P GRÅS"	NA	NA	NA	0
+3588	"MA052"	"MA052"	"MA052"	"Ringsæl"	"Phoca hispida"	"Ringed Seal"	"X"	0	"andre_dyr"	10120	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P RING"	"P RING"	NA	NA	NA	0
+3589	"MA053"	"MA053"	"MA053"	"Klapmyds"	"Cystophora cristata"	"Hooded Seal"	"X"	0	"andre_dyr"	10130	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P KLAP"	"P KLAP"	NA	NA	NA	0
+3590	"MA054"	"MA054"	"MA054"	"Grønlandssæl"	"Phoca groenlandica"	"Saddleback"	"X"	0	"andre_dyr"	10140	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P GRØN"	"P GRØN"	NA	NA	NA	0
+3591	"MA055"	"MA055"	"MA055"	"Hvalros"	"Odobenus rosmarus"	"Walrus"	"X"	0	"andre_dyr"	10150	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P HVAL"	"P HVAL"	NA	NA	NA	0
+3592	"MA056"	"MA056"	"MA056"	"Marsvin"	"Phocoena phocoena"	"Common Porpoise"	"X"	0	"andre_dyr"	10160	NA	NA	"LC"	"X"	NA	NA	NA	NA	NA	NA	"P MARS"	"P MARS"	NA	NA	NA	0
+3593	"MA057"	"MA057"	"MA057"	"Hvidnæse"	"Lagenorhynchus albirostris"	"White-beaked Porpoise"	"X"	0	"andre_dyr"	10170	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P HVNÆ"	"P HVNÆ"	NA	NA	NA	0
+3594	"MA058"	"MA058"	"MA058"	"Hvidskæving"	"Lagenorhynchus acutus"	"White-sided Porpoise"	"X"	0	"andre_dyr"	10180	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P HVSK"	"P HVSK"	NA	NA	NA	0
+3595	"MA059"	"MA059"	"MA059"	"Grindehval"	"Globicephala melas"	"Pilot Whale"	"X"	0	"andre_dyr"	10190	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P GRIN"	"P GRIN"	NA	NA	NA	0
+3596	"MA060"	"MA060"	"MA060"	"Spækhugger"	"Orcinus orca"	"Killer Whale"	"X"	0	"andre_dyr"	10200	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P SPÆK"	"P SPÆK"	NA	NA	NA	0
+3597	"MA061"	"MA061"	"MA061"	"Halvspækhugger"	"Pseudorca crassidens"	"False Killer Whale"	"X"	0	"andre_dyr"	10210	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P HALV"	"P HALV"	NA	NA	NA	0
+3598	"MA062"	"MA062"	"MA062"	"Rissos Delfin (Halvgrindehval)"	"Grampus griseus"	"Rissos Dolphin"	"X"	0	"andre_dyr"	10220	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P RIDE"	"P RIDE"	NA	NA	NA	0
+3599	"MA063"	"MA063"	"MA063"	"Øresvin"	"Tursiops truncatus"	"Bottle-nosed Dolphin"	"X"	0	"andre_dyr"	10230	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"P ØRES"	"P ØRES"	NA	NA	NA	0
+3600	"MA064"	"MA064"	"MA064"	"Almindelig Delfin"	"Delphinus delphis"	"Common Dolphin"	"X"	0	"andre_dyr"	10240	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P ALDE"	"P ALDE"	NA	NA	NA	0
+3601	"MA065"	"MA065"	"MA065"	"Hvidhval"	"Delphinapterus leucas"	"White Whale"	"X"	0	"andre_dyr"	10250	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P HVHV"	"P HVHV"	NA	NA	NA	0
+3602	"MA066"	"MA066"	"MA066"	"Døgling"	"Hyperoodon ampullatus"	"Northern Bottlenose Whale"	"X"	0	"andre_dyr"	10260	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P DØGL"	"P DØGL"	NA	NA	NA	0
+3603	"MA067"	"MA067"	"MA067"	"Almindelig Næbhval"	"Mesoplodon bidens"	"Sowerbys Beaked Whale"	"X"	0	"andre_dyr"	10270	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P ALNÆ"	"P ALNÆ"	NA	NA	NA	0
+3604	"MA068"	"MA068"	"MA068"	"Kaskelot"	"Physeter macrocephalus"	"Spermwhale"	"X"	0	"andre_dyr"	10280	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P KASK"	"P KASK"	NA	NA	NA	0
+3605	"MA069"	"MA069"	"MA069"	"Vågehval"	"Balaenoptera acutorostrata"	"Piked Whale"	"X"	0	"andre_dyr"	10290	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P VÅGE"	"P VÅGE"	NA	NA	NA	0
+3606	"MA070"	"MA070"	"MA070"	"Blåhval"	"Balaenoptera musculus"	"Blue Whale"	"X"	0	"andre_dyr"	10300	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P BLÅH"	"P BLÅH"	NA	NA	NA	0
+3607	"MA071"	"MA071"	"MA071"	"Finhval"	"Balaenoptera physalus"	"Fin Whale"	"X"	0	"andre_dyr"	10310	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P FINH"	"P FINH"	NA	NA	NA	0
+3608	"MA072"	"MA072"	"MA072"	"Sejhval"	"Balaenoptera borealis"	"Sei Whale"	"X"	0	"andre_dyr"	10320	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P SEJH"	"P SEJH"	NA	NA	NA	0
+3609	"MA073"	"MA073"	"MA073"	"Pukkelhval"	"Megaptera novaeanglia"	"Humpback Whale"	"X"	0	"andre_dyr"	10330	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P PUKK"	"P PUKK"	NA	NA	NA	0
+3610	"MA074"	"MA074"	"MA074"	"Vildsvin"	"Sus scrofa"	"Wild Boar"	"X"	0	"andre_dyr"	10340	NA	NA	"CR"	NA	NA	NA	NA	NA	NA	NA	"P VISV"	"P VISV"	NA	NA	NA	0
+3611	"MA075"	"MA075"	"MA075"	"Krondyr"	"Cervus elaphus"	"Red Deer"	"X"	0	"andre_dyr"	10350	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"P KRON"	"P KRON"	NA	NA	NA	0
+3612	"MA076"	"MA076"	"MA076"	"Dådyr"	"Dama dama"	"Fallow Deer"	"X"	0	"andre_dyr"	10360	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"P DÅDY"	"P DÅDY"	NA	NA	NA	0
+3613	"MA077"	"MA077"	"MA077"	"Sika"	"Cervus nippon"	"Sika Deer"	"X"	0	"andre_dyr"	10370	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"P SIKA"	"P SIKA"	NA	NA	NA	0
+3614	"MA078"	"MA078"	"MA078"	"Rådyr"	"Capreolus capreolus"	"Roe Deer"	"X"	0	"andre_dyr"	10380	NA	NA	"LC"	NA	NA	NA	NA	NA	"YV"	NA	"P RÅDY"	"P RÅDY"	NA	NA	NA	0
+3615	"RE001"	"RE001"	"RE001"	"Markfirben"	"Lacerta agilis"	"Sand Lizard"	"X"	0	"andre_dyr"	10560	NA	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	"K MARK"	"K MARK"	NA	NA	NA	0
+3616	"RE002"	"RE002"	"RE002"	"Almindelig Firben"	"Lacerta vivipara"	"Common Lizard"	"X"	0	"andre_dyr"	10570	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"K ALFI"	"K ALFI"	NA	NA	NA	0
+3617	"RE003"	"RE003"	"RE003"	"Stålorm"	"Anguis fragilis"	"Slow Worm"	"X"	0	"andre_dyr"	10580	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"K STÅL"	"K STÅL"	NA	NA	NA	0
+3618	"RE004"	"RE004"	"RE004"	"Snog"	"Natrix natrix"	"Grass Snake"	"X"	0	"andre_dyr"	10590	NA	NA	"LC"	"X"	NA	NA	NA	NA	NA	NA	"K SNOG"	"K SNOG"	NA	NA	NA	0
+3619	"RE005"	"RE005"	"RE005"	"Glatsnog"	"Coronella austriaca"	"Smooth Snake"	"X"	0	"andre_dyr"	10600	NA	NA	"DD"	NA	NA	NA	NA	NA	NA	NA	"K GLAT"	"K GLAT"	NA	NA	NA	0
+3620	"RE006"	"RE006"	"RE006"	"Æskulapsnog"	"Elaphe longissima"	"Aesculapian Snake"	"X"	0	"andre_dyr"	10610	NA	NA	"DD"	NA	NA	NA	NA	NA	NA	NA	"K ÆSKU"	"K ÆSKU"	NA	NA	NA	0
+3621	"RE007"	"RE007"	"RE007"	"Hugorm"	"Vipera berus"	"Adder"	"X"	0	"andre_dyr"	10620	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"K HUGO"	"K HUGO"	NA	NA	NA	0
+3622	"RE008"	"RE008"	"RE008"	"Europæisk Sumpskildpadde"	"Emys orbicularis"	"European Pond Turtle"	"X"	0	"andre_dyr"	10630	NA	NA	"DD"	NA	NA	NA	NA	NA	NA	NA	"K EUSU"	"K EUSU"	NA	NA	NA	0
+3623	"RE009"	"RE009"	"RE009"	"Læderskildpadde"	"Dermochelys coriacea"	"Leatherback Sea Turtle"	"X"	0	"andre_dyr"	10640	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"K LÆDE"	"K LÆDE"	NA	NA	NA	0
+3624	"RE010"	"RE010"	"RE010"	"Bastardskildpadde"	"Lepidochelys kempii"	"Kemps Ridley Sea Turtle"	"X"	0	"andre_dyr"	10650	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"K BAST"	"K BAST"	NA	NA	NA	0
+3625	"RE011"	"RE011"	"RE011"	"Uægte Karette"	"Caretta caretta"	"Loggerhead Sea Turtle"	"X"	0	"andre_dyr"	10660	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"K UÆKA"	"K UÆKA"	NA	NA	NA	0
+3626	NA	"10144"	NA	"Bjergpiber/Skærpiber"	"Anthus spinoletta/A. petrosus"	"Water Pipit/European Rock Pipit"	"H"	0	"ubestemt"	7050	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"S SKBJ"	"S SKBJ"	NA	NA	NA	0
+3627	NA	"01714"	NA	"Rustand x Gravand (hybrid)"	"Tadorna ferruginea x T. tadorna"	"Ruddy Shelduck x Common Shelduck"	"H"	0	"hybrid"	720	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H RUGR"	"H RUGR"	NA	NA	NA	0
+3628	NA	"11989"	NA	"Sjagger x Solsort (hybrid)"	"Turdus pilaris x T. merula"	"Fieldfare x Common Blackbird"	"H"	0	"hybrid"	6860	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H SJSO"	"H SJSO"	NA	NA	NA	0
+3631	"16634"	"16634"	"16634"	"Nordlig Gråsisken"	"Acanthis flammea"	"Common Redpoll"	"A"	0	"art"	7420	NA	"LC"	NA	NA	NA	NA	NA	NA	"YV"	NA	"STOGRÅ"	"STOGRÅ"	"5"	"9"	"S"	0
+3632	NA	"MA079"	"MA079"	"Bæver"	"Castor fiber"	"Beaver"	"X"	0	"andre_dyr"	10390	NA	NA	"EN"	NA	NA	NA	NA	NA	NA	NA	"P BÆVE"	"P BÆVE"	NA	NA	NA	0
+3633	"AM069"	"AM069"	"AM069"	"Salamander sp."	"Salamandridae"	"Newt sp."	"X"	0	"andre_dyr"	7960	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P SASP"	"P SASP"	NA	NA	NA	0
+3634	"AM079"	"AM079"	"AM079"	"Springpadder sp."	"Salientia"	"Frogs and Toads sp."	"X"	0	"andre_dyr"	7970	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P SSPA"	"P SSPA"	NA	NA	NA	0
+3635	"AM089"	"AM087"	"AM087"	"Butsnudet/Spidssnudet/Springfrø sp."	"Rana temporaria/arvalis/dalmatina sp."	"Common/Moor/Agile Frog sp."	"X"	0	"andre_dyr"	7980	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P BU-/"	"P BU-/"	NA	NA	NA	0
+3636	NA	"AM088"	"AM088"	"Tudse sp."	"Bufonidae"	"Toad sp."	"X"	0	"andre_dyr"	7990	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P TUSP"	"P TUSP"	NA	NA	NA	0
+3637	NA	"AM089"	"AM089"	"Ægte Frø sp."	"Ranidae"	"Frog sp."	"X"	0	"andre_dyr"	8000	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P ÆGFR"	"P ÆGFR"	NA	NA	NA	0
+3638	NA	"LE199"	"LE199"	"Sommerfugl sp."	"Lepidoptera"	"Butterflies sp."	"X"	0	"andre_dyr"	8960	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"I SSOM"	"I SSOM"	NA	NA	NA	0
+3639	"LE309"	"LE309"	"LE309"	"Sommerfugl/Natsværmer sp."	"Lepidoptera"	"Butterflies and Moths sp."	"X"	0	"andre_dyr"	9600	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"I SSON"	"I SSON"	NA	NA	NA	0
+3640	"MA080"	"MA080"	"MA080"	"Elg"	"Alces alces"	"Moose"	"X"	0	"andre_dyr"	10400	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"P ELG"	"P ELG"	NA	NA	NA	0
+3641	"MA109"	"MA109"	"MA109"	"Insektædere sp."	"Insectivora"	"Insectivores sp."	"X"	0	"andre_dyr"	10430	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P INSP"	"P INSP"	NA	NA	NA	0
+3642	"MA119"	"MA119"	"MA119"	"Spidsmus sp."	"Soricidae"	"Shrews sp."	"X"	0	"andre_dyr"	10440	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P SPID"	"P SPID"	NA	NA	NA	0
+3643	"MA129"	"MA129"	"MA129"	"Flagermus sp."	"Chiroptera"	"Bats sp."	"X"	0	"andre_dyr"	10450	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P FLSP"	"P FLSP"	NA	NA	NA	0
+3644	"MA139"	"MA139"	"MA139"	"Gnaver sp."	"Rodentia"	"Rodents sp."	"X"	0	"andre_dyr"	10460	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P GNSP"	"P GNSP"	NA	NA	NA	0
+3645	"MA149"	"MA149"	"MA149"	"Ægte Mus"	"Muridae"	"Typical Mice and Rats"	"X"	0	"andre_dyr"	10470	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P ÆGMU"	"P ÆGMU"	NA	NA	NA	0
+3646	"MA159"	"MA159"	"MA159"	"Studsmus sp."	"Microtidae"	"Voles sp."	"X"	0	"andre_dyr"	10480	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P STSP"	"P STSP"	NA	NA	NA	0
+3647	NA	"MA168"	"MA168"	"Skovmår/Husmår"	"Martes martes/M. foina"	"Pine -/Beech Marten"	"X"	0	"andre_dyr"	10490	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P MÅR"	"P MÅR"	NA	NA	NA	0
+3648	"MA169"	"MA169"	"MA169"	"Mårdyr sp."	"Mustelidae"	"Weasel, Mink, Badger, Marten, Otter sp."	"X"	0	"andre_dyr"	10500	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P MÅSP"	"P MÅSP"	NA	NA	NA	0
+3649	"MA179"	"MA179"	"MA179"	"Sæl sp."	"Pinnipedia"	"Seal sp."	"X"	0	"andre_dyr"	10510	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P SÆSP"	"P SÆSP"	NA	NA	NA	0
+3650	"MA189"	"MA189"	"MA189"	"Hval sp."	"Cetacea"	"Whale sp."	"X"	0	"andre_dyr"	10520	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P HVSP"	"P HVSP"	NA	NA	NA	0
+3651	"MA199"	"MA199"	"MA199"	"Hjort sp."	"Cervidae"	"Deer sp."	"X"	0	"andre_dyr"	10530	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"P HJSP"	"P HJSP"	NA	NA	NA	0
+3652	"RE109"	"RE109"	"RE109"	"Firben sp."	"Lacertidae"	"Lizard sp."	"X"	0	"andre_dyr"	10670	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"K FISP"	"K FISP"	NA	NA	NA	0
+3653	"RE119"	"RE119"	"RE119"	"Slange sp."	"Serpentes"	"Snake sp."	"X"	0	"andre_dyr"	10680	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"K SLSP"	"K SLSP"	NA	NA	NA	0
+3654	NA	"RE129"	"RE129"	"Skildpadde sp."	"Testudines"	"Turtle sp."	"X"	0	"andre_dyr"	10690	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"K SKSP"	"K SKSP"	NA	NA	NA	0
+3655	NA	"01808"	NA	"Amerikansk Pibeand x Pibeand (hybrid)"	"Mareca americana x M. penelope"	"American Wigeon x Eurasian Wigeon"	"HU"	0	"hybrid"	1070	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H PIAM"	"H PIAM"	NA	NA	NA	0
+3656	NA	"02530"	"02530"	"Rüppells Grib"	"Gyps rueppelli"	"Rüppell's Vulture"	"E"	0	"art"	4130	NA	"EN"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3657	NA	"01569"	NA	"Svanegås x Grågås (hybrid)"	"Anser cygnoides x A. anser"	"Swan Goose x Greylag Goose"	"H"	0	"hybrid"	90	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3658	NA	"02038"	NA	"Troldand/Bjergand"	"Aythya fuligula/A. marila"	"Tufted Duck/Greater Scaup"	"H"	0	"ubestemt"	840	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3659	NA	"02218"	NA	"Toppet Skallesluger/Stor Skallesluger"	"Mergus serrator/M. merganser"	"Red-breasted Merganser/Common Merganser"	"H"	0	"ubestemt"	630	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3660	NA	"02239"	NA	"Skallesluger sp."	"Mergus sp."	"Merganser sp."	"H"	0	"ubestemt"	640	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3661	NA	"02189"	NA	"Hvinand x Lille Skallesluger (hybrid)"	"Bucephala clangula x Mergellus albellus"	"Common Goldeneye x Smew"	"H"	0	"hybrid"	580	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3662	"10239"	"10239"	NA	"Vipstjert sp."	"Motacilla sp."	"Wagtail sp."	"H"	0	"ubestemt"	7220	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3663	"12610"	"12610"	"12610"	"Sardinsk Sanger"	"Curruca sarda"	"Marmora's Warbler"	"AU"	0	"art"	6190	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SARDIN"	"SARDIN"	NA	NA	NA	0
+3666	NA	"04445"	"04445"	"Østlig Kravetrappe"	"Chlamydotis macqueenii"	"Macqueen's Bustard"	"BU"	0	"art"	1840	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3667	NA	"06381"	"06380"	"Tejst, Baltisk (ssp. grylle)"	"Cepphus grylle grylle"	"Black Guillemot (ssp. grylle)"	"A"	0	"underart"	3320	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	460	NA	NA	NA	NA	NA	0
+3668	"05880"	"05880"	"05880"	"Audouinsmåge"	"Ichthyaetus audouinii"	"Audouin's Gull"	"AU"	0	"art"	3640	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"AUDOU"	"AUDOU"	NA	NA	NA	0
+3670	NA	"07085"	"07085"	"Munkeparakit"	"Myiopsitta monachus"	"Monk Parakeet"	"E"	0	"art"	5030	NA	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3671	NA	"07149"	NA	"Papegøje sp."	"Psittacidae"	"Parakeet/Parrot sp."	"H"	0	"ubestemt"	5040	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3673	"17530"	"17530"	"17530"	"Stribet Sanger"	"Setophaga striata"	"Blackpoll Warbler"	"AU"	0	"art"	7760	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3674	NA	"00259"	NA	"Madeira/Kap Verde/Desertas Petrel"	"Pterodroma madeira/feae/deserta"	"Zino's/Fea's/Desertas Petrel"	"HU"	0	"ubestemt"	1980	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3675	NA	"00362"	"00362"	"Atlantisk Skråpe"	"Calonectris borealis"	"Cory's Shearwater"	"AU"	0	"art"	2010	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3676	NA	"00459"	NA	"Balearskråpe/Almindelig Skråpe"	"Puffinus mauretanicus/P. puffinus"	"Balearic Shearwater/Manx Shearwater"	"H"	0	"ubestemt"	2050	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3677	NA	"00849"	NA	"Skarv sp."	"Phalacrocoracidae"	"Cormorant/Shag sp."	"H"	0	"ubestemt"	2380	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3678	NA	"01894"	NA	"Spidsand x Gråand (hybrid)"	"Anas acuta x A. platyrhynchos"	"Northern Pintail x Mallard"	"H"	0	"hybrid"	1130	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3679	NA	"02059"	NA	"Dykand sp. (Aythya sp.)"	"Aythya sp."	"Duck sp. (Aythya)"	"H"	0	"ubestemt"	900	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3680	NA	"03205"	"03200"	"Vandrefalk, Sibirisk (ssp. calidus)"	"Falco peregrinus calidus"	"Peregrine Falcon (ssp. calidus)"	"AU"	0	"underart"	4960	NA	"LC"	"VU"	NA	"X"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3681	NA	"04701"	"04700"	"Stor Præstekrave (ssp. hiaticula)"	"Charadrius hiaticula hiaticula"	"Common Ringed Plover (ssp. hiaticula)"	"A"	0	"underart"	2530	NA	"LC"	"VU"	NA	NA	NA	NA	NA	NA	540	NA	NA	NA	NA	NA	0
+3683	NA	"04939"	NA	"Brokfugl sp."	"Charadriinae"	"Lapwing/Plover sp."	"H"	0	"ubestemt"	2630	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3685	NA	"05461"	"05460"	"Rødben (ssp. totanus)"	"Tringa totanus totanus"	"Common Redshank (ssp. totanus)"	"A"	0	"underart"	3140	NA	"LC"	"NT"	NA	NA	NA	NA	NA	NA	1800	NA	NA	NA	NA	NA	0
+3686	NA	"05921"	"05920"	"Sølvmåge, Skandinavisk (ssp. argentatus)"	"Larus argentatus argentatus"	"European Herring Gull (ssp. argentatus)"	"A"	0	"underart"	3770	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3687	NA	"05928"	"05920"	"Sølvmåge, Britisk (ssp. argenteus)"	"Larus argentatus argenteus"	"European Herring Gull (ssp. argenteus)"	"A"	0	"underart"	3760	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3689	NA	"05981"	"05980"	"Hvidvinget Måge (ssp. glaucoides)"	"Larus glaucoides glaucoides"	"Iceland Gull (ssp. glaucoides)"	"AS"	0	"underart"	3850	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3690	NA	"06259"	NA	"Terne sp."	"Sterna/Clidonias/etc sp."	"Tern sp."	"H"	0	"ubestemt"	4070	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"3"	"11"	"V"	0
+3691	NA	"06341"	"06340"	"Lomvie, Nordlig (ssp. aalge)"	"Uria aalge aalge"	"Common Murre (ssp. aalge)"	"A"	0	"underart"	3400	NA	"LC"	"VU"	NA	NA	NA	NA	NA	NA	69000	NA	NA	NA	NA	NA	0
+3692	NA	"06342"	"06340"	"Lomvie, Sydlig (ssp. albionis)"	"Uria aalge albionis"	"Common Murre (ssp. albionis)"	"A"	0	"underart"	3420	NA	"LC"	"VU"	NA	NA	NA	NA	NA	NA	47000	NA	NA	NA	NA	NA	0
+3693	NA	"06343"	"06340"	"Lomvie, Arktisk (ssp. hyperborea)"	"Uria aalge hyperborea"	"Common Murre (ssp. hyperborea)"	"AU"	0	"underart"	3410	NA	"LC"	"VU"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3696	NA	"07069"	NA	"Due sp."	"Columbidae"	"Dove/Pigeon sp."	"H"	0	"ubestemt"	1520	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3697	NA	"07351"	"07350"	"Slørugle, Hvidbrystet (ssp. alba)"	"Tyto alba alba"	"Western Barn Owl (ssp. alba)"	"AU"	0	"underart"	4500	NA	"LC"	"VU"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3699	NA	"09923"	"09920"	"Landsvale, Libanonlandsvale (ssp. transitiva)"	"Hirundo rustica transitiva"	"Barn Swallow (ssp. transitiva)"	"U"	0	"underart"	5770	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3700	NA	"10669"	"10660"	"Gærdesmutte, Nordatlantisk (fridariensis/hirtensis/borealis)"	"Troglodytes troglodytes ssp. fridariensis/hirtensis/borealis"	"Eurasian Wren (ssp. fridariensis/hirtensis/borealis)"	"AU"	0	"underart"	6330	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3701	NA	"11391"	"11390"	"Sortstrubet Bynkefugl, Europæisk (ssp. rubicola)"	"Saxicola rubicola rubicola"	"European Stonechat (ssp. rubicola)"	"A"	0	"underart"	6610	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	"R RUBI"	"R RUBI"	NA	NA	NA	0
+3702	NA	"11399"	"11399"	"Sibirisk Bynkefugl"	"Saxicola maurus"	"Siberian Stonechat"	"AU"	0	"art"	6640	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3703	NA	"12739"	"12740"	"Gærdesanger, Steppe (ssp. halimodendri)"	"Curruca curruca halimodendri"	"Lesser Whitethroat (ssp. halimodendri)"	"AU"	0	"underart"	6140	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3704	NA	"13121"	"13120"	"Løvsanger, Almindelig (ssp. trochilus)"	"Phylloscopus trochilus trochilus"	"Willow Warbler (ssp. trochilus)"	"A"	0	"underart"	5910	NA	"LC"	"VU"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3705	NA	"13122"	"13120"	"Løvsanger, Nordlig (ssp. acredula)"	"Phylloscopus trochilus acredula"	"Willow Warbler (ssp. acredula)"	"A"	0	"underart"	5920	NA	"LC"	"VU"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3706	NA	"15249"	NA	"Tornskade sp."	"Lanius sp."	"Shrike sp."	"H"	0	"ubestemt"	5150	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3707	NA	"15601"	"15600"	"Allike, Almindelig (ssp. monedula)"	"Coloeus monedula monedula"	"Western Jackdaw (ssp. monedula)"	"A"	0	"underart"	5240	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3708	NA	"15602"	"15600"	"Allike, Halsbåndsallike (ssp. soemmerringii)"	"Coloeus monedula soemmerringii"	"Western Jackdaw (ssp. soemmerringii)"	"AS"	0	"underart"	5260	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3709	NA	"16649"	NA	"Sisken sp."	"Spinus/Acanthis sp."	"Spinus/Acanthis sp."	"H"	0	"ubestemt"	7460	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3710	NA	"16689"	NA	"Korsnæb sp."	"Loxia sp."	"Crossbill sp."	"H"	0	"ubestemt"	7500	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3711	NA	"19999"	NA	"Småfugl sp. (Pibere, Finker, Spurve o.lign.)"	"Passerinae"	"Passerine sp."	"H"	0	"ubestemt"	7790	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3712	NA	"24997"	NA	"Burfugl sp."	"Cage bird sp."	"Cage bird sp."	"H"	0	"ubestemt"	7800	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3713	NA	"24998"	NA	"Hybrid sp."	"Hybrid"	"Hybrid"	"H"	0	"hybrid"	7810	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3714	NA	"AM113"	"AM113"	"Grøn Frø han/Latterfrø hun"	"Rana esculenta/- ridibunda"	"Edible Frog male/Marsh Frog female"	"X"	0	"andre_dyr"	8010	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3715	NA	"LE247"	"LE247"	"Gammaugle"	"Autographa gamma"	"Silver Y"	"X"	0	"andre_dyr"	9440	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3716	NA	"MA081"	"MA081"	"Los"	"Felis lynx"	"Lynx"	"X"	0	"andre_dyr"	10410	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3717	NA	"01591"	"01590"	"Blisgås (ssp. albifrons)"	"Anser albifrons albifrons"	"Greater White-fronted Goose (ssp. albifrons)"	"A"	0	"underart"	410	NA	"LC"	NA	NA	"X"	NA	NA	NA	NA	NA	NA	NA	"6"	"9"	"S"	0
+3718	NA	"05321"	"05320"	"Stor Kobbersneppe (ssp. limosa)"	"Limosa limosa limosa"	"Black-tailed Godwit (ssp. limosa)"	"A"	0	"underart"	2710	NA	"NT"	"VU"	NA	NA	NA	NA	NA	NA	790	NA	NA	"3"	"9"	"V"	0
+3719	NA	"05901"	"05900"	"Stormmåge (ssp. canus)"	"Larus canus canus"	"Mew Gull (ssp. canus)"	"A"	0	"underart"	3680	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3720	NA	"06361"	"06360"	"Alk, Nordlig (ssp. torda)"	"Alca torda torda"	"Razorbill (ssp. torda)"	"A"	0	"underart"	3350	NA	"NT"	"VU"	NA	NA	NA	NA	NA	NA	2000	NA	NA	NA	NA	NA	0
+3721	NA	"10201"	"10200"	"Hvid Vipstjert (ssp. alba)"	"Motacilla alba alba"	"White Wagtail (ssp. alba)"	"A"	0	"underart"	7200	NA	"LC"	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3722	NA	"11461"	"11460"	"Stenpikker (ssp. oenanthe)"	"Oenanthe oenanthe oenanthe"	"Northern Wheatear (ssp. oenanthe)"	"A"	0	"underart"	6680	NA	"LC"	"VU"	NA	NA	NA	NA	NA	NA	NA	NA	NA	"4"	"10"	"V"	0
+3723	"15170"	"15170"	"15170"	"Langhalet Tornskade"	"Lanius schach"	"Long-tailed Shrike"	"AU"	0	"art"	5100	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3726	NA	"01664"	NA	"Canadagås x Bramgås (hybrid)"	"Branta canadensis x B. leucopsis"	"Canada Goose x Barnacle Goose"	"H"	0	"hybrid"	230	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3727	NA	"01794"	NA	"Pibeand x Gråand (hybrid)"	"Mareca penelope x Anas platyrhynchos"	"Eurasian Wigeon x Mallard"	"H"	0	"hybrid"	1030	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3728	NA	"01843"	NA	"Krikand x Gråand (hybrid)"	"Anas crecca x A. platyrhynchos"	"Eurasian Teal x Mallard"	"H"	0	"hybrid"	1150	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3729	NA	"01868"	NA	"Gråand x Troldand (hybrid)"	"Anas platyrhynchos x Aythya fuligula"	"Mallard x Tufted Duck"	"H"	0	"hybrid"	1100	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3730	NA	"01948"	NA	"Skeand x Gråand (hybrid)"	"Spatula clypeata x Anas platyrhynchos"	"Northern Shoveler x Mallard"	"H"	0	"hybrid"	950	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3731	NA	"05758"	NA	"Sorthovedet Måge x Hættemåge (hybrid)"	"Ichthyaetus melanocephalus x Chroicocephalus ridibundus"	"Mediterranean Gull x Black-headed Gull"	"H"	0	"hybrid"	3630	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3732	"06950"	"06950"	"06950"	"Sørgedue"	"Zenaida macroura"	"Mourning Dove"	"AU"	0	"art"	1510	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3733	NA	"MA212"	"MA212"	"Pipistrelflagermus"	"Pipistrellus pipistrellus"	"Common Pipistrelle"	"X"	0	"andre_dyr"	10540	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3734	NA	"MA312"	"MA312"	"Dværgflagermus"	"Pipistrellus pygmaeus"	"Soprano Pipistrelle"	"X"	0	"andre_dyr"	10550	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3735	NA	"01695"	"01695"	"Magellangås"	"Chloephaga picta"	"Upland Goose"	"E"	0	"art"	680	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3736	NA	"01697"	"01697"	"Tanggås"	"Chloephaga hybrida"	"Kelp Goose"	"E"	0	"art"	690	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1
+3737	NA	"01947"	NA	"Skeand x Knarand (hybrid)"	"Spatula clypeata x Mareca strepera"	"Northern Shoveler x Gadwall"	"H"	0	"hybrid"	940	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3738	NA	"18870"	"18870"	"Rosenbrystet Kernebider"	"Pheucticus ludovicianus"	"Rose-breasted Grosbeak"	"AU"	0	"art"	7770	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3740	"05960"	"05960"	"05960"	"Gråvinget Måge"	"Larus glaucescens"	"Glaucous-winged Gull"	"AU"	0	"art"	3880	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3741	"04660"	"04660"	"04660"	"Orientbraksvale"	"Glareola maldivarum"	"Oriental Pratincole"	"AU"	0	"art"	3250	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3742	"07970"	"07970"	"07970"	"Orientsejler"	"Apus pacificus"	"Pacific Swift"	"AU"	0	"art"	1590	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3743	"11570"	"11570"	"11570"	"Hvidkronet Stenpikker"	"Oenanthe leucopyga"	"White-crowned Wheatear"	"AU"	0	"art"	6740	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3747	NA	"09019"	NA	"Spætte sp."	"Picidae"	"Woodpecker sp."	"H"	0	"ubestemt"	4790	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3749	"16330"	"16330"	"16330"	"Rødøjet Vireo"	"Vireo olivaceus"	"Red-eyed Vireo"	"AU"	0	"art"	5050	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3750	NA	"07135"	"07135"	"Stor Alexanderparakit"	"Psittacula eupatria"	"Alexandrine Parakeet"	"E"	0	"art"	5010	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3751	NA	"01679"	NA	"Bramgås x Rødhalset Gås (hybrid)"	"Branta leucopsis x B. ruficollis"	"Barnacle Goose x Red-breasted Goose"	"H"	0	"hybrid"	170	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3752	NA	"01678"	NA	"Bramgås x Dværggås (hybrid)"	"Branta leucopsis x Anser erythropus"	"Barnacle Goose x Lesser White-fronted Goose"	"H"	0	"hybrid"	160	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3753	NA	"01867"	NA	"Gråand x Ederfugl (hybrid)"	"Anas platyrhynchos x Somateria mollissima"	"Mallard x Common Eider"	"H"	0	"hybrid"	1090	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3754	NA	"01615"	NA	"Grågås x Blisgås (hybrid)"	"Anser anser x A. albifrons"	"Greylag Goose x Greater White-fronted Goose"	"H"	0	"hybrid"	330	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3755	NA	"02063"	"02060"	"Ederfugl, Arktisk (ssp. borealis)"	"Somateria mollissima borealis"	"Common Eider (ssp. borealis)"	"AU"	0	"underart"	480	NA	"NT"	"NT"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3756	NA	"10179"	"10170"	"Gul Vipstjert, Almindelig x Gulhovedet (hybrid)"	"Motacilla flava flava x M. f. flavissima"	"Western Yellow Wagtail (flava x flavissima)"	"H"	0	"hybrid"	7150	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3757	NA	"LE094"	"LE094"	"Ilia"	"Apatura ilia"	"Lesser Purple Emperor"	"X"	0	"andre_dyr"	8950	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"ILIA"	"ILIA"	NA	NA	NA	0
+3758	NA	"05679"	NA	"Almindelig Kjove/Lille Kjove"	"Stercorarius parasiticus/S. longicaudus"	"Parasitic Jaeger/Long-tailed Jaeger"	"H"	0	"ubestemt"	3470	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3759	"11020"	"11020"	"11020"	"Dværgnattergal"	"Larvivora sibilans"	"Rufous-tailed Robin"	"AU"	0	"art"	6410	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"MANCHU"	"MANCHU"	NA	NA	NA	0
+3760	"MA082"	"MA082"	"MA082"	"Ulv"	"Canis lupus"	"Wolf"	"X"	0	"andre_dyr"	10420	NA	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	"ULV"	"ULV"	NA	NA	NA	0
+3761	"07920"	"07920"	"07920"	"Tornhalesejler"	"Hirundapus caudacutus"	"White-throated Needletail"	"AU"	0	"art"	1570	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"TORNHA"	"TORNHA"	NA	NA	NA	0
+3762	"11770"	"11770"	"11770"	"Olivenskovdrossel"	"Catharus ustulatus"	"Swainson's Thrush"	"AU"	0	"art"	6760	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"OLIVDR"	"OLIVDR"	NA	NA	NA	0
+3763	NA	"35670"	"35670"	"Påfugl"	"Pavo cristatus"	"Indian Peafowl"	"E"	0	"art"	1270	NA	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3764	NA	"02153"	"02153"	"Amerikansk Fløjlsand"	"Melanitta deglandi"	"White-winged Scoter"	"AU"	0	"art"	530	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"R DEGL"	"R DEGL"	NA	NA	NA	0
+3765	NA	"02078"	NA	"Kongeederfugl x Ederfugl (hybrid)"	"Somateria spectabilis x S. mollissima"	"King Eider x Common Eider"	"H"	0	"hybrid"	460	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H KOED"	"H KOED"	NA	NA	NA	0
+3766	NA	"01946"	NA	"Skeand x Blåvinget And (hybrid)"	"Spatula clypeata x S. discors"	"Northern Shoveler x Blue-winged Teal"	"HU"	0	"hybrid"	930	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"SKEBLA"	"SKEBLA"	NA	NA	NA	0
+3767	"04360"	"04360"	"04360"	"Prærietrane"	"Antigone canadensis"	"Sandhill Crane"	"AU"	0	"art"	1770	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"PRÆTRA"	"PRÆTRA"	NA	NA	NA	0
+3768	NA	"02450"	"02450"	"Beringshavørn"	"Haliaeetus pelagicus"	"Steller's Sea Eagle"	"EU"	0	"art"	4390	NA	"VU"	NA	NA	NA	NA	NA	NA	NA	NA	"BERHAV"	"BERHAV"	NA	NA	NA	0
+3769	"04870"	"04870"	"04870"	"Sporevibe"	"Vanellus spinosus"	"Spur-winged Lapwing"	"EU"	0	"art"	2600	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	"SPOVIB"	"SPOVIB"	NA	NA	NA	0
+3770	NA	"05850"	"05850"	"Tyndnæbbet Måge"	"Chroicocephalus genei"	"Slender-billed Gull"	"AU"	0	"art"	3550	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3771	NA	"03550"	"03550"	"Chukarhøne"	"Alectoris chukar"	"Chukar Partridge"	"E"	0	"art"	1220	NA	"LC"	"NA"	NA	NA	NA	NA	NA	NA	NA	"CHUKAR"	"CHUKAR"	NA	NA	NA	0
+3772	"11950"	"11950"	"11950"	"Gråstrubet Drossel"	"Turdus obscurus"	"Eyebrowed Thrush"	"AU"	0	"art"	6840	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3773	NA	"16420"	"16420"	"Kanariefugl"	"Serinus canaria"	"Atlantic Canary"	"E"	0	"art"	7540	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3774	NA	"40010"	"40010"	"Nymfeparakit"	"Nymphicus hollandicus"	"Cockatiel"	"E"	0	"art"	4990	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3775	NA	"40000"	"40000"	"Undulat"	"Melopsittacus undulatus"	"Budgerigar"	"E"	0	"art"	5000	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3776	NA	"12910"	"12910"	"Grøn Sanger"	"Phylloscopus nitidus"	"Green Warbler"	"AU"	0	"art"	6020	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3777	NA	"LE248"	"LE248"	"Skræpperodæder"	"Triodia sylvina"	"Orange Swift"	"X"	0	"andre_dyr"	9450	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3778	NA	"LE249"	"LE249"	"Konvalrodæder"	"Pharmacis lupulina"	"Common Swift"	"X"	0	"andre_dyr"	9460	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3779	"LE250"	"LE250"	"LE250"	"Blodplet"	"Tyria jacobaeae"	"Cinnabar Moth"	"X"	0	"andre_dyr"	9470	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	"BLODPL"	"BLODPL"	NA	NA	NA	0
+3780	NA	"LE251"	"LE251"	"Okkergul Bladmåler"	"Camptogramma bilineata"	"Yellow Shell"	"X"	0	"andre_dyr"	9480	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3781	NA	"LE252"	"LE252"	"Hvidvingemåler"	"Siona lineata"	"Black-veined Moth"	"X"	0	"andre_dyr"	9490	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3782	NA	"LE253"	"LE253"	"Sort Måler"	"Odezia atrata"	"Chimney Sweeper"	"X"	0	"andre_dyr"	9500	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3783	NA	"LE254"	"LE254"	"Syremåler"	"Timandra comae"	"Blood-vein"	"X"	0	"andre_dyr"	9510	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3784	NA	"LE255"	"LE255"	"Vinkelengmåler"	"Idaea aversata"	"Riband Wave"	"X"	0	"andre_dyr"	9520	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3785	NA	"LE256"	"LE256"	"Almindelig Spidsvingemåler"	"Scotopteryx chenopodiata"	"Shaded Broad-bar"	"X"	0	"andre_dyr"	9530	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3786	NA	"LE257"	"LE257"	"Frugttræ-Barkmåler"	"Peribatodes rhomboidaria"	"Willow Beauty"	"X"	0	"andre_dyr"	9540	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3787	NA	"LE258"	"LE258"	"Natsvalehale"	"Ourapteryx sambucaria"	"Swallow-tailed Moth"	"X"	0	"andre_dyr"	9550	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3788	NA	"LE259"	"LE259"	"Rodugle"	"Apamea monoglypha"	"Dark Arches"	"X"	0	"andre_dyr"	9560	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3789	NA	"LE260"	"LE260"	"Agatugle"	"Phlogophora meticulosa"	"Angle Shades"	"X"	0	"andre_dyr"	9570	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3790	NA	"LE261"	"LE261"	"Næbugle"	"Hypena proboscidalis"	"The Snout"	"X"	0	"andre_dyr"	9580	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3791	NA	"LE262"	"LE262"	"Husmoderugle"	"Scoliopteryx libatrix"	"The Herald"	"X"	0	"andre_dyr"	9590	NA	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3792	NA	"02749"	NA	"Høg sp."	"Accipiter sp."	"Hawk sp."	"H"	0	"ubestemt"	4370	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3793	NA	"02559"	NA	"Grib sp."	"Gypeatus/Gyps/Aegypticus/Neophron sp."	"Vulture sp."	"HU"	0	"ubestemt"	4170	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3794	NA	"01969"	NA	"Rødhovedet And x Taffeland (hybrid)"	"Netta rufina x Aythya ferina"	"Red-crested Pochard x Common Pochard"	"H"	0	"hybrid"	760	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3795	NA	"02619"	NA	"Blå Kærhøg x Steppehøg (hybrid)"	"Circus cyaneus x C. macrourus"	"Hen Harrier x Pallid Harrier"	"H"	0	"hybrid"	4300	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3796	"13050"	"13050"	"13050"	"Sinkiangløvsanger"	"Phylloscopus griseolus"	"Sulphur-bellied warbler"	"AU"	0	"art"	5890	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3797	"00461"	"00465"	"00465"	"Ægæerskråpe"	"Puffinus yelkouan"	"Yelkouan Shearwater"	"U"	0	"art"	2060	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3798	NA	"10181"	NA	"Citronvipstjert x Gul Vipstjert (hybrid)"	"Motacilla citreola x M. flava"	"Citrine Wagtail x Western Yellow Wagtail"	"H"	0	"hybrid"	7180	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3799	NA	"03930"	"03930"	"Kongefasan"	"Syrmaticus reevesii"	"Reeves's Pheasant"	"E"	0	"art"	1240	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"KFASAN"	"KFASAN"	NA	NA	NA	0
+3800	NA	"02051"	NA	"Lille Bjergand x Troldand (hybrid)"	"Aythya affinis x A. fuligula"	"Lesser Scaup x Tufted Duck"	"HU"	0	"hybrid"	880	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"LLBTRO"	"LLBTRO"	NA	NA	NA	0
+3801	NA	"11215"	"11210"	"Husrødstjert, Tien-Shan (ssp. phoenicuroides)"	"Phoenicurus ochruros phoenicuroides"	"Black Redstart (ssp. phoenicuroides)"	"U"	0	"underart"	6570	NA	NA	"NT"	NA	NA	NA	NA	NA	NA	NA	"ØSTHUS"	"ØSTHUS"	NA	NA	NA	0
+3802	NA	"05935"	NA	"Sølvmåge x Kaspisk Måge (hybrid)"	"Larus argentatus x L. cachinnans"	"European Herring Gull x Caspian Gull"	"H"	0	"hybrid"	3810	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"H SØKA"	"H SØKA"	NA	NA	NA	0
+3803	NA	"03960"	"03960"	"Guldfasan"	"Chrysolophus pictus"	"Golden Pheasant"	"E"	0	"art"	1250	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"GFASAN"	"GFASAN"	NA	NA	NA	0
+3804	NA	"01625"	NA	"Indisk Gås X Grågås (hybrid)"	"Anser indicus x A. anser"	"Bar-headed Goose x Greylag Goose (hybrid)"	"H"	0	"hybrid"	290	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"IGXGG"	"IGXGG"	NA	NA	NA	0
+3805	NA	"01626"	NA	"Indisk Gås X Canadagås (hybrid)"	"Anser indicus x Branta canadensis"	"Bar-headed Goose x Canada Goose (hybrid)"	"H"	0	"hybrid"	295	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"IGXCG"	"IGXCG"	NA	NA	NA	0
+3806	NA	"MA083"	"MA083"	"Guldsjakal"	"Canis aureus"	"Golden Jackal"	"X"	0	"andre_dyr"	10425	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"GSJAK"	"GSJAK"	NA	NA	NA	0
+3807	NA	"RE012"	"RE012"	"Nordamerikansk Terrapin"	"Trachemys scripta"	"Pond Slider"	"X"	0	"andre_dyr"	10665	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"K NTER"	"K NTER"	NA	NA	NA	0
+3808	NA	"16110"	"16110"	"Snefinke"	"Montifringilla nivalis"	"White-winged Snowfinch"	"AU"	0	"art"	6985	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"SNEFIN"	"SNEFIN"	NA	NA	NA	0
+3809	NA	"18710"	"18710"	"Gulbrynet Værling"	"Emberiza chrysophrys"	"Yellow-browed Bunting"	"AU"	0	"art"	7745	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"GBRVÆR"	"GBRVÆR"	NA	NA	NA	0
+3810	NA	"MA084"	"MA084"	"Muflon"	"Ovis ammon"	"Argali"	"X"	0	"andre_dyr"	10385	NA	NA	"NA"	NA	NA	NA	NA	NA	NA	NA	"P MUFL"	"P MUFL"	NA	NA	NA	0
+3811	NA	"00033"	"00033"	"Stillehavslom"	"Gavia pacifica"	"Pacific Loon"	"AU"	0	"art"	1875	NA	"LC"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3812	NA	"01866"	NA	"Gråand x Moskusand (hybrid)"	"Anas platyrhynchos x Cairina moschata"	"Mallard x Muscovy Duck"	"H"	0	"hybrid"	1105	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"MAXMU"	"MAXMU"	NA	NA	NA	0
+3813	NA	"11397"	"11399"	"Sibirisk Bynkefugl, Kaukasusbynkefugl (ssp. hemprichii)"	"Saxicola maurus hemprichii"	"Siberian Stonechat (ssp. hemprichii)"	"AU"	0	"underart"	6662	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3814	NA	"11392"	"11392"	"Japansk Bynkefugl"	"Saxicola stejnegeri"	"Stejneger's Stonechat"	"AU"	0	"art"	6665	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3816	NA	"12655"	"12655"	"Makisanger"	"Curruca subalpina"	"Moltoni's Warbler"	"U"	0	"art"	6163	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3817	NA	"12653"	"12654"	"Rødstrubet Sanger (ssp. albistriata)"	"Curruca cantillans albistriata"	"Eastern Subalpine Warbler (ssp. albistriata)"	"AU"	0	"underart"	6166	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3818	NA	"12651"	"12654"	"Rødstrubet Sanger (ssp. cantillans)"	"Curruca cantillans cantillans"	"Eastern Subalpine Warbler (ssp. cantillans)"	"AU"	0	"underart"	6167	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3819	NA	"11481"	"11481"	"Vestlig Middelhavsstenpikker"	"Oenanthe hispanica"	"Western Black-eared Wheatear"	"AU"	0	"art"	6725	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3820	NA	"11482"	"11482"	"Østlig Middelhavsstenpikker"	"Oenanthe melanoleuca"	"Eastern Black-eared Wheatear"	"AU"	0	"art"	6722	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3821	NA	"11398"	NA	"Sibirisk Bynkefugl/Japansk Bynkefugl"	"Saxicola maurus/S. stejnegeri"	"Siberian Stonechat/Stejneger's Stonechat"	"AU"	0	"ubestemt"	6668	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3822	NA	"02151"	""	"Amerikansk/Asiatisk Fløjlsand"	"Melanitta deglandi/M. stejnegeri"	"White-winged Scoter/Stejneger's Scoter"	"AU"	0	"ubestemt"	515	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1
+3823	NA	"01895"	NA	"Gråand x Knarand (hybrid)"	"Anas platyrhynchos x Mareca strepera"	"Mallard x Gadwall"	"H"	0	"hybrid"	1085	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3824	NA	"15920"	"15920"	"Spansk Spurv"	"Passer hispaniolensis"	"Spanish Sparrow"	"U"	0	"art"	6955	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"SPASPU"	"SPASPU"	NA	NA	NA	0
+3825	NA	"01677"	NA	"Bramgås x Dværgcanadagås (hybrid)"	"Branta leucopsis x B. hutchinsii"	"Barnacle Goose x Cackling Goose"	"H"	0	"hybrid"	155	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3826	NA	"12920"	"12920"	"Østlig Lundsanger"	"Phylloscopus plumbeitarsus"	"Two-barred Warbler"	"U"	0	"art"	6005	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"ØLUNDS"	"ØLUNDS"	NA	NA	NA	0
+3827	NA	"13432"	"13432"	"Tajgafluesnapper"	"Ficedula albicilla"	"Taiga Flycatcher"	"U"	0	"art"	6505	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"TAJFLU"	"TAJFLU"	NA	NA	NA	0
+3828	NA	"01893"	NA	"Spidsand x Pibeand (hybrid)"	"Anas acuta x Mareca penelope"	"Northern Pintail x Eurasian Wigeon"	"H"	0	"hybrid"	1125	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3829	NA	"05919"	"05919"	"Armensk Måge"	"Larus armenicus"	"Armenian Gull"	"AU"	0	"art"	3775	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"ARMÅGE"	"ARMÅGE"	NA	NA	NA	0
+3830	NA	"01797"	""	"Pibeand x Knarand (hybrid)"	"Mareca penelope x M. strepera"	"Eurasian Wigeon x Gadwall"	"H"	0	"hybrid"	1035	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3831	NA	"00490"	NA	"Tropeskråpe"	"Puffinus lherminieri"	"Audubon's Shearwater"	"AU"	0	"art"	2075	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3832	NA	"01526"	"01526"	"Sorthalset Svane"	"Cygnus melancoryphus"	"Black-necked Swan"	"E"	0	"art"	25	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3833	NA	"34130"	"34130"	"Afrikansk Skestork"	"Platalea alba"	"African Spoonbill"	"E"	0	"art"	2305	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3834	NA	"08000"	"08000"	"Lille Sejler"	"Apus affinis"	"Little Swift"	"U"	0	"art"	1595	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3835	NA	"12656"	"12656"	"Iberisk Sanger"	"Curruca iberiae"	"Western Subalpine Warbler"	"AU"	0	"art"	6162	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3836	NA	"12654"	"12654"	"Rødstrubet Sanger"	"Curruca cantillans"	"Eastern Subalpine Warbler"	"AU"	0	"art"	6165	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3837	NA	"01645"	NA	"Dværgsnegås x Bramgås (hybrid)"	"Anser rossii x Branta leucopsis"	"Ross's Goose x Barnacle Goose"	"H"	0	"hybrid"	275	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3838	NA	"04795"	NA	"Ørkenpræstekrave/Mongolsk Præstekrave"	"Charadrius leschenaultii/C. mongolus"	"Greater/Lesser Sand Plover"	"HU"	0	"ubestemt"	2585	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3839	NA	"07990"	"07990"	"Kaffersejler"	"Apus caffer"	"White-rumped Swift"	"U"	0	"art"	1592	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3840	NA	"11962"	"11962"	"Brundrossel"	"Turdus eunomus"	"Dusky Thrush"	"AU"	0	"art"	6875	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"BRUNDR"	"BRUNDR"	NA	NA	NA	0
+3841	NA	"02028"	NA	"Hvidøjet And x Troldand (hybrid)"	"Aythya nyroca x A. fuligula"	"Ferruginous Duck x Tufted Duck"	"HU"	0	"hybrid"	795	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3842	NA	"12747"	"12740"	"Gærdesanger, Sibirisk/Steppe (ssp. blythi/halimodendri)"	"Curruca curruca blythi/C. C. halimodendri"	"Lesser Whitethroat (ssp. blythi/halimodendri)"	"U"	0	"ubestemt"	6145	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
+3843	NA	"00700"	"00700"	"Brun Sule"	"Sula leucogaster"	"Brown Booby"	"AU"	0	"art"	2335	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0
